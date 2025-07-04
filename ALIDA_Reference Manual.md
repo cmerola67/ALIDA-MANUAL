@@ -1961,37 +1961,28 @@ describes the ALIDA general architecture.
 
 ## SCREAM
 
-![](media/image14.jpg){width="4.133243657042869in"
-height="1.6597255030621172in"}
+![image_061_image14.jpg](media/image_061_image14.jpg)
 
 > *Figure 2.5.1: SCREAM Project Logo*
 
-  ----------------------------------------------------------------------------
-      **Type**        **Start     **End Date**  **ENG Grant Amount**   **PM**
-                       Date**                                         
-  ----------------- ------------ -------------- --------------------- --------
-     CLOUD-EDGE     1 July 2020   30 June 2023          n.a.            n.a.
+| **Type** | **Start Date** | **End Date** | **ENG Grant Amount**  | **PM**|
+| --- | --- | --- | --- | --- |
+| CLOUD-EDGE | 1 July 2020 | 30 June 2023 | n.a. | n.a.|
 
-  ----------------------------------------------------------------------------
-
-*Table 2.5.5: SCREAM Project Info*
+> *Table 2.5.5: SCREAM Project Info*
 
 ### Partners
 
-![](media/image15.jpg){width="5.905527121609799in"
-height="0.7635629921259842in"}
+![](media/image_062_image15.jpg)
 
 > *Figure 2.5.2: SCREAM Partners Logo*
 
-+----------------------------------------------+-------------+-------------+
-| **Partner Name**                             | **Acronym** | **Country** |
-+=============================================:+:===========:+:===========:+
+
+| **Partner Name**                           | **Acronym** | **Country**   |
+| --- | --- | --- | 
 | Engineering Ingegneria Informatica S.p.A.    | ENG         | Italy       |
-+----------------------------------------------+-------------+-------------+
-| > Eka Srl                                    | EKA         | Italy       |
-+----------------------------------------------+-------------+-------------+
+| Eka Srl                                    | EKA         | Italy       |
 | IPREL Progetti Srl                           | IPREL       | Italy       |
-+----------------------------------------------+-------------+-------------+
 
 > *Table 2.5.6: SCREAM Partners*
 
@@ -2016,8 +2007,7 @@ predictive maintenance and decision support were exported and used
 within applications run on the Sofidel company's own machines, applied
 to real-time data.
 
-![](media/image16.jpg){width="5.9055260279965in"
-height="2.2567541557305337in"}
+![image_063_image16.jpg](media/image_063_image16.jpg)
 
 > *Figure 2.5.3: SCREAM Contribution 01*
 
@@ -2055,157 +2045,77 @@ models based on data stored within distributed data storage.
 
 ## Infinitech
 
-![](media/image17.png){width="2.8820002187226597in"
-height="0.36186351706036746in"}
+![image_064_image17.png](media/image_064_image17.png)
 
-*Figure 2.6.1: Infinitech Project Logo*
+> *Figure 2.6.1: Infinitech Project Logo*
 
-  ----------------------------------------------------------------------------
-      **Type**        **Start     **End Date**  **ENG Grant Amount**   **PM**
-                      Date**                                          
-  ---------------- ------------- -------------- --------------------- --------
-       ML-OPS       1 Octo 2019   31 Marc 2023          n.a.            n.a.
-
-  ----------------------------------------------------------------------------
+| **Type** | **Start Date** | **End Date** | **ENG Grant Amount**  | **PM**|
+| --- | --- | --- | --- | --- |
+| ML-OPS |      1 Octo 2019 |  31 Marc 2023  |        n.a.|            n.a.|
 
 > *Table 2.6.7: Infinitech Project Info*
 
 ### Partners
 
-![](media/image18.jpg){width="5.9055260279965in"
-height="2.4850448381452317in"}
+![image_065_image18.jpg](media/image_065_image18.jpg)
 
 > *Figure 2.6.2: Infinitech Partners Logo 01*
 
-+------------------------------------------+-------------+---------------+
-| **Partner Name**                         | **Acronym** | > **Country** |
-+=========================================:+:===========:+:=============:+
-| Engineering - Ingegneria Informatica Spa | ENG         | Italy         |
-+------------------------------------------+-------------+---------------+
-| > Atos Spain Sa                          | ATOS        | Spain         |
-+------------------------------------------+-------------+---------------+
-| > Ibm Israel - Science And Technology    | IBM         | Israel        |
-| > Ltd                                    |             |               |
-+------------------------------------------+-------------+---------------+
-| > Fujitsu Technology Solution            | FUJITSU     | France        |
-+------------------------------------------+-------------+---------------+
-| > Hewlett Packard Italiana Srl           | HP          | Italy         |
-+------------------------------------------+-------------+---------------+
-| > Singularlogic Anonymi Etaireia         | SAEP        | Greece        |
-| > Pliroforiakon Systimaton Kai           |             |               |
-| > Efarmogonpliroforikis                  |             |               |
-+------------------------------------------+-------------+---------------+
-| > Innovation Sprint                      | IS          | Belgium       |
-+------------------------------------------+-------------+---------------+
-| > Santander Uk Plc                       | SAN         | United Kindom |
-+------------------------------------------+-------------+---------------+
-| > Sia Spa                                | SIA         | Italy         |
-+------------------------------------------+-------------+---------------+
-| > Unicaja Banco Sa                       | UB          | Spain         |
-+------------------------------------------+-------------+---------------+
-| > National Bank Of Greece Sa             | NBG         | Greece        |
-+------------------------------------------+-------------+---------------+
-| > Aktif Yatirim Bankasi As               | AYB         | Türkiye       |
-+------------------------------------------+-------------+---------------+
-| > Banka Slovenije                        | BS          | Slovenia      |
-+------------------------------------------+-------------+---------------+
-| > Banking & Payments Federation Ireland  | BPFI        | Ireland       |
-| > Company Limited By Guarantee           |             |               |
-+------------------------------------------+-------------+---------------+
-| > Dynamis Ae Genikon Asfaleion           | DAGA        | Greece        |
-+------------------------------------------+-------------+---------------+
-| > Genillard & Co Gmbh                    | GEN         | Germany       |
-+------------------------------------------+-------------+---------------+
-| > Jrc Capital Management Consultancy &   | JRC         | Germany       |
-| > Research Gmbh                          |             |               |
-+------------------------------------------+-------------+---------------+
-| > Prive Services Europe Gmbh             | PSE         | Austria       |
-+------------------------------------------+-------------+---------------+
-| Crowdpolicy Psifiakes                    | CPSI        | Greece        |
-| Symmetoxikesypiresies                    |             |               |
-+------------------------------------------+-------------+---------------+
+
+| **Partner Name**                           | **Acronym** | **Country**   |
+| --- | --- | --- | 
+| Engineering Ingegneria Informatica S.p.A.    | ENG         | Italy       |
+| Atos Spain Sa                          | ATOS        | Spain         |
+| Ibm Israel - Science And Technology Ltd   | IBM         | Israel        |
+| Fujitsu Technology Solution            | FUJITSU     | France        |
+| Hewlett Packard Italiana Srl           | HP          | Italy         |
+| Singularlogic Anonymi Etaireia Pliroforiakon Systimaton Kai Efarmogonpliroforikis         | SAEP        | Greece        |
+| Innovation Sprint                      | IS          | Belgium       |
+| Santander Uk Plc                       | SAN         | United Kindom |
+| Sia Spa                                | SIA         | Italy         |
+| Unicaja Banco Sa                       | UB          | Spain         |
+| National Bank Of Greece Sa             | NBG         | Greece        |
+| Aktif Yatirim Bankasi As               | AYB         | Türkiye       |
+| Banka Slovenije                        | BS          | Slovenia      |
+| Banking & Payments Federation Ireland Company Limited By Guarantee  | BPFI        | Ireland       |
+| Dynamis Ae Genikon Asfaleion           | DAGA        | Greece        |
+| Genillard & Co Gmbh                    | GEN         | Germany       |
+| Jrc Capital Management Consultancy & Research Gmbh   | JRC         | Germany       |
+| Prive Services Europe Gmbh             | PSE         | Austria       |
+| Crowdpolicy Psifiakes Symmetoxikesypiresies                   | CPSI        | Greece        |
 | Poste Italiane - Spa                     | PI          | Italy         |
-+------------------------------------------+-------------+---------------+
 | Wenalyze                                 | WEN         | Spain         |
-+------------------------------------------+-------------+---------------+
 | Paris Europlace                          | PE          | France        |
-+------------------------------------------+-------------+---------------+
 | Copenhagen Fintech                       | CF          | Denmark       |
-+------------------------------------------+-------------+---------------+
-| Reportbrain Limited                      | RL          | United        |
-|                                          |             | Kingdom       |
-+------------------------------------------+-------------+---------------+
+| Reportbrain Limited                      | RL          | United Kingdom       |
 | Leanxcale Sl                             | LEAN        | Spain         |
-+------------------------------------------+-------------+---------------+
-| Gioumpitek Meleti Schediasmos Ylopoiisi  | GMSY        | Greece        |
-| Kai Polisi Ergon Pliroforikis Etaireia   |             |               |
-| Periorismenis Efthynis                   |             |               |
-+------------------------------------------+-------------+---------------+
+| Gioumpitek Meleti Schediasmos Ylopoiisi Kai Polisi Ergon Pliroforikis Etaireia Periorismenis Efthynis | GMSY        | Greece        |
 | Innov-Acts Limited                       | IAL         | Cyprus        |
-+------------------------------------------+-------------+---------------+
 | Unparallel Innovation Lda                | UI          | Portugal      |
-+------------------------------------------+-------------+---------------+
 | Roessingh Research And Development Bv    | RRAD        | Netherlands   |
-+------------------------------------------+-------------+---------------+
-| Etam Anonymh Etaireia Symboyleytikon Kai | EAES        | Greece        |
-| Melethtikon Ypireseion                   |             |               |
-+------------------------------------------+-------------+---------------+
+| Etam Anonymh Etaireia Symboyleytikon Kai Melethtikon Ypireseion | EAES        | Greece        |
 | Fondazione Bruno Kessler                 | FBK         | Italy         |
-+------------------------------------------+-------------+---------------+
 | University Of Galway                     | UG          | Ireland       |
-+------------------------------------------+-------------+---------------+
-| Uninova-Instituto De Desenvolvimento De  | UID         | Portugal      |
-| Novas Tecnologias-Associacao             |             |               |
-+------------------------------------------+-------------+---------------+
+| Uninova-Instituto De Desenvolvimento De Novas Tecnologias-Associacao | UID         | Portugal      |
 | Bogazici Universitesi                    | BU          | Türkiye       |
-+------------------------------------------+-------------+---------------+
 | Institut Jozef Stefan                    | IJS         | Slovenia      |
-+------------------------------------------+-------------+---------------+
-| Edex - Educational Excellence            | EDEX        | Cyprus        |
-| Corporation ltd                          |             |               |
-+------------------------------------------+-------------+---------------+
-| University Of Glasgow                    | UG          | United        |
-|                                          |             | Kingdom       |
-+------------------------------------------+-------------+---------------+
+| Edex - Educational Excellence Corporation ltd            | EDEX        | Cyprus        |
+| University Of Glasgow                    | UG          | United Kingdom       |
 | Association O.R.T                        | ORT         | France        |
-+------------------------------------------+-------------+---------------+
-| Fundacion Para La Promocion De La        | FPLAPDLI    | Spain         |
-| Innovacion Investigacion Y Desarrollo    |             |               |
-| Tecnologico En La Industria De           |             |               |
-| Automocion De Galicia                    |             |               |
-+------------------------------------------+-------------+---------------+
-| Fundacion Centro Tecnoloxico De          | FCT         | Spain         |
-| Telecomunicacions De Galicia             |             |               |
-+------------------------------------------+-------------+---------------+
-| Dwf Germany Rechtsanwaltsgesellschaft    | DWF         | Germany       |
-| Mbh                                      |             |               |
-+------------------------------------------+-------------+---------------+
-| Abi Lab-Centro Di Ricerca E Innovazione  | ABILAB      | Italy         |
-| Per La Banca                             |             |               |
-+------------------------------------------+-------------+---------------+
+| Fundacion Para La Promocion De La Innovacion Investigacion Y Desarrollo Tecnologico En La Industria De Spain  Automocion De Galicia     | FPLAPDLI    |     Spain     |
+| Fundacion Centro Tecnoloxico De Telecomunicacions De Galicia          | FCT         | Spain         |
+| Dwf Germany Rechtsanwaltsgesellschaft  Mbh  | DWF         | Germany       |
+| Abi Lab-Centro Di Ricerca E Innovazione Per La Banca    | ABILAB      | Italy         |
 | Bank Of Cyprus Public Company Ltd        | BCP         | Cyprus        |
-+------------------------------------------+-------------+---------------+
 | Caixabank Sa                             | CAIXA       | Spain         |
-+------------------------------------------+-------------+---------------+
 | Agricultural Applications Ike            | AAI         | Greece        |
-+------------------------------------------+-------------+---------------+
 | University Of Piraeus Research Center    | UPRC        | Greece        |
-+------------------------------------------+-------------+---------------+
 | Assentian Europe Limited                 | AEL         | Ireland       |
-+------------------------------------------+-------------+---------------+
-| Clear Communication Associates Ltd       | CCAL        | United        |
-|                                          |             | Kingdom       |
-+------------------------------------------+-------------+---------------+
+| Clear Communication Associates Ltd       | CCAL        | United Kingdom       |
 | Inneurope Initiative S.L.                | IISL        | Spain         |
-+------------------------------------------+-------------+---------------+
-| The Governor And Company Of The Bank Of  | BOI         | Ireland       |
-| Ireland                                  |             |               |
-+------------------------------------------+-------------+---------------+
-| Traffikanalysis Hub Limited              | THL         | United        |
-|                                          |             | Kingdom       |
-+------------------------------------------+-------------+---------------+
+| The Governor And Company Of The Bank Of Ireland | BOI         | Ireland       |
+| Traffikanalysis Hub Limited              | THL         | United  Kingdom      |
 | Nexi Payments Spa                        | NEXI        | Italy         |
-+------------------------------------------+-------------+---------------+
 
 > *Table 2.6.8: Infinitech Partners 01*
 
@@ -2223,8 +2133,7 @@ expert, which is useful for enriching the labelling of data, thus making
 the model increasingly performing with each training iteration. See
 *Figure 2.6.3: Infinitech Contributions 01*
 
-![](media/image19.jpg){width="5.9055260279965in"
-height="2.9932972440944883in"}
+![image_067_image19.jpg](media/image_067_image19.jpg)
 
 > *Figure 2.6.3: Infinitech Contributions 01*
 
@@ -2329,8 +2238,7 @@ is used both to access the data resulting from the execution of the
 workflows through the visualization component, and to ensure that SPARK
 can write and read the datasets stored into HDFS.
 
-![](media/image20.png){width="5.9055260279965in"
-height="4.245998468941382in"}
+![image_068_image20.png](media/image_068_image20.png)
 
 > *Figure 2.6.4: Infinitech Contribution 02*
 
@@ -2366,13 +2274,12 @@ The analysis of vast amounts of data will help to define relevant
 cyber-risk rating metrics and allow us to implement adaptive security
 measures and controls, based on real cyber-security postures.
 
-> Current implementation status on Pilot 10 is shown in *Figure 2.6.5:
-> Infinitech Contribution 03*.
+*Current implementation status on Pilot 10 is shown in Figure 2.6.5:
+Infinitech Contribution 03*.
 
-![](media/image21.jpg){width="5.9055260279965in"
-height="2.5221522309711286in"}
+![image_069_image21.jpg](media/image_069_image21.jpg)
 
-*Figure 2.6.5: Infinitech Contribution 03*
+> *Figure 2.6.5: Infinitech Contribution 03*
 
 Poste Italiane create Synthetic and Realistic data set on "Bank Transfer
 SEPA" transactions that are consistent with the real data present in the
@@ -2398,65 +2305,44 @@ fraud. After that the Stream processing would start labelling and
 detecting new incoming data in real time. But this part is not
 implemented yet.
 
-![](media/image22.png){width="5.9055260279965in"
-height="3.214400699912511in"}
+![image_070_image22.png](media/image_070_image22.png)
 
-*Figure 2.6.6: Infinitech Contribution 04*
+> *Figure 2.6.6: Infinitech Contribution 04*
 
-![](media/image23.png){width="5.9055260279965in"
-height="3.1471216097987753in"}
+![image_071_image23.png](media/image_071_image23.png)
 
-*Figure 2.6.7: Infinitech Contribution 05*
+> *Figure 2.6.7: Infinitech Contribution 05*
 
 ## OK-INSAID
 
-![](media/image24.jpg){width="5.001050962379702in"
-height="1.2265037182852143in"}
+![image_072_image24.jpg](media/image_072_image24.jpg)
 
 > *Figure 2.7.1: OK-INSAID Project Logo*
 
-  ---------------------------------------------------------------------------
-      **Type**        **Start     **End Date**  **ENG Grant Amount**  **PM**
-                      Date**                                         
-  ---------------- ------------- -------------- -------------------- --------
-     CLOUD-EDGE     1 Nove 2018   31 Marc 2022          n.a.           n.a.
-
-  ---------------------------------------------------------------------------
+| **Type** | **Start Date** | **End Date** | **ENG Grant Amount**  | **PM**|
+| --- | --- | --- | --- | --- |
+| CLOUD-EDGE |    1 Nove 2018 |  31 Marc 2022  |        n.a.   |        n.a. |
 
 > *Table 2.7.9:* OK-INSAID Project Info
 
 ### Partners
 
-![](media/image25.jpg){width="5.905527121609799in"
-height="0.710252624671916in"}
+![image_066_image25.jpg](media/image_066_image25.jpg)
 
 > *Figure 2.7.2: OK-INSAID Partners Logos*
 
-  ------------------------------------------------------------------------
-                            **Partner Name**  **Acronym**    **Country**
-  ------------------------------------------ -------------- --------------
-      Engineering Ingegneria Informatica Spa      ENG           Italy
-
-                                  EKA S.r.l.      EKA           Italy
-
-           Università degli Studi di Palermo     UNIPA          Italy
-
-                      Università del Salento     UNISAL         Italy
-
-          Consiglio Nazionale delle Ricerche      CNR           Italy
-
-                                     Cefriel    CEFRIEL         Italy
-
-                                 Tera S.r.l.      TERA          Italy
-
-                             Consorzio Calef     CALEF          Italy
-
-                              GE Avio S.r.l.      GEA           Italy
-
-                                       SACMI     SACMI          Italy
-
-                                                            
-  ------------------------------------------------------------------------
+| **Partner Name**                           | **Acronym** | **Country**   |
+| --- | --- | --- | 
+| Engineering Ingegneria Informatica S.p.A.    | ENG         | Italy       |
+| EKA S.r.l. |     EKA  |         Italy |
+| Università degli Studi di Palermo |    UNIPA |         Italy |
+| Università del Salento  |   UNISAL |        Italy |
+| Consiglio Nazionale delle Ricerche  |    CNR   |        Italy |
+| Cefriel |    CEFRIEL |         Italy |
+| Tera S.r.l. |      TERA  |        Italy |
+| Consorzio Calef  |   CALEF |         Italy |
+| GE Avio S.r.l.   |   GEA   |        Italy |
+| SACMI |    SACMI |         Italy |
 
 > *Table 2.7.10: OK-INSAID Partners*
 
@@ -2477,8 +2363,7 @@ the model** of the produced ML.
 This model guides company operators to the composition of the procedure,
 based on input parameters.
 
-![](media/image26.jpg){width="5.9055260279965in"
-height="2.0946095800524933in"}
+![image_001_image26.jpg](media/image_001_image26.jpg)
 
 > *Figure 2.7.3: OK-INSAID Contribution 01*
 
@@ -2497,11 +2382,11 @@ summarized as a system with the following capabilities:
 
 2.  Automatic signal processing, filtering, and feature extraction,
 
-3.  Data mining and knowledge discovery for diagnosis and prognosis,4.
-    Providing clear and concise information and advice on defects to the
-    user,
+3.  Data mining and knowledge discovery for diagnosis and prognosis,
 
-> 5\. Self-adaptation and optimization control.
+4.  Providing clear and concise information and advice on defects to the user,
+
+5. Self-adaptation and optimization control.
 
 ZDM Monitoring systems highlight that, in order to achieve zero defect
 manufacturing, new cost-effective tools for monitoring and optimizing
@@ -2573,7 +2458,7 @@ into:
 
 2.  **Model Testing \[PS4\] we could call it as S2;**
 
-3.  **Prediction on New Data \[PS5\]**we could call it as **S3.**
+3.  **Prediction on New Data \[PS5\]** we could call it as **S3.**
 
 The three services implemented on the Alida microservices platform were
 transformed into Docker images to make them portable and host them on
@@ -2611,82 +2496,59 @@ execution of application A1.
 2.7.8: OK-INSAID Contribution 06* shows a screenshot of the execution of
 application A2.
 
-![](media/image27.jpg){width="5.905527121609799in"
-height="3.3198972003499563in"}
 
-*Figure 2.7.4: OK-INSAID Contribution 02*
+![image_002_image27.jpg](media/image_002_image27.jpg)
 
-![](media/image28.jpg){width="5.905527121609799in"
-height="2.8256977252843396in"}
+> *Figure 2.7.4: OK-INSAID Contribution 02*
 
-*Figure 2.7.5: OK-INSAID Contribution 03*
+![image_003_image28.jpg](media/image_003_image28.jpg)
 
-![](media/image29.jpg){width="5.9055260279965in"
-height="2.844515529308836in"}
+> *Figure 2.7.5: OK-INSAID Contribution 03*
 
-*Figure 2.7.6: OK-INSAID Contribution 04*
+![image_004_image29.jpg](media/image_004_image29.jpg)
 
-![](media/image30.jpg){width="5.9055260279965in"
-height="3.396129702537183in"}
+> *Figure 2.7.6: OK-INSAID Contribution 04*
 
-*Figure 2.7.7: OK-INSAID Contribution 05*
+![image_005_image30.jpg](media/image_005_image30.jpg)
 
-![](media/image31.jpg){width="5.9055260279965in"
-height="3.3939129483814523in"}
+> *Figure 2.7.7: OK-INSAID Contribution 05*
 
-*Figure 2.7.8: OK-INSAID Contribution 06*
+![image_006_image31.jpg](media/image_006_image31.jpg)
+
+> *Figure 2.7.8: OK-INSAID Contribution 06*
 
 ## ICARUS
 
-![](media/image32.jpg){width="4.402073490813648in"
-height="1.170741469816273in"}
+![image_007_image32.jpg](media/image_007_image32.jpg)
 
 > *Figure 2.8.1: ICARUS Project Logo*
 
-  ----------------------------------------------------------------------------
-      **Type**        **Start     **End Date**  **ENG Grant Amount**   **PM**
-                      Date**                                          
-  ---------------- ------------- -------------- --------------------- --------
-       ML-OPS       1 Janu 2018   30 June 2021          n.a.            n.a.
+| **Type** | **Start Date** | **End Date** | **ENG Grant Amount**  | **PM**|
+| --- | --- | --- | --- | --- |
+| ML-OPS |      1 Janu 2018 |  30 June 2021  |        n.a.   |         n.a. |
 
-  ----------------------------------------------------------------------------
-
-*Table 2.8.11: ICARUS Project Info*
+> *Table 2.8.11: ICARUS Project Info*
 
 ### Partners
 
-![](media/image33.jpg){width="5.9055260279965in"
-height="1.593378171478565in"}
+![image_008_image33.jpg](media/image_008_image33.jpg)
 
 > *Figure 2.8.2: ICARUS Partners Logo*
 
-  -------------------------------------------------------------------------
-                               **Partner Name**  **Acronym**   **Country**
-  --------------------------------------------- ------------- -------------
-         Engineering Ingegneria Informatica Spa      ENG          Italy
 
-     PACE AEROSPACE ENGINEERING AND INFORMATION     PACE         Germany
-                                TECHNOLOGY GMBH               
-
-     SUITE5 DATA INTELLIGENCE SOLUTIONS LIMITED    SUITE5        Ireland
-
-                           UNIVERSITY OF CYPRUS    UNICYP        Cyprus
-
-            CINECA CONSORZIO INTERUNIVERSITARIO      CCI          Italy
-
-                 OAG AVIATION WORLDWIDE LIMITED      OAG           UK
-
-   SINGULARLOGIC ANONYMI ETAIREIA PLIROFORIAKON    SINGUL        Greece
-           SYSTIMATON KAI EFARMOGONPLIROFORIKIS               
-
-        ISTITUTO PER L'INTERSCAMBIO SCIENTIFICO      IIS          Italy
-
-                                    CELLOCK LTD    CELLOCK       Cyprus
-
-              ATHENS INTERNATIONAL AIRPORT S.A.      AIA         Greece
-
-         SUITE5 DATA INTELLIGENCE SOLUTIONS Ltd     SDIS         Cyprus
-  -------------------------------------------------------------------------
+| **Partner Name**                           | **Acronym** | **Country**   |
+| --- | --- | --- | 
+| Engineering Ingegneria Informatica S.p.A.    | ENG         | Italy       |
+| PACE AEROSPACE ENGINEERING AND INFORMATION TECHNOLOGY GMBH |   PACE |        Germany |
+| SUITE5 DATA INTELLIGENCE SOLUTIONS LIMITED  |  SUITE5 |        Ireland |
+| UNIVERSITY OF CYPRUS |    UNICYP |        Cyprus |
+| CINECA CONSORZIO INTERUNIVERSITARIO |     CCI  |         Italy |
+| OAG AVIATION WORLDWIDE LIMITED |     OAG |          UK |
+| SINGULARLOGIC ANONYMI ETAIREIA PLIROFORIAKON SYSTIMATON KAI EFARMOGONPLIROFORIKIS |   SINGUL |        Greece |
+| ISTITUTO PER L'INTERSCAMBIO SCIENTIFICO |     IIS  |        Italy |
+| CELLOCK LTD |   CELLOCK |      Cyprus |
+| ATHENS INTERNATIONAL AIRPORT S.A. |     AIA   |      Greece |
+| SUITE5 DATA INTELLIGENCE SOLUTIONS Ltd |    SDIS |        Cyprus |
 
 > *Table 2.8.12: ICARUS Partners*
 
@@ -2769,106 +2631,61 @@ to market.
 
 ## Agritech
 
-![](media/image34.png){width="3.3841272965879265in"
-height="1.6153160542432197in"}
+![image_009_image34.png](media/image_009_image34.png)
 
 > *Figure 2.9.1: Agritech Project Logo*
 
-  --------------------------------------------------------------------------
-      **Type**        **Start       **End     **ENG Grant Amount**   **PM**
-                       Date**      Date**                           
-  ----------------- ------------ ----------- ---------------------- --------
-       ML-OPS        Dece 2021    May 2024            n.a.            n.a.
-
-  --------------------------------------------------------------------------
+| **Type** | **Start Date** | **End Date** | **ENG Grant Amount**  | **PM**|
+| --- | --- | --- | --- | --- |
+| ML-OPS |       Dec 2021 |   May 2024 |           n.a. |           n.a. |
 
 > *Table 2.9.13: Agritech Project Info*
 
 ### Partners
 
-![Immagine che contiene testo, schermata, logo, grafica Descrizione
-generata automaticamente](media/image35.png){width="4.678393482064742in"
-height="3.2497134733158357in"}
+![image_010_image35.png](media/image_010_image35.png)
+
 
 > *Figure 2.9.2: Agritech Partners Logo*
 
-+---------------------------------------------+-------------+-------------+
-| **Partner Name**                            | **Acronym** | **Country** |
-+============================================:+:===========:+:===========:+
-| Engineering Ingegneria Informatica Spa      | ENG         | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Consiglio Nazionale delle Ricerche          | CNR         | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Università degli Studi di Bari              | UNIBA       | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Alma Mater Studiorum -- Università di       | UNIBO       | Italy       |
-| Bologna                                     |             |             |
-+---------------------------------------------+-------------+-------------+
-| Università degli Studi di Milano            | UNIMI       | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Università di Napoli Federico II            | UNINA       | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Università di Padova                        | UNIPD       | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Università di Siena                         | UNISI       | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Università degli Studi di Torino            | UNITO       | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Centro Euro-Med sui Cambiamenti Climatici   | CMCC        | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Consiglio per la ricerca in agricoltura e   | CREA        | Italy       |
-| l'analisi dell'economia agraria             |             |             |
-+---------------------------------------------+-------------+-------------+
-| New Technologies, Energy and                | ENEA        | Italy       |
-|                                             |             |             |
-| Sustainable Economic Development            |             |             |
-+---------------------------------------------+-------------+-------------+
-| Fondazione Edmund Mach                      | FEM         | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Politecnico di Milano                       | POLIMI      | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Politecnico di Torino                       | POLITO      | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Scuola Superiore Sant'Anna                  | SSSA        | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Università degli Studi della Basilicata     | UNIBAS      | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Università di Bolzano                       | UNIBZ       | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Università Campus Bio-Medico di Roma        | UCBM        | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Università Cattolica del Sacro Cuore        | UCSC        | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Università di Catania                       | UNICT       | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Università di Foggia                        | UNIFG       | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Università di Firenze                       | UNIFI       | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Università degli Studi di Genova            | UNIGE       | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Università di Perugia                       | UNIPG       | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Università di Pisa                          | UNIPI       | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Università di Parma                         | UNIPR       | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Università di Reggio Calabria               | UNIRC       | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Sapienza Università di Roma                 | UNIROMA     | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Università di Salerno                       | UNISA       | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Università di Sassari                       | UNISS       | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Università di Udine                         | UNIUD       | Italy       |
-+---------------------------------------------+-------------+-------------+
-| Università delle Marche                     | UNIVPM      | Italy       |
-+---------------------------------------------+-------------+-------------+
-|                                             |             |             |
-+---------------------------------------------+-------------+-------------+
 
-*Table 2.9.14: Agritech Partners*
+| **Partner Name**                           | **Acronym** | **Country**   |
+| --- | --- | --- | 
+| Engineering Ingegneria Informatica S.p.A.    | ENG         | Italy       |
+| Consiglio Nazionale delle Ricerche          | CNR         | Italy       |
+| Università degli Studi di Bari              | UNIBA       | Italy       |
+| Alma Mater Studiorum -- Università di Bologna      | UNIBO       | Italy       |
+| Università degli Studi di Milano            | UNIMI       | Italy       |
+| Università di Napoli Federico II            | UNINA       | Italy       |
+| Università di Padova                        | UNIPD       | Italy       |
+| Università di Siena                         | UNISI       | Italy       |
+| Università degli Studi di Torino            | UNITO       | Italy       |
+| Centro Euro-Med sui Cambiamenti Climatici   | CMCC        | Italy       |
+| Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria    | CREA        | Italy       |
+| New Technologies, Energy and Sustainable Economic Development                | ENEA        | Italy       |
+| Fondazione Edmund Mach                      | FEM         | Italy       |
+| Politecnico di Milano                       | POLIMI      | Italy       |
+| Politecnico di Torino                       | POLITO      | Italy       |
+| Scuola Superiore Sant'Anna                  | SSSA        | Italy       |
+| Università degli Studi della Basilicata     | UNIBAS      | Italy       |
+| Università di Bolzano                       | UNIBZ       | Italy       |
+| Università Campus Bio-Medico di Roma        | UCBM        | Italy       |
+| Università Cattolica del Sacro Cuore        | UCSC        | Italy       |
+| Università di Catania                       | UNICT       | Italy       |
+| Università di Foggia                        | UNIFG       | Italy       |
+| Università di Firenze                       | UNIFI       | Italy       |
+| Università degli Studi di Genova            | UNIGE       | Italy       |
+| Università di Perugia                       | UNIPG       | Italy       |
+| Università di Pisa                          | UNIPI       | Italy       |
+| Università di Parma                         | UNIPR       | Italy       |
+| Università di Reggio Calabria               | UNIRC       | Italy       |
+| Sapienza Università di Roma                 | UNIROMA     | Italy       |
+| Università di Salerno                       | UNISA       | Italy       |
+| Università di Sassari                       | UNISS       | Italy       |
+| Università di Udine                         | UNIUD       | Italy       |
+| Università delle Marche                     | UNIVPM      | Italy       |
+
+> *Table 2.9.14: Agritech Partners*
 
 ### Case Overview
 
@@ -2883,8 +2700,7 @@ analytical results to a traceability system that will expose the outcome
 during the scanning phase of the QR code displayed on the finished
 product.
 
-![](media/image36.jpg){width="5.9055260279965in"
-height="2.920171697287839in"}
+![image_011_image36.jpg](media/image_011_image36.jpg)
 
 > *Figure 2.9.3: Agritech Contribution 01*
 
@@ -2897,9 +2713,9 @@ data. Here's how you could use ALIDA in an Agritech project (*Figure
 
 1.  Data Collection and Preprocessing
 
-> ALIDA can assist in collecting data from various sources such as IoT
-> sensors, satellite images, and existing databases. Additionally, it
-> provides tools for data preprocessing:
+ALIDA can assist in collecting data from various sources such as IoT
+sensors, satellite images, and existing databases. Additionally, it
+provides tools for data preprocessing:
 
 - Data Cleaning: Removing missing or anomalous data.
 
@@ -2909,7 +2725,7 @@ data. Here's how you could use ALIDA in an Agritech project (*Figure
 
 2.  Data Analysis
 
-> ALIDA offers numerous algorithms for analyzing agricultural data:
+ALIDA offers numerous algorithms for analyzing agricultural data:
 
 - Statistical Analysis: To understand trends in crop yield data, climate
   data, etc.
@@ -2922,8 +2738,8 @@ data. Here's how you could use ALIDA in an Agritech project (*Figure
 
 3.  Data Visualization
 
-> Effectively visualizing data is crucial for making informed decisions.
-> ALIDA provides tools to create:
+Effectively visualizing data is crucial for making informed decisions.
+ALIDA provides tools to create:
 
 - Interactive Charts: To dynamically explore data.
 
@@ -2934,7 +2750,7 @@ data. Here's how you could use ALIDA in an Agritech project (*Figure
 
 4.  Process Automation
 
-> In the context of Agritech, automation can increase efficiency:
+In the context of Agritech, automation can increase efficiency:
 
 - Automated Data Collection: Using sensors and drones to collect data
   automatically.
@@ -2968,38 +2784,38 @@ how you could use ALIDA:
 
 1.  Data Collection:
 
-> Collect data from soil moisture sensors, weather stations, and
-> satellite images.
+Collect data from soil moisture sensors, weather stations, and
+satellite images.
 
 2.  Preprocessing:
 
-> Clean and normalize the data to ensure quality.
+Clean and normalize the data to ensure quality.
 
 3.  Predictive Analysis:
 
-> Use machine learning algorithms to predict corn yields based on future
-> weather conditions.
+Use machine learning algorithms to predict corn yields based on future
+weather conditions.
 
 4.  Visualization:
 
-> Create maps and charts showing yield predictions and water stress
-> areas.
+Create maps and charts showing yield predictions and water stress
+areas.
 
 5.  Automation:
 
-> Implement a system that sends notifications to farmers when it's time
-> to irrigate or fertilize based on predictions and real-time data.
+Implement a system that sends notifications to farmers when it's time
+to irrigate or fertilize based on predictions and real-time data.
 
 In conclusion, ALIDA can be a powerful tool in an Agritech project,
 offering advanced functionalities for data collection, analysis,
 visualization, and automation to improve agricultural efficiency and
 productivity.
 
-# Part II
+# **Part II**
 
-# User Guide
+## User Guide
 
-# Data Access\* 
+## Data Access
 
 *(\*ChatGPT and CoPilot)*
 
@@ -3132,24 +2948,15 @@ multiple systems or replicas over time.
 - **Version Control**: Ensures the correct sequence of updates (e.g.,
   timestamps or vector clocks).
 
-  ------------------------------------------------------------------------
-  Aspect           Replication               Synchronization
-  ---------------- ------------------------- -----------------------------
-  Scope            Copies data to multiple   Ensures consistency across
-                   locations.                locations.
+|  **Aspect** |           **Replication** |       **Synchronization** |
+| --- | --- | --- |
+| **Scope** |             Copies data to multiple locations | Ensures consistency acrosslocations |
+| **Directionality** |    Often one-way (primary to replica) | Can be one-way or two-way |
+| **Real-Time Need** |   Often synchronous or asynhcronous |    Typically focuses on eventual consistency |
+| **Goal** |             Redundancy and availability |           Consistency and coordination |
 
-  Directionality   Often one-way (primary to Can be one-way or two-way.
-                   replica).                 
+> *Table 1.2.2 - Key Differences Between Replication and Synchronization*
 
-  Real-Time Need   Often synchronous or      Typically focuses on eventual
-                   asynchronous.             consistency.
-
-  Goal             Redundancy and            Consistency and coordination.
-                   availability.             
-  ------------------------------------------------------------------------
-
-  : Table 1.2.2 - Key Differences Between Replication and
-  Synchronization
 
 **Use Cases**
 
@@ -3302,7 +3109,7 @@ automation.
 
 - Error handling and recovery mechanisms.
 
-### Advanced Scalability & Performance
+#### *Advanced Scalability & Performance*
 
 - Parallel processing for large datasets.
 
@@ -3310,7 +3117,7 @@ automation.
 
 - Distributed ETL frameworks for big data (e.g., Apache Spark).
 
-### Security & Governance
+#### *Security & Governance*
 
 - Data encryption during transfer and storage.
 
@@ -3318,7 +3125,7 @@ automation.
 
 - Compliance features for regulations like GDPR, HIPAA, or CCPA.
 
-### Integration with Modern Architectures
+#### *Integration with Modern Architectures*
 
 - ELT workflows for big data (using tools like BigQuery, Databricks).
 
@@ -3326,7 +3133,7 @@ automation.
 
 - Integration with CI/CD pipelines for DevOps workflows.
 
-> **Common Use Cases:**
+**Common Use Cases:**
 
 - Real-time analytics for IoT or streaming platforms.
 
@@ -3336,27 +3143,15 @@ automation.
 
 **Comparison: Basic vs. Advanced ETL**
 
-  -----------------------------------------------------------------------
-  Aspect             Basic ETL               Advanced ETL
-  ------------------ ----------------------- ----------------------------
-  Data Sources       Relational databases,   NoSQL, APIs, streaming, IoT,
-                     files                   cloud
 
-  Data Volume        Small to moderate       Large-scale and distributed
-
-  Processing         Batch processing        Batch, real-time, streaming
-
-  Transformation     Simple cleaning,        Complex, AI-driven
-                     aggregations            transformations
-
-  Scalability        Limited                 Highly scalable
-                                             (cloud/distributed)
-
-  Governance         Minimal                 Advanced security and
-                                             compliance
-
-                                             
-  -----------------------------------------------------------------------
+| **ASPECT** | **BASIC ETL** | **ADVANCED ETL** |
+| --- | --- | --- | 
+| **Data Sources** |       Relational databases, files |   NoSQL, APIs, streaming, IoT, cloud |
+|  **Data Volume** |        Small to moderate    |   Large-scale and distributed |
+| **Processing** |         Batch processing   |     Batch, real-time, streaming |
+| **Transformation** |     Simple cleaning, aggregations  |     Complex, AI-driven transformations |
+| **Scalability** |        Limited     |            Highly scalable (cloud/distributed) |
+| **Governance** |         Minimal             |    Advanced security and compliance |
 
 ### In ALIDA
 
@@ -3364,31 +3159,31 @@ automation.
 
 ## Hybrid and Multi Cloud Data Sources
 
-> Hybrid and multi-cloud strategies are increasingly popular for
-> managing data sources in modern IT environments. Here's a brief
-> overview of each:
+Hybrid and multi-cloud strategies are increasingly popular for
+managing data sources in modern IT environments. Here's a brief
+overview of each:
 
 ### Hybrid Cloud
 
-> A hybrid cloud combines on-premises infrastructure (private cloud)
-> with public cloud services. This setup allows data and applications to
-> move between the two environments, providing greater flexibility and
-> more deployment options. [Hybrid clouds are often used to meet
-> regulatory requirements, maximize existing infrastructure investments,
-> and reduce latency by processing data closer to where it is
-> generated](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/).
+A hybrid cloud combines on-premises infrastructure (private cloud)
+with public cloud services. This setup allows data and applications to
+move between the two environments, providing greater flexibility and
+more deployment options. [Hybrid clouds are often used to meet
+regulatory requirements, maximize existing infrastructure investments,
+and reduce latency by processing data closer to where it is
+generated](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/).
 
 ### Multi-Cloud
 
-> Multi-cloud refers to the use of multiple cloud services from
-> different providers. This approach allows organizations to choose the
-> best services for specific tasks, enhancing flexibility and reducing
-> dependency on a single vendor. [Multi-cloud environments can include
-> both public and private clouds, offering a heterogeneous setup that
-> can be tailored to various business
-> needs2](https://www.cloudflare.com/learning/cloud/multicloud-vs-hybrid-cloud/).
->
-> **Key Benefits**
+Multi-cloud refers to the use of multiple cloud services from
+different providers. This approach allows organizations to choose the
+best services for specific tasks, enhancing flexibility and reducing
+dependency on a single vendor. [Multi-cloud environments can include
+both public and private clouds, offering a heterogeneous setup that
+can be tailored to various business
+needs2](https://www.cloudflare.com/learning/cloud/multicloud-vs-hybrid-cloud/).
+
+**Key Benefits**
 
 - Flexibility: Both strategies offer the ability to scale resources up
   or down based on demand.
@@ -3404,7 +3199,7 @@ automation.
   the public cloud for less sensitive
   workloads1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/).
 
-> **Popular Platforms**
+**Popular Platforms**
 
 - [Google Cloud: Offers tools for building hybrid and multi-cloud
   architectures, enabling seamless integration and management of data
@@ -3749,7 +3544,7 @@ training machine learning models.
 4.  **Formatting**: Converting data types, restructuring columns and
     rows.
 
-👉 **Goal**: Make data usable for analysis or predictive models.
+**Goal**: Make data usable for analysis or predictive models.
 
 ##### Data Blending
 
@@ -3768,25 +3563,17 @@ The most common techniques include:
 
 3.  **Lookup & Matching**: data enrichment based on identifiers.
 
-👉 **Goal**: Merge data from multiple sources to gain richer insights.
+**Goal**: Merge data from multiple sources to gain richer insights.
 
-##### Key Difference
+#### Key Difference
 
-  ----------------------------------------------------------------------------
-  **Aspect**      **Data Wrangling**              **Data Blending**
-  --------------- ------------------------------- ----------------------------
-  **Objective**   Data Cleansing and              Merging data from multiple
-                  Transformation                  sources
+| **Aspect** |     **Data Wrangling** |             **Data Blending** |
+| --- | --- | --- |
+|  **Objective**  | Data Cleansing and Transformation  |            Merging data from multiple sources |
+| **Focus** |      Data quality and structure   |   Merging heterogeneous datasets |
+| **Techniques used** |    Normalization, feature engineering, missing value management    |    Join, union, lookup |
 
-  **Focus**       Data quality and structure      Merging heterogeneous
-                                                  datasets
-
-  **Techniques    Normalization, feature          Join, union, lookup
-  used**          engineering, missing value      
-                  management                      
-  ----------------------------------------------------------------------------
-
-##### Practical example
+#### Practical example
 
 Imagine you have:
 
