@@ -1796,117 +1796,61 @@ Learning algorithm based on these data.
 
 ## BD4NRG
 
-![](media/image11.jpg){width="4.755156386701662in"
-height="2.168105861767279in"}
+![image_058_image11.jpg](media/image_058_image11.jpg)
 
 > *Figure 2.4.1: BD4NRG Project Logo*
 
-  ----------------------------------------------------------------------------
-      **Type**         **Start    **End Date**  **ENG Grant Amount**   **PM**
-                       Date**                                         
-  ----------------- ------------- ------------- --------------------- --------
-       ML-OPS        1 Janu 2021   1 Dece 2023      € 833 000,00        n.a.
-
-  ----------------------------------------------------------------------------
+| **Type** | **Start Date** | **End Date** | **ENG Grant Amount** | **PM** |
+| --- | --- | --- | --- | --- |
+| ML-OPS | 1 Janu 2021 | 1 Dece 2023 | € 833 000,00 | n.a.|
 
 > *Table 2.4.3: BD4NRG Project Info*
 
 ### Partners
 
-![](media/image12.jpg){width="5.913471128608924in"
-height="1.9692847769028872in"}
+![image_059_image12.jpg](media/image_059_image12.jpg)
 
 > *Figure 2.4.2: BD4NRG Partners Logos*
 
-+--------------------------------------------+-------------+---------------+
 | **Partner Name**                           | **Acronym** | **Country**   |
-+===========================================:+:===========:+:=============:+
-| > Engineering Ingegneria Informatica       | ENG         | Italy         |
-| > S.p.A.                                   |             |               |
-+--------------------------------------------+-------------+---------------+
-| Ethnicon Metsovion Polytechnion            |             |               |
-+--------------------------------------------+-------------+---------------+
-| > Rheinisch-Westfaelische Technische       | RWTHA       | Greece        |
-| > Hochschule Aachen                        |             |               |
-+--------------------------------------------+-------------+---------------+
+| --- | --- | --- | 
+| Engineering Ingegneria Informatica  S.p.A.       | ENG         | Italy         |
+| Ethnicon Metsovion Polytechnion            |      EMP       |      Greece        |
+| Rheinisch-Westfaelische Technische Hochschule Aachen        | RWTHA       | Greece        |
 | European Dynamics Luxembourg SA            | EDL         | Luxemburg     |
-+--------------------------------------------+-------------+---------------+
 | International Data Spaces EV               | IDS         | Germany       |
-+--------------------------------------------+-------------+---------------+
-| European Network of Transmission System    | ENTSO       | Belgium       |
-| Operators for Electricity Aisbl            |             |               |
-+--------------------------------------------+-------------+---------------+
+| European Network of Transmission System  Operators for Electricity Aisbl | ENTSO       | Belgium       |
 | Panepistimio Dytikis Attikis               | PDA         | Greece        |
-+--------------------------------------------+-------------+---------------+
 | Atos Ppain SA                              | ATOS        | Spain         |
-+--------------------------------------------+-------------+---------------+
 | Fundacion Cartif                           | FC          | Spain         |
-+--------------------------------------------+-------------+---------------+
 | Univerza v Ljubljani                       | UNIL        | Slovenia      |
-+--------------------------------------------+-------------+---------------+
 | Enel x srl                                 | ENEL        | Italy         |
-+--------------------------------------------+-------------+---------------+
 | Rede Electrica Nacional SA                 | REN         | Portugal      |
-+--------------------------------------------+-------------+---------------+
-| Centro de Investigacao em Energia Ren -    | CIER        | Portugal      |
-| State Grid SA                              |             |               |
-+--------------------------------------------+-------------+---------------+
-| Uninova-Instituto de Desenvolvimento de    | UNINOVA     | Portugal      |
-| Novas Tecnologias-Associacao               |             |               |
-+--------------------------------------------+-------------+---------------+
-| Enercoutim - Associacao Empresarialde      | ENERC       | Portugal      |
-| Energia Solar de Alcoutim                  |             |               |
-+--------------------------------------------+-------------+---------------+
+| Centro de Investigacao em Energia Ren - State Grid SA   | CIER        | Portugal      |
+| Uninova-Instituto de Desenvolvimento de Novas Tecnologias-Associacao    | UNINOVA     | Portugal      |
+| Enercoutim - Associacao Empresarialde Energia Solar de Alcoutim      | ENERC       | Portugal      |
 | Fiware Foundation EV                       | FIWARE      | Germany       |
-+--------------------------------------------+-------------+---------------+
 | Centrica Business Solution Belgium         | CBSB        | Belgium       |
-+--------------------------------------------+-------------+---------------+
-| Nederlandse Organisatie voor Toegepast     | NORNO       | Netherlands   |
-| Natuurwetenschappelijk Onderzoek TNO       |             |               |
-+--------------------------------------------+-------------+---------------+
+| Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek TNO     | NORNO       | Netherlands   |
 | Asm Terni SPA                              | ASM         | Italy         |
-+--------------------------------------------+-------------+---------------+
-| Vides Investiciju Fonds SIA                | VIF         | > Latvia      |
-+--------------------------------------------+-------------+---------------+
+| Vides Investiciju Fonds SIA                | VIF         | Latvia      |
 | Comsensus, Komunikacije in Senzorika DOO   | COMS        | Slovenia      |
-+--------------------------------------------+-------------+---------------+
-| Holistic Ike                               | HI          | > Greece      |
-+--------------------------------------------+-------------+---------------+
-| > Interuniversitair Micro-Electrinica      | IMEC        | > Belgium     |
-| > Centrum                                  |             |               |
-+--------------------------------------------+-------------+---------------+
+| Holistic Ike                               | HI          | Greece      |
+| Interuniversitair Micro-Electrinica Centrum     | IMEC        | Belgium     |
 | Terrasigna SRL                             | TER         | Romania       |
-+--------------------------------------------+-------------+---------------+
-| UBIMET GMBH                                | UBIMET      | > Austria     |
-+--------------------------------------------+-------------+---------------+
-| > Elektro Ljubljana Podjetje               | ELPZ        | > Slovenia    |
-| > Zadistribucijo Elektricne Enerije D.D.   |             |               |
-+--------------------------------------------+-------------+---------------+
-| > Borzen, Operater Trga z Elektriko,       | BORZ        | Slovenia      |
-| > D.O.O.                                   |             |               |
-+--------------------------------------------+-------------+---------------+
+| UBIMET GMBH                                | UBIMET      | Austria     |
+| Elektro Ljubljana Podjetje Zadistribucijo Elektricne Enerije D.D.              | ELPZ        | Slovenia    |
+| Borzen, Operater Trga z Elektriko, D.O.O.       | BORZ        | Slovenia      |
 | Ajuantamiento de Sant Cugat del Valles     | ASCV        | Spain         |
-+--------------------------------------------+-------------+---------------+
-| Eles doo Operater Kombiniranega Prenosnega | EOKP        | > Slovenia    |
-| in Distribucijskega Elektroenergetskega    |             |               |
-| Omrezja                                    |             |               |
-+--------------------------------------------+-------------+---------------+
+| Eles doo Operater Kombiniranega Prenosnega in Distribucijskega Elektroenergetskega Omrezja | EOKP        | Slovenia    |
 | E-LEX - Studio Legale                      | ELEX        | Italy         |
-+--------------------------------------------+-------------+---------------+
-| > Osmangazi Elektrik Dagitim Anonim        | OED         | Türkiye       |
-| > Sirketi                                  |             |               |
-+--------------------------------------------+-------------+---------------+
-| Veolia Servicios Lecam Sociedad Anonima    | VSLSAU      | > Spain       |
-| Unipersonal                                |             |               |
-+--------------------------------------------+-------------+---------------+
-| Stichting Egi                              | SEGI        | > Netherlands |
-+--------------------------------------------+-------------+---------------+
-| Cintech Solution LTD                       | CSL         | > Cyprus      |
-+--------------------------------------------+-------------+---------------+
-| Emotion SRL                                | EMO         | > Italy       |
-+--------------------------------------------+-------------+---------------+
+| Osmangazi Elektrik Dagitim Anonim Sirketi        | OED         | Türkiye       |
+| Veolia Servicios Lecam Sociedad Anonima Unipersonal   | VSLSAU      | Spain       |
+| Stichting Egi                              | SEGI        | Netherlands |
+| Cintech Solution LTD                       | CSL         | Cyprus      |
+| Emotion SRL                                | EMO         | Italy       |
 
-*Table 2.4.4: BD4NRG Partners*
+> *Table 2.4.4: BD4NRG Partners*
 
 ### Case Overview
 
@@ -2002,11 +1946,13 @@ users lacking Big Data expertise to manage BDA and deploy big data
 pipeline applications ready-to-be-executed addressing their goals at
 edge/fog/cloud nodes.
 
+
 <figure>
-<img src="media/image13.jpg" style="width:4.22138in;height:5.44433in"
-alt="Immagine che contiene testo, diagramma, Piano, schermata Descrizione generata automaticamente" />
+<img src="media/image_060_image13.jpg" style="width:4.22138in;height:5.44433in"/>
 <figcaption><p>Figure 2.4.3</p></figcaption>
 </figure>
+
+> *Figure 2.4.3: ALIDA general architecture for BD4NRG* 
 
 The ALIDA platform supports full orchestration of BDA application
 workflows and allows for composition, deployment and execution of
