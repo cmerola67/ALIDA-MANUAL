@@ -3653,7 +3653,7 @@ multiple images from existing ones. Common techniques include:
 6.  **Generation of synthetic data** (e.g. GAN - Generative Adversarial
     Networks)
 
-📌 **Example**: In a dataset of cat images, you can create new images by
+-  **Example**: In a dataset of cat images, you can create new images by
 rotating them or applying filters to simulate different lighting
 conditions.
 
@@ -3675,7 +3675,7 @@ include:
 5.  **Generation with language models** (e.g. GPT to create new similar
     texts)
 
-📌 **Example**: The phrase *\"The dog runs in the park\"* can be
+**Example**: The phrase *\"The dog runs in the park\"* can be
 increased to *\"The dog sprints in the garden\"* by synonyms.
 
 ***> Tabular Data (Structured Data)***
@@ -3690,18 +3690,18 @@ accomplished with:
 3.  **Statistical perturbations** (random changes to the data while
     maintaining the original distribution)
 
-📌 **Example**: If you have little data from high-income customers,
+**Example**: If you have little data from high-income customers,
 SMOTE can generate new synthetic examples to improve class balance.
 
 **Benefits of Data Augmentation**
 
-**🔍 Improves model** **generalization**
+**Improves model** **generalization**
 
-**🔍 Reduces overfitting**, especially with small **datasets**
+**Reduces overfitting**, especially with small **datasets**
 
-**🔍 Increases model robustness** to variations in real **data**
+**Increases model robustness** to variations in real **data**
 
-**🔍 Allows you to better leverage deep learning models**, which require
+**Allows you to better leverage deep learning models**, which require
 large amounts of data.
 
 **Limitations and Challenges**
