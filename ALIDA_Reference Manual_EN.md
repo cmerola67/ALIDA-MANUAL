@@ -2846,7 +2846,9 @@ productivity.
 
 ## Data Access
 
-*(\*ChatGPT and CoPilot)*
+<!-- (\*ChatGPT and CoPilot)* *\ -->
+
+
 
 ## Enterprise Application Integration
 
@@ -3632,7 +3634,7 @@ better performance, especially when the dataset is limited.
 
 **Data Augmentation in the different areas**
 
-**1️⃣ Computer Vision (Images)**
+***> Computer Vision (Images)***
 
 In computer vision, **Data Augmentation** is widely used to generate
 multiple images from existing ones. Common techniques include:
@@ -3655,7 +3657,7 @@ multiple images from existing ones. Common techniques include:
 rotating them or applying filters to simulate different lighting
 conditions.
 
-**2️⃣ Natural Language Processing (NLP)**
+***> Natural Language Processing (NLP)***
 
 In text, **Data Augmentation** can be more complex because editing a
 sentence without altering its meaning is difficult. Some techniques
@@ -3676,7 +3678,7 @@ include:
 📌 **Example**: The phrase *\"The dog runs in the park\"* can be
 increased to *\"The dog sprints in the garden\"* by synonyms.
 
-**3️⃣ Tabular Data (Structured Data)**
+***> Tabular Data (Structured Data)***
 
 In tabular datasets, Data Augmentation is more complex, but can be
 accomplished with:
@@ -3709,7 +3711,94 @@ large amounts of data.
 designed\
 ⚠ **Increased training time**, especially with images and text.
 
-## Data Quality Support
+## **Data Quality Support**
+
+Data Quality Support refers to the set of activities, tools, methodologies, and interventions aimed at ensuring that the data used in applied research projects are accurate, complete, consistent, reliable, and timely, throughout their entire lifecycle—from collection to dissemination.
+In applied research contexts (e.g., agri-food, environmental, healthcare), supporting data quality plays a key role because it:
+Directly impacts the scientific validity of results
+Ensures reproducibility and traceability of findings
+Affects the scalability and transferability of results to real-world applications (e.g., industry, supply chains, regulatory bodies)
+
+### **Core Components of Data Quality Support**
+
+**1. Standardization**
+
+Standardization is the foundational pillar of data quality support, enabling the harmonization of data structure, content, and meaning. In applied research, the adoption of formal ontologies, controlled vocabularies, and standardized data formats allows for the efficient integration of heterogeneous data sources, reduces semantic ambiguity, and enhances data reusability in accordance with FAIR principles. The use of international standards (e.g., ISO 8000 – Data Quality, ISO/IEC 25012 – Data Quality Model) reinforces compliance and interoperability at both European and global levels.
+
+**2. Validation and Verification**
+
+Validation and verification are essential processes to ensure the reliability and internal consistency of the datasets used. These activities include both automated and manual checks to detect syntactic errors, semantic inconsistencies, duplicates, missing values, and outliers. In multidisciplinary research contexts, such verification mechanisms must be modular and adaptable, supporting data quality throughout the entire lifecycle—including during the integration of distributed and heterogeneous sources.
+Monitoring of semantic consistency and relational integrity.
+
+**3. Governance and Metadata**
+
+Effective data governance requires the definition of key roles (e.g., data stewards, data owners) and the use of tools for documentation, traceability, and version control. Metadata play a central role in describing the origin, structure, intended use, and constraints of data. In applied research, this approach facilitates quality assessment, data provenance (lineage), and scientific trustworthiness. Integration with Data Management Plans (DMPs) is essential for projects funded at national and EU levels.
+
+**4. Technologies and Tools**
+
+Technological support for data quality relies on specialized tools for data profiling, cleansing, continuous monitoring, and remediation. Open-source tools such as Talend, OpenRefine, or Apache Griffin, along with emerging technologies (e.g., AI/ML for anomaly detection), enable automation in identifying and correcting data anomalies. Furthermore, interoperable platforms such as ALIDA (for analytical workflow orchestration) or Distributed Ledger Technologies (DLTs) (to ensure integrity and traceability) strengthen quality control throughout the entire data lifecycle.
+
+### **Practical Applications**
+
+#### *Sensor and experimental data quality*
+
+In experimental contexts (e.g., agronomy, environmental studies, Industry 4.0), Data Quality Support ensures the accuracy and consistency of data collected from sensors, lab instruments, IoT systems, or manual surveys. The adoption of standardized protocols, automatic validation checks, and data cleaning tools improves the reliability of datasets used for modeling and predictive analysis.
+
+#### *Integration and harmonization of heterogeneous data*
+
+Applied research frequently involves the combined use of datasets that vary in format, granularity, origin, or frequency (e.g., open data, historical records, enterprise systems, institutional sources). Data Quality Support enables harmonization through data fusion, semantic mapping, and assisted integration, supporting complex use cases such as the development of digital twins or decision support systems.
+
+#### *Integrity and consistency checks in distributed systems (DLT, edge computing)*
+
+In distributed architectures—such as DLTs or edge computing infrastructures—data quality must be ensured at both local and global levels. Data Quality Support includes input data validation, temporal alignment, and integrity monitoring throughout the processing pipeline.
+
+#### *Support for data collection from external stakeholders (e.g., companies, field operators)*
+
+In applied research, data are often sourced from external actors with varying levels of digitalization and technical expertise. Data Quality Support involves the creation of guided templates, standardized collection forms, operational manuals, and technical training to ensure data accuracy and compatibility.
+
+#### *Enabling distributed and federated analytics*
+
+In scenarios where data cannot be centralized (due to privacy, ownership, or cost reasons), Data Quality Support enables federated analysis (e.g., federated learning) by ensuring that locally trained models are based on valid, comparable, and compliant data.
+
+#### *Continuous monitoring and alerting on data stream quality*
+
+In projects involving continuous data flows (e.g., streaming, sensors, logs), Data Quality Support includes real-time monitoring and automatic alerts in case of quality degradation (e.g., dropped flows, anomalies, missing values). This is critical in high-automation or mission-critical environments.
+
+#### *Support for interoperability in multi-actor research projects*
+
+In collaborative research projects involving institutions, enterprises, and public authorities, data quality is a prerequisite for sharing and interoperability. Support activities may include semantic alignment of datasets, negotiation of shared ontologies, and the definition of standardized data exchange formats.
+
+
+## Benefits of Data Quality Support
+
+The adoption of structured data quality practices enhances the validity of experimental results and ensures higher reproducibility of studies. This is particularly crucial when data feed predictive models, simulations, or automated decision-making processes.
+
+#### *Greater transparency, traceability, and auditability*
+
+High-quality data can be traced back to its origin and transformations, facilitating internal and external review processes. It supports regulatory compliance (e.g., GDPR, EU regulations) and enables certification or audit workflows, especially in tech-intensive or public-funded projects.
+
+#### *Reduced risk of errors and bias in analytical models*
+
+Incomplete, incorrect, or inconsistent data can introduce bias or misleading outcomes in analyses. Data Quality Support allows for timely detection of anomalies or errors, reducing the risk of flawed decisions or compromised statistical robustness.
+
+#### *Optimized reuse of existing datasets*
+
+By ensuring quality and interoperability, Data Quality Support enables the effective reuse of existing data, reducing the need for redundant data collection and improving the operational efficiency of research initiatives.
+
+#### *Increased value of data for technology transfer*
+
+Reliable and well-documented data are more easily exploitable for technology transfer, commercialization, or intellectual property valorization. Data quality becomes a strategic asset, particularly in applied, industrial, or patent-driven projects.
+
+#### *Enabler of interoperability and distributed analytics*
+
+Quality support allows the alignment of semantics and structure across heterogeneous sources, facilitating integration of data from various actors (e.g., companies, institutions, IoT systems). This is essential for building interoperable systems and performing distributed analytics (e.g., federated learning, DLT).
+
+#### *Support for sustainability and efficiency in research projects*
+
+Investing in data quality helps reduce future costs, avoid rework, and increase the long-term durability of results. Data Quality Support makes research projects more sustainable, scalable, and ready for replication.
+
+
+
 
 ## Dataset Partitioning
 
@@ -3737,7 +3826,9 @@ designed\
 
 ## 
 
-# Data Exploration and Visualisation \<omissis\>
+# Data Exploration and Visualisation 
+
+\<omissis\>
 
 ## Univariate and Bivariate Statistics
 
@@ -3768,8 +3859,6 @@ designed\
 ## On-Premises
 
 ## Cloud, Multicloud and Hybrid
-
-4.  
 
 # User Interface
 
