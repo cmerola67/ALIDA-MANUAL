@@ -3802,7 +3802,58 @@ Investing in data quality helps reduce future costs, avoid rework, and increase 
 
 ## Dataset Partitioning
 
+Dataset partitioning is a foundational step in ensuring fair, robust, and reproducible evaluation of analytical and predictive models in applied research. The choice of strategy—whether stratified, temporal, or cross-validation—depends on the nature of the data and the research objectives, and it must be implemented carefully to ensure the credibility of the results.
+
+#### Definition and Purpose
+
+Dataset partitioning refers to the systematic division of a dataset into multiple subsets, each serving a distinct purpose in a data analysis or machine learning pipeline. It is a critical step in ensuring:
+
+ - Objective validation of model performance
+
+ - Generalization of results to unseen data
+
+ - Control over bias and overfitting
+
+ - Balanced representation of data classes or features
+
+
+
 ## Binning and Smoothing
+
+In the context of applied Artificial Intelligence (AI) and data-driven research, the quality and structure of input data play a pivotal role in determining the reliability, robustness, and interpretability of analytical models. Two key preprocessing techniques often employed to enhance data usability are binning and smoothing. These methods are particularly useful when working with noisy, high-dimensional, or continuous-valued datasets, which are common in fields such as agrifood technology, environmental monitoring, digital health, and decentralized systems using DLT (Distributed Ledger Technologies).
+
+#### *Binning: Discretizing Continuous Data*
+
+Binning is a data discretization technique that transforms continuous numerical variables into categorical intervals, or "bins". Instead of using raw values, each observation is replaced by a representative value associated with its corresponding bin. This approach can simplify the structure of the data, reduce the influence of minor fluctuations or measurement errors, and prepare the dataset for algorithms that operate more effectively on categorical features (e.g., decision trees, Naive Bayes classifiers).
+
+More advanced techniques, such as supervised binning or optimal binning, take into account the relationship between input variables and the target variable to determine the best way to discretize the data. In some cases, fuzzy binning or clustering-based binning is applied to allow for soft boundaries and probabilistic memberships, especially in complex or uncertain domains.
+
+In applied research, binning is particularly useful when datasets contain sensor readings, geospatial coordinates, or quantitative lab results. Discretizing such data can improve the stability of the model and reduce its sensitivity to noise or outliers.
+
+#### *Smoothing: Reducing Noise and Highlighting Trends*
+
+Smoothing refers to a set of techniques used to reduce noise in datasets, particularly in time series or high-frequency data, while preserving underlying patterns and trends. The goal is to produce a cleaner signal that can be more effectively analyzed, modeled, or interpreted.
+
+Common smoothing methods include:
+
+Moving average smoothing, where each data point is replaced by the average of its neighboring values within a defined window.
+
+Exponential smoothing, which applies exponentially decreasing weights to older observations, giving more importance to recent values.
+
+Savitzky–Golay filtering, which fits a low-degree polynomial to a sliding window of the data, preserving the original shape and features of the signal better than simple averaging.
+
+Additive smoothing (e.g., Laplace smoothing), used in categorical data to avoid zero probabilities in probabilistic models.
+
+Other advanced techniques such as kernel-based smoothing or spline interpolation may also be applied, particularly when handling complex temporal or spatial datasets.
+
+In applied AI systems, smoothing is commonly used to preprocess real-world data collected from IoT devices, agricultural sensors, satellite imagery, or health monitors. These sources are often subject to environmental noise, missing values, or irregular sampling intervals. By smoothing the data, researchers can extract meaningful patterns, improve model training, and reduce the risk of overfitting caused by random fluctuations.
+
+#### Combined Use of Binning and Smoothing
+
+In many practical applications, binning and smoothing are used in combination. For instance, data can first be grouped into bins, and then each bin can be smoothed by replacing its values with the mean or median of the bin. This dual approach allows researchers to discretize the data structure while also attenuating local noise, providing a more stable input for AI models.
+Such preprocessing is particularly valuable in fields where raw data is heterogeneous, sparse, or highly variable—such as in blockchain-enabled traceability systems (DLT), where multiple nodes may contribute inconsistent data over time. Applying binning and smoothing in this context helps to align formats, remove outliers, and improve the consistency of the analytical pipeline.
+
+Binning and smoothing are fundamental preprocessing techniques in applied AI that facilitate the simplification, standardization, and noise reduction of raw data. Their proper implementation enhances the interpretability, stability, and performance of machine learning models, especially in complex or data-rich domains. When used thoughtfully, these techniques contribute significantly to the reproducibility and scientific reliability of research outcomes.
 
 ## Filter and Search
 
