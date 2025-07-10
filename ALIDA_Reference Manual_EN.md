@@ -433,7 +433,7 @@ Piero Di Liberto, Sergio Comella, Salvatore Cipolla, Rosario Catelli,
 
 [4.8.6 BDA Application [108](#bda-application)]
 
-### [Part III [143](#machine-learning)]
+### [Part III [143](#part-iii)]
 
 [1. Machine Learning [143](#machine-learning)]
 
@@ -770,7 +770,7 @@ Plots, Integrated Gradients, Similarity Based Methods and Others)
 [11.5 Multipersona Collaboration
 [159](#multipersona-collaboration)]
 
-### [Part IV [160](#part-iii)]
+### [Part IV [160](#part-iv)]
 
 [R&I Guide [160](#ri-guide)]
 
@@ -1242,7 +1242,7 @@ Plots, Integrated Gradients, Similarity Based Methods and Others)
 [14.5 Multipersona Collaboration
 [166](#multipersona-collaboration-1)]
 
-### [Part V [167](#part-iv)]
+### [Part V [167](#part-v)]
 
 [Conclusions [167](#conclusions)]
 
@@ -1260,7 +1260,7 @@ Plots, Integrated Gradients, Similarity Based Methods and Others)
 
 #
 
-# **Part I**
+# **Part I**    
 
 ## Introduction
 
