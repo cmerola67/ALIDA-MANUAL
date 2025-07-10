@@ -1258,7 +1258,7 @@ Plots, Integrated Gradients, Similarity Based Methods and Others)
 
 [Journal Papers [172](#journal-papers)]
 
-# **Part I**
+# ***Part I***
 
 ## Introduction
 
@@ -1410,7 +1410,7 @@ confidence.
 
 
 <figure>
-<img src="media/image_012_image2.jpg" style="max-width: 75%; height: auto;"/>
+<img src="media/image_012_image2.jpg" style="max-width: 50%; height: auto;"/>
 </figure>
 
 
@@ -1424,7 +1424,9 @@ confidence.
 
 ### Partners
 
-![Figure 2.1.2: MobiSpaces Partners Logos 01](media/image_015_image4.jpg)
+<figure>
+<img src="media/image_014_image3.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 2.1.2: MobiSpaces Partners Logos 01*
 
@@ -1479,7 +1481,10 @@ Finally, it aims to measure the degradation of bus battery performance
 over time, predict their useful life, and anticipate details regarding
 their maintenance.
 
-![image_015_image4.jpg](media/image_015_image4.jpg)
+<figure>
+<img src="media/image_015_image4.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
+
 > *Figure 2.1.3: MobiSpaces Partners Logos 02*
 
 
@@ -1529,7 +1534,9 @@ battery level management and aims to give an instrument to re-build bus
 schedules, both real-time and long-term, given predictions on battery
 duration based on the data analysed and on the expected battery decay.
 
-![image_043_image5.jpg](media/image_043_image5.jpg)
+<figure>
+<img src="media/image_043_image5.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 2.1.4:  MobiSpaces Contribution 01*
 
@@ -1558,7 +1565,9 @@ a good, efficient and sustainable data path for the datasets described.
 
 ## CyberSEAS
 
-![image_044_image6.jpg](media/image_044_image6.jpg)
+<figure>
+<img src="media/image_044_image6.jpg" style="max-width: 50%; height: auto;"/>
+</figure>
 
 > *Figure 2.2.1: CyberSEAS Project Logo*
 
@@ -1572,7 +1581,9 @@ a good, efficient and sustainable data path for the datasets described.
 
 ### Partners
 
-![image_045_image7.jpg](media/image_045_image7.jpg)
+<figure>
+<img src="media/image_045_image7.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 2.2.2: CyberSEAS Partners Logo*
 
@@ -1702,7 +1713,10 @@ FML Architecture Flow in ALIDA platform*, ALIDA allows federated model
 training, so that users can train models without the need to expose
 data.
 
-![image_046_image8.jpg](media/image_046_image8.jpg)
+<figure>
+<img src="media/image_046_image8.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
+
 > *Figure 2.2.3: FML Architecture Flow in ALIDA platform*
 
 Among the few open-source technologies that enable FML, Flower has been
@@ -1738,7 +1752,7 @@ the same time all the features provided by Flower.
 
 
 <figure>
-<img src="media/image_047_image9.jpg" style="max-width: 50%; height: auto;"/>
+<img src="media/image_047_image9.jpg" style="max-width: 35%; height: auto;"/>
 </figure>
 
 > *Figure 2.3.1: CiTrace Project Logo*
@@ -1815,7 +1829,9 @@ Learning algorithm based on these data.
 
 ### Partners
 
-![image_059_image12.jpg](media/image_059_image12.jpg)
+<figure>
+<img src="media/image_059_image12.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 2.4.2: BD4NRG Partners Logos*
 
@@ -1953,10 +1969,8 @@ users lacking Big Data expertise to manage BDA and deploy big data
 pipeline applications ready-to-be-executed addressing their goals at
 edge/fog/cloud nodes.
 
-
 <figure>
-<img src="media/image_060_image13.jpg" style="width:4.22138in;height:5.44433in"/>
-<figcaption><p>Figure 2.4.3</p></figcaption>
+<img src="media/image_060_image13.jpg" style="max-width: 50%; height: auto;"/>
 </figure>
 
 > *Figure 2.4.3: ALIDA general architecture for BD4NRG* 
@@ -1983,7 +1997,9 @@ describes the ALIDA general architecture.
 
 ### Partners
 
-![](media/image_062_image15.jpg)
+<figure>
+<img src="media/image_062_image15.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 2.5.2: SCREAM Partners Logo*
 
@@ -2072,7 +2088,9 @@ models based on data stored within distributed data storage.
 
 ### Partners
 
-![image_065_image18.jpg](media/image_065_image18.jpg)
+<figure>
+<img src="media/image_065_image18.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 2.6.2: Infinitech Partners Logo 01*
 
@@ -2347,7 +2365,9 @@ implemented yet.
 
 ### Partners
 
-![image_066_image25.jpg](media/image_066_image25.jpg)
+<figure>
+<img src="media/image_066_image25.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 2.7.2: OK-INSAID Partners Logos*
 
@@ -2520,7 +2540,9 @@ execution of application A1.
 application A2.
 
 
-![image_002_image27.jpg](media/image_002_image27.jpg)
+<figure>
+<img src="media/image_002_image27.jpg" style="max-width: 100%; height: auto;"/>
+</figure>
 
 > *Figure 2.7.4: OK-INSAID Contribution 02*
 
@@ -2729,7 +2751,9 @@ analytical results to a traceability system that will expose the outcome
 during the scanning phase of the QR code displayed on the finished
 product.
 
-![image_011_image36.jpg](media/image_011_image36.jpg)
+<figure>
+<img src="media/image_011_image36.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 2.9.3: Agritech Contribution 01*
 
@@ -2840,11 +2864,17 @@ offering advanced functionalities for data collection, analysis,
 visualization, and automation to improve agricultural efficiency and
 productivity.
 
-# **Part II**
+<br>
+<br>
+<br>
+
+# ***Part II***
 
 ## User Guide
 
-## Data Access
+<br>
+
+## **Data Access**
 
 <!-- (\*ChatGPT and CoPilot)* *\ -->
 
@@ -3549,9 +3579,12 @@ projects, helping you understand the basics and advanced concepts.
 API-based access to web data can significantly enhance your data
 analysis and integration capabilities.
 
-# Data Preparation
+<br>
+<br>
 
-## Data Blending/Wrangling
+## **Data Preparation**
+
+### Data Blending/Wrangling
 
 In **Machine Learning** and **Data Science**, the concepts of **Data
 Blending** and **Data Wrangling** refer to two distinct but
@@ -3622,7 +3655,7 @@ Imagine you have:
 2.  With **Data Wrangling**, clean up the dataset (removing errors,
     transforming variables, handling missing data).
 
-## Data Augmentation
+### Data Augmentation
 
 **Data Augmentation** is a technique used to **artificially increase the
 amount of data** available for training a model, creating new instances
@@ -3634,7 +3667,7 @@ better performance, especially when the dataset is limited.
 
 **Data Augmentation in the different areas**
 
-***> Computer Vision (Images)***
+#### ***Computer Vision (Images)***
 
 In computer vision, **Data Augmentation** is widely used to generate
 multiple images from existing ones. Common techniques include:
@@ -3657,7 +3690,7 @@ multiple images from existing ones. Common techniques include:
 rotating them or applying filters to simulate different lighting
 conditions.
 
-***> Natural Language Processing (NLP)***
+#### ***Natural Language Processing (NLP)***
 
 In text, **Data Augmentation** can be more complex because editing a
 sentence without altering its meaning is difficult. Some techniques
@@ -3678,7 +3711,7 @@ include:
 **Example**: The phrase *\"The dog runs in the park\"* can be
 increased to *\"The dog sprints in the garden\"* by synonyms.
 
-***> Tabular Data (Structured Data)***
+*** Tabular Data (Structured Data)***
 
 In tabular datasets, Data Augmentation is more complex, but can be
 accomplished with:
@@ -3693,18 +3726,18 @@ accomplished with:
 **Example**: If you have little data from high-income customers,
 SMOTE can generate new synthetic examples to improve class balance.
 
-**Benefits of Data Augmentation**
+#### ***Benefits of Data Augmentation:***
 
-**Improves model** **generalization**
+**- Improves model** **generalization**
 
-**Reduces overfitting**, especially with small **datasets**
+**- Reduces overfitting**, especially with small **datasets**
 
-**Increases model robustness** to variations in real **data**
+**- Increases model robustness** to variations in real **data**
 
-**Allows you to better leverage deep learning models**, which require
+**- Allows you to better leverage deep learning models**, which require
 large amounts of data.
 
-**Limitations and Challenges**
+**Limitations and Challenges:**
 
 ⚠ **Not always effective for all data**\
 ⚠ T**ypes Risk of introducing bias or noise** if augmentation is poorly
@@ -3857,61 +3890,294 @@ Binning and smoothing are fundamental preprocessing techniques in applied AI tha
 
 ## Filter and Search
 
+Filter and search operations are essential pillars of applied AI pipelines. Far beyond simple data subsetting or keyword retrieval, these operations support intelligent interaction with large, complex, and distributed datasets. Whether through preprocessing, semantic search, high-dimensional indexing, or user-driven exploration, effective filtering and search mechanisms ensure that AI systems remain relevant, efficient, and explainable — key requirements for responsible innovation in data-intensive research environments.
+
+The ability to filter and search through large volumes of structured or unstructured data is fundamental to enabling efficient analysis, model training, and decision support. These operations are not limited to traditional information retrieval, but are embedded in every layer of data processing — from feature selection and data querying to intelligent knowledge extraction in distributed environments.
+
+The “Filter and Search” paradigm in AI-driven systems extends beyond basic keyword queries or dataset subsetting. It involves a combination of algorithmic filtering, semantic search, ranking, and contextual matching, often integrated into intelligent pipelines that support automation, scalability, and explainability.
+
+#### 1. Filtering as a Preprocessing Step
+Filtering is widely used during data preprocessing to remove irrelevant, redundant, or low-quality data before training a machine learning model. This includes:
+
+Filtering rows based on thresholds (e.g., only records with temperature > 30°C)
+
+Removing missing, inconsistent, or noisy entries
+
+Selecting relevant features (feature filtering) based on statistical significance or domain knowledge
+
+Applying conditional logic to retain only data that meets experiment-specific criteria
+
+In applied research, particularly in fields like agriculture, environmental monitoring, or digital health, filtering helps ensure that the training data is representative, clean, and meaningful, reducing noise and bias in downstream analysis.
+
+#### 2. Semantic and Context-Aware Search
+Modern search systems in AI extend beyond syntactic matching. They include semantic search methods that use embeddings, ontologies, and contextual similarity to retrieve information that is relevant, even if it doesn't contain the exact search terms.
+
+For example:
+
+In a knowledge graph, a semantic search might return all entities related to “organic farming” even if the exact phrase does not appear
+
+In NLP-based applications, transformer models (e.g., BERT) can retrieve semantically similar documents or concepts using vector similarity instead of keywords
+
+In decentralized data environments (e.g., DLTs), search can involve cross-node querying with ontology alignment and metadata indexing
+
+Semantic filtering and search are essential when datasets are heterogeneous, multilingual, or multi-source, as is often the case in applied EU-funded research or AI-driven policy analysis.
+
+#### 3. Search in High-Dimensional or Unstructured Data
+In AI and applied science, researchers often work with unstructured data (text, images, signals) or high-dimensional datasets (e.g., genomics, multispectral imaging). Efficient search mechanisms allow for:
+
+Similarity search (e.g., finding the most similar sensor readings or images)
+
+Subspace filtering (selecting only features or dimensions relevant to a hypothesis)
+
+Use of indexing structures like KD-trees, inverted indexes, or approximate nearest neighbors (ANN) to handle large-scale search efficiently
+
+This is especially relevant in domains such as precision agriculture, where satellite or drone imagery is queried to locate specific patterns (e.g., disease hotspots), or in smart manufacturing, where sensor logs are filtered to detect early warnings.
+
+#### 4. User-Driven Filtering in Interactive Systems
+In applied systems that include human-in-the-loop components, filtering is often user-driven. Researchers, domain experts, or decision-makers interact with dashboards or visual analytics tools that support:
+
+Custom filters (by time, location, category)
+
+Multidimensional queries (e.g., “show me anomalies in refrigerated transport for dairy products in July”)
+
+Real-time updates as filters are modified
+
+This supports explainability and interpretability, which are increasingly critical in AI systems deployed in real-world environments, especially when transparency is required (e.g., healthcare, food safety, environmental impact assessments).
+
+#### 5. Filtering and Search in Distributed and Federated Contexts
+In modern research architectures involving distributed data sources or federated learning, filtering and search must operate across decentralized nodes. This introduces specific challenges:
+
+Ensuring interoperability of queries across datasets with different schemas or standards
+
+Filtering data locally at the edge, before it is shared or aggregated
+
+Maintaining privacy and security while still enabling efficient data access
+
+In such systems, filtering and search mechanisms must be lightweight, secure, and often ontology-driven to ensure meaningful results across different domains and languages.
+
+
 ## Feature Generation
+
+Feature generation is a critical step in any data analytics or machine learning workflow. By transforming raw data into meaningful, domain-relevant variables, it enables models to better capture real-world complexity, improve predictive accuracy, and align with scientific or operational goals. In applied research contexts—where data is often noisy, incomplete, or heterogeneous—feature generation becomes not just a technical task, but a strategic activity that bridges data science and domain expertise.
+
+In modern data analytics workflows, particularly those involving machine learning or AI-based modeling, the quality of the input features is often more critical than the choice of algorithm. Feature generation—also known as feature construction—refers to the process of creating new, informative variables from raw data, in order to better represent the underlying structure of the problem and enhance model performance.
+
+Rather than relying solely on the original data fields collected from sensors, databases, or user input, analysts generate new features that capture domain knowledge, reveal latent relationships, or simplify complex patterns.
+
+#### 1. Definition and Purpose
+Feature generation is the process of transforming raw data into structured variables (features) that are more meaningful and predictive for a specific analytical task. It is distinct from feature selection (which picks the best existing features), in that it creates new variables, either by combining existing ones or deriving them through domain logic or mathematical transformations.
+
+The goal is to improve:
+
+ - Model accuracy and generalization
+
+ - Interpretability and explainability
+
+ - Robustness to noise or missing data
+
+ - Alignment with domain-specific knowledge
+
+In applied settings such as agriculture, smart manufacturing, or energy systems, feature generation often incorporates expert knowledge about time, geography, system behavior, or regulatory constraints.
+
+#### 2. Types of Feature Generation
+There are several common strategies for generating features:
+
+a. Mathematical Transformations
+Raw numerical features can be transformed using operations like logarithms, square roots, ratios, or polynomial expansions. For example, generating a “temperature variation” feature from daily min/max values.
+
+b. Aggregations and Window Functions
+In time-series or sequential data, features can be created by computing statistics (mean, median, standard deviation, min/max) over time windows or spatial segments. This is widely used in predictive maintenance or crop monitoring.
+
+c. Interaction Terms
+New features can be generated by multiplying or combining two or more variables to capture interactions that are not visible when variables are treated independently. For instance, “soil moisture × temperature” could be more informative than each variable alone.
+
+d. Domain-Derived Features
+Features derived from subject matter expertise—such as growing degree days (GDD) in agriculture, or normalized load curves in energy systems—allow models to integrate real-world processes into their structure.
+
+e. Text and Categorical Encoding
+When working with textual or categorical data, feature generation includes techniques such as TF-IDF vectors, n-grams, word embeddings (e.g., BERT), or one-hot encoding, to convert raw text or labels into numerical inputs.
+
+f. Spatial and Temporal Features
+In geospatial or time-aware applications, generating features such as “distance from origin”, “days since last event”, or “seasonality index” enables the model to leverage temporal and spatial patterns that are often key in applied research.
+
+#### 3. Automated vs Manual Feature Generation
+Feature generation can be manual, relying on expert insight and exploratory data analysis, or automated, using algorithmic approaches such as:
+
+Featuretools for deep feature synthesis
+
+AutoML platforms that generate candidate features and rank them
+
+Embedding techniques (e.g., in graph neural networks or NLP) that automatically learn latent features from complex structures
+
+In applied research environments, a hybrid approach is often used—combining human expertise with automated pipelines—to ensure that generated features are both meaningful and technically robust.
+
+#### 4. Role in the Data Analytics Pipeline
+Feature generation plays a foundational role in transforming data from its raw state to a model-ready form. It is typically positioned between data cleaning and model training:
+
+Raw data ingestion
+
+Preprocessing (cleaning, normalization)
+
+Feature generation
+
+Feature selection and dimensionality reduction
+
+Model development and evaluation
+
+Without relevant features, even the most sophisticated algorithms can perform poorly. Conversely, well-designed features can dramatically improve model performance—even when using relatively simple models.
+
+#### 5. Benefits in Applied Research and AI
+In applied domains, feature generation enables:
+
+Adaptation to domain-specific constraints (e.g., regulatory thresholds, biological cycles)
+
+Improved explainability, allowing stakeholders to understand how inputs influence predictions
+
+Data enrichment, especially when integrating multiple sources (e.g., IoT + satellite data)
+
+Reduced dimensionality, by condensing raw variables into more meaningful aggregates
+
+Greater resilience to data sparsity, noise, or drift over time
+
+For example, in agrifood traceability systems, generating features that represent “chain consistency”, “average time per transformation step”, or “anomaly scores from past batches” can support fraud detection or quality assurance processes.
+
 
 ## Official Watermarking of Datasets
 
+Official watermarking of datasets represents a powerful and emerging strategy to strengthen data governance, provenance assurance, and scientific integrity in the age of open data and AI. By embedding persistent, verifiable marks into datasets, organizations and research institutions can ensure authenticity, accountability, and trust in the data they produce and share. As the data landscape becomes more decentralized, collaborative, and regulated, watermarking will increasingly become a foundational practice in responsible data analytics and digital trust frameworks.
+
+In modern data-driven environments, the integrity, authenticity, and traceability of datasets are critical to ensuring responsible and verifiable use of data. One emerging technique that supports these goals is official watermarking—a process by which digital identifiers or cryptographic marks are embedded directly into datasets, establishing their origin, ownership, or certification status in a verifiable way.
+
+Unlike traditional metadata or file naming conventions, official watermarking is embedded at the data level, making it harder to tamper with and easier to audit. This technique is particularly relevant in sectors such as research, healthcare, public administration, agri-food traceability, and AI model development, where the reliability and provenance of data can impact regulatory compliance, scientific validity, and public trust.
+
+#### 1. Definition and Core Concept
+Official watermarking of datasets refers to the systematic embedding of unique, traceable digital signatures—called watermarks—into a dataset or its derived content. These watermarks can be either visible (semantic labels, tags, hashes) or invisible (statistically encoded or cryptographic markers). The objective is to create an unambiguous link between a dataset and its publisher, custodian, or issuing authority.
+
+Unlike traditional document watermarks, which are often visual and superficial, dataset watermarks are resilient to format transformations, hidden within the data, and detectable via validation tools. They can also include timestamps, version numbers, origin identifiers, or digital certificates.
+
+#### 2. Why Watermarking is Needed in Data Analytics
+In applied data analytics and AI-driven research, watermarking supports several critical needs:
+
+ - Data provenance and attribution: Tracking who created, certified, or modified the dataset.
+
+ - Integrity verification: Ensuring that the dataset has not been tampered with, altered, or corrupted.
+
+ - Legal and ethical accountability: Enabling traceability for data sharing under formal agreements, public policies, or licensing constraints.
+
+ - Reproducibility in research: Certifying that a given dataset used in experimentation is the officially released version.
+
+ - Counterfeit detection: Identifying unlicensed copies or manipulated versions of open/public datasets.
+
+These needs are becoming increasingly relevant in collaborative R&D projects, data marketplaces, federated data spaces, and regulatory AI frameworks.
+
+#### 3. Types of Dataset Watermarking
+There are several technical approaches to watermarking, each suited to different data types and use cases:
+
+ - Cryptographic watermarking: Embedding hashes, digital signatures, or cryptographic checksums directly in the dataset or its metadata to verify integrity.
+
+ - Statistical watermarking: Introducing subtle perturbations in numerical data (e.g., ±0.001%) that are statistically invisible but verifiable through a secret key.
+
+ - Semantic watermarking: Embedding unique codes or identifiers into specific categorical fields (e.g., ID codes, batch numbers, geotags) in a structured way.
+
+ - Embedded metadata schemes: Creating hidden fields or labels within structured data (e.g., hidden columns in a CSV or JSON schema) to encode origin information.
+
+Depending on the application, these methods can be passive (detectable without affecting the data use) or active (designed to raise alerts if tampered with).
+
+#### 4. Applications in Applied Research and Data Governance
+In the context of data analytics for applied research and public-interest projects, official watermarking is particularly useful for:
+
+ - Certifying Open Datasets: Ensuring that published research datasets (e.g., under Open Science mandates) carry a verifiable mark of authenticity from the issuing institution or funding body.
+
+ - DLT and Blockchain Integration: Embedding dataset watermarks as transaction hashes or on-chain references to guarantee origin and immutability.
+
+ - Cross-institutional Data Exchange: Enabling secure and traceable data flows between consortia partners while maintaining accountability.
+
+ - Model Training Auditability: Embedding watermark identifiers into datasets used for AI model training to allow trace-back in case of bias or misuse.
+
+Sensitive Data Monitoring: Protecting regulated data (e.g., personal health or agricultural subsidy records) by embedding audit trails directly within the dataset.
+
+
 ## Basic Data Catalogue
+A basic data catalogue acts as a centralized, searchable inventory that documents all data assets within an organization—including structured tables, unstructured files, dashboards, and ML models. It relies on metadata (technical, operational, and business) to support discovery, trust, and governance. By enabling users to locate relevant data quickly, examine lineage, and understand usage context, a data catalogue dismantles data silos and supports self-service analytics and compliance. https://www.ibm.com/think/topics/data-catalog?utm_source=chatgpt.com
 
-## Data Labelling/Annotation
+## Data Labelling / Annotation
+Data labelling (or annotation) involves applying structured tags or labels to raw data—whether text, images, audio, or video—to enable AI algorithms to understand and learn from it. Common formats include classification labels, bounding boxes, and semantic segmentation. High-quality annotations fuel accurate model training and are essential for domains like autonomous vehicles, medical imaging, and sentiment analysis. https://en.wikipedia.org/wiki/Data_annotation?utm_source=chatgpt.com
 
-## Transformations, Aggregation and Set Operations
+## Transformations
+Transformations comprise the suite of operations—such as normalization, encoding, pivoting, or scaling—used to convert raw inputs into formats suited for analysis. Tools like dbt (Data Build Tool) exemplify modern transformation orchestration in analytics pipelines. Transformations ensure data consistency and prepare inputs for model training or integration .
+
+## Aggregation and Set Operations
+Aggregation involves summarizing granular data (for example, computing the mean, sum, or count across groups), while set operations support combining or comparing datasets (using union, intersection, difference). These techniques are key in feature engineering, enabling analysts to derive meaningful trends and group-level insights—such as average sensor values by location or commonalities between datasets.
 
 ## Data Enrichment
+Data enrichment enhances existing datasets by integrating external or auxiliary information. This can involve adding weather statistics to agricultural sensors, demographic data to health records, or geospatial context to logistics logs. Enrichment boosts model performance by embedding deeper, contextual knowledge into analytics pipelines.
 
 ## Augmented Data Preprocessing
+Augmented data preprocessing applies machine learning or AI techniques to automate and enhance traditional preparation steps—such as cleaning, validation, or profiling. Modern platforms leverage natural language queries and ML-powered quality scoring to guide users through preprocessing tasks, democratizing access to advanced analytics. https://www.qlik.com/us/data-management/data-catalog?utm_source=chatgpt.com
+
 
 ## Augmented Data Preparation
+Building on preprocessing, augmented data preparation offers a self-service interface that guides users through data ingestion, transformation, and cleaning via AI-enhanced suggestions. These platforms allow analysts to visually explore samples, adjust pipelines, and operationalize them without requiring heavy coding, thereby accelerating time-to-insight and reducing dependency on IT .
 
 ## Cloud, Hybrid and Multicloud Support
+Modern analytics infrastructure often spans cloud, on‑premises, and multiple cloud providers. Supporting hybrid and multicloud architectures ensures that data catalogues, transformation tools, and ML workflows can seamlessly operate across diverse environments. This flexibility empowers organizations to optimize for data locality, regulatory compliance, and cost-efficiency while maintaining a unified governance layer and enabling distributed processing .
 
-## 
+<br>
+<br>
 
-# Data Exploration and Visualisation 
+# **Data Exploration and Visualisation** 
 
-\<omissis\>
+In advanced data analytics, effective exploration and visualization are foundational to ensuring insightful, reliable, and actionable results. Together, these methods form an advanced toolkit for data exploration in applied AI settings. From univariate/bivariate statistics to interactive and graph-based visual analysis, augmented discovery, and flexible deployment architecture, they empower analysts to extract reliable insights and present them effectively to decision-makers.
+
+Below is a narrative overview of key methods:
 
 ## Univariate and Bivariate Statistics
+Univariate analysis focuses on the distribution of a single variable—its central tendency (mean, median, mode), variability (variance, standard deviation), and overall shape (skewness, kurtosis), often visualized via histograms or box plots. https://smogdr.github.io/edar_coursebook/eda1.html?utm_source=chatgpt.com https://en.wikipedia.org/wiki/Descriptive_statistics?utm_source=chatgpt.com . Bivariate analysis examines the relationship between two variables, using scatter plots, correlation coefficients, or contingency tables to reveal associations. https://behaveannual.org/statistical-analysis/univariate-and-bivariate-analysis/?utm_source=chatgpt.com
 
 ## Statistical Significance Testing
+After identifying potential relationships, hypothesis tests (e.g. t-tests, chi-square, ANOVA) assess whether observed differences or correlations are statistically robust, guiding whether findings generalize beyond the sample.
 
 ## Signal Preprocessing
+Before visualizing time-based or sensor data, preprocessing steps—such as denoising (e.g., filtering), detrending, normalization, and handling missing values—are applied to reveal genuine patterns and avoid spurious anomalies.
 
 ## Data Visualizations
+Effective visualizations translate numerical insights into clear visual formats—line charts for time series, heatmaps for correlation matrices, geolocation maps for spatial data, and network diagrams for relational patterns—critical for accurate interpretation and stakeholder communication.
 
 ## Exporting Results
+Exploration outcomes must be shareable; exporting summarized statistics, visual objects, or dashboards (e.g., as CSVs, PowerPoints, or interactive web exports) ensures findings are integrated into reports or used in downstream systems.
 
 ## Custom Visualization
+Complex projects often require tailored visual formats—such as composite charts, interactive filters, or domain-specific plots—built through libraries like D3.js or Plotly, to emphasize insights tailored for specific audiences (e.g., agronomists, policymakers).
 
 ## Clustering and Self-Organizing Maps
+Clustering groups similar observations, revealing structure in high-dimensional data. Self‑organizing maps project such clusters onto two-dimensional grids, preserving topological consistency—making latent patterns visually interpretable. https://en.wikipedia.org/wiki/Self-organizing_map?utm_source=chatgpt.com
 
 ## Geolocation Mapping
+Visualizing data on maps (e.g., heatmaps, choropleths, marker clusters) is instrumental in identifying spatial patterns—such as disease spread, product traceability in supply chains, or sensor coverage in environmental monitoring.
 
 ## Affinity and Graph Analysis
+Networks are constructed based on entity connections (e.g., co-occurrence, similarity), and graph algorithms highlight affinity structures, detect communities, and visualize relationships—useful in social network analysis or traceability graphing in DLT environments.
 
 ## Conjoint and Survey Analysis
+In behavioral research, surveys often use conjoint analysis to identify preferences and trade-offs. Responses are statistically analyzed to quantify attribute importance, which is then visualized through bar charts, part-worth utilities, or preference maps.
 
 ## Density Estimation
+Kernel density estimation and contour plots reveal the distribution of observations, helping identify clusters or anomalies. Useful in continuous data exploration such as geospatial sensor readings or income distributions.
 
 ## Similarity Metrics
+Quantitative measures—such as Euclidean distance, cosine similarity, Jaccard index, or Mahalanobis distance—are calculated to assess similarity between data points, guiding clustering or nearest-neighbor viewing.
 
 ## Augmented Data Discovery
+Modern analytics tools integrate AI to automatically suggest visualizations, detect anomalies, and propose filters. This augmented exploration accelerates insights for non-technical users via semantic queries or auto-generated dashboards.
 
-## On-Premises
+## On-Premises, Cloud, Multicloud and Hybrid
+Visualization architectures must adapt to varied environments—on-premises servers, public clouds, or hybrid setups. Multicloud integration ensures that visualization tools (catalogues, dashboards, notebooks) operate seamlessly across distributed platforms while respecting data locality, compliance rules, and interactive performance.
 
-## Cloud, Multicloud and Hybrid
 
-# User Interface
+<br>
+<br>
+
+#  **User Interface**
 
 ## Ease of Use and Learning Curve
 
@@ -3929,7 +4195,7 @@ Binning and smoothing are fundamental preprocessing techniques in applied AI tha
 
 ## Wizards and Contextual Aids \<start again\>
 
-### ALIDA Home -- Dashboard
+### ALIDA Home - Dashboard
 
 The ALIDA homepage displays some general information. In the upper-left
 corner, there is a link to the ALIDA Official Website, where you can
@@ -4299,8 +4565,9 @@ To proceed with the creation of a BDA Service, log in to the ALIDA
 platform and select **BDA Service** from the menu in the top-left
 corner.
 
-![](media/image56.jpg){width="5.9055260279965in"
-height="3.2113998250218723in"}
+<figure>
+<img src="media/image_034_image56.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 4.8.20: BDA Service Creation*
 
@@ -4490,6 +4757,10 @@ If the trained model within the BDA App is of the FML type, it is
 possible to perform a comparison using the *Experiments* button, which
 provides access to the *mlflow* tool. (*Figure 4.8.27: MLflow ToolFigure
 4.8.27: MLflow Tool*)
+
+<br>
+
+<br>
 
 # **Part III** 
 
