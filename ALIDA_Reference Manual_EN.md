@@ -1258,9 +1258,13 @@ Plots, Integrated Gradients, Similarity Based Methods and Others)
 
 [Journal Papers [172](#journal-papers)]
 
-# ***Part I***
+#
+
+# **Part I**
 
 ## Introduction
+
+#
 
 ## ALIDA
 
@@ -2865,14 +2869,14 @@ visualization, and automation to improve agricultural efficiency and
 productivity.
 
 <br>
-<br>
-<br>
 
-# ***Part II***
+#
+
+# **Part II**
 
 ## User Guide
 
-<br>
+#
 
 ## **Data Access**
 
@@ -4758,13 +4762,13 @@ possible to perform a comparison using the *Experiments* button, which
 provides access to the *mlflow* tool. (*Figure 4.8.27: MLflow ToolFigure
 4.8.27: MLflow Tool*)
 
-<br>
-
-<br>
+#
 
 # **Part III** 
 
 # Machine Learning
+
+#
 
 ## Regression
 
@@ -4775,10 +4779,6 @@ provides access to the *mlflow* tool. (*Figure 4.8.27: MLflow ToolFigure
 ## Reinforcement Learning
 
 ## Classification and Regression Trees
-
-**5.18**
-
-**Self-Supervised Learning**
 
 ## Further Rule Induction Techniques
 
@@ -4803,6 +4803,8 @@ provides access to the *mlflow* tool. (*Figure 4.8.27: MLflow ToolFigure
 ## Generative Adversarial Networks (GAN)
 
 ## Federated Learning
+
+<br>
 
 # Other Advanced Analytics
 
@@ -4837,6 +4839,8 @@ provides access to the *mlflow* tool. (*Figure 4.8.27: MLflow ToolFigure
 ## Composite AI
 
 ## Stream Processing/Data in Motion
+
+<br>
 
 # Flexibility, Extensibility and Openness
 
@@ -4891,6 +4895,8 @@ os.environ\[\'GET_PROPERTIES_FROM_ENV\'\] = \"true\"
 
 ## Code Visibility and Transparency
 
+<br>
+
 # Performance and Scalability
 
 ## In-Database Analytics
@@ -4914,6 +4920,8 @@ os.environ\[\'GET_PROPERTIES_FROM_ENV\'\] = \"true\"
 ## On-Premises
 
 ## Cloud, Hybrid and Multicloud
+
+<br>
 
 # Delivery
 
@@ -4983,6 +4991,8 @@ right corner.
 
 ## Parallel Model Deployments
 
+<br>
+
 # Platform and Project Management
 
 ## Compliance and Auditing
@@ -5002,6 +5012,8 @@ right corner.
 ## Securing ML Pipeline
 
 ## Client Deployment
+
+<br>
 
 # Model Management
 
@@ -5034,6 +5046,8 @@ right corner.
 ## Process Monitoring
 
 ## Model Management Across Deployment Modes
+
+<br>
 
 # MLOps
 
@@ -5187,6 +5201,8 @@ quella di "Delivery".**
 Models can be monitored using frameworks such as Evidently wrapped in
 BDA services.
 
+<br>
+
 # Explainable AI
 
 ## Explainable AI
@@ -5200,6 +5216,8 @@ BDA services.
 ## Responsible AI
 
 ## Regulations
+
+<br>
 
 # Precanned Solutions
 
@@ -5221,6 +5239,8 @@ BDA services.
 
 ## What-If Scenarios
 
+<br>
+
 # Collaboration
 
 ## Collaboration Across All Modeling Steps for Distributed Teams
@@ -5233,9 +5253,15 @@ BDA services.
 
 ## Multipersona Collaboration
 
-# Part V
+<br>
+
+<br>
+
+# **Part IV**
 
 # R&I Guide
+
+#
 
 # Data Access
 
@@ -5892,7 +5918,11 @@ storage:
 
 **\**
 
-# Part IV
+<br>
+
+<br>
+
+# **Part V**
 
 # Conclusions
 
