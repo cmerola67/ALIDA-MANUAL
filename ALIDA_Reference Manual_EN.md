@@ -1407,9 +1407,13 @@ analytics endeavours, ensuring you make data-driven decisions with
 confidence.
 
 
+##
+
 # **Use Cases**
 
-## MobiSpaces
+<br>
+
+> ## MobiSpaces
 
 
 
@@ -1567,7 +1571,7 @@ The internal data are usually located and stored on internal servers. A
 mission of the use case, detailed later in the deliverable, is to create
 a good, efficient and sustainable data path for the datasets described.
 
-## CyberSEAS
+> ## CyberSEAS
 
 <figure>
 <img src="media/image_044_image6.jpg" style="max-width: 50%; height: auto;"/>
@@ -1752,7 +1756,7 @@ FML Participant areas, thus based on specific modules for the
 micro-service to be ALIDA compliant, being able to integrate and use at
 the same time all the features provided by Flower.
 
-## CiTrace
+> ## CiTrace
 
 
 <figure>
@@ -1818,7 +1822,7 @@ penetration rate, inventory turnover, and order fulfilment. The Optimal
 Distribution Strategy model will be the result of training a Machine
 Learning algorithm based on these data.
 
-## BD4NRG
+> ## BD4NRG
 
 <figure>
 <img src="media/image_058_image11.jpg" style="max-width: 35%; height: auto;"/>
@@ -1984,7 +1988,7 @@ workflows and allows for composition, deployment and execution of
 workflows (either batch or stream) of BDA applications. *Figure 2.4.3*
 describes the ALIDA general architecture.
 
-## SCREAM
+> ## SCREAM
 
 <figure>
 <img src="media/image_061_image14.jpg" style="max-width: 35%; height: auto;"/>
@@ -2075,7 +2079,7 @@ In ALIDA, both **BDA App** streaming for the *data acquisition* and
 *data preparation,* and *batch* for pre-process and generate ML/DL
 models based on data stored within distributed data storage.
 
-## Infinitech
+> ## Infinitech
 
 
 <figure>
@@ -2353,7 +2357,9 @@ implemented yet.
 
 > *Figure 2.6.7: Infinitech Contribution 05*
 
-## OK-INSAID
+#
+
+> ## OK-INSAID
 
 <figure>
 <img src="media/image_072_image24.jpg" style="max-width:40%; height: auto;"/>
@@ -2566,7 +2572,9 @@ application A2.
 
 > *Figure 2.7.8: OK-INSAID Contribution 06*
 
-## ICARUS
+#
+
+> ## ICARUS
 
 <figure>
 <img src="media/image_007_image32.jpg" style="max-width:40%; height: auto;"/>
@@ -2681,7 +2689,9 @@ The platform will soon be available in beta format. Project researchers
 are currently exploring the best business plan for bringing the platform
 to market.
 
-## Agritech
+#
+
+> ## Agritech
 
 <figure>
 <img src="media/image_009_image34.png" style="max-width:30%; height: auto;"/>
@@ -4770,79 +4780,158 @@ provides access to the *mlflow* tool. (*Figure 4.8.27: MLflow ToolFigure
 
 #
 
+In the field of applied machine learning, a wide array of algorithms and modeling approaches are used to extract patterns, make predictions, and support decision-making across domains. Below is a detailed and discursive overview of foundational and advanced ML techniques.
+
 ## Regression
+
+Regression models aim to predict a continuous output variable based on one or more input features. Common methods include linear regression, ridge/lasso regression, and nonlinear models. These are foundational in applications like demand forecasting, risk scoring, and sensor calibration.
 
 ## Time Series Analysis
 
+Time series models capture trends, seasonality, and temporal dependencies in sequential data. Techniques include ARIMA, exponential smoothing, and ML-based forecasting (e.g., LSTM networks). These are widely used in finance, energy, climate modeling, and supply chain analytics.
+
 ## Deep Learning (Deep Neural Nets) 
+
+Deep learning uses multi-layer neural networks to model highly complex patterns in data. Architectures such as feedforward networks, CNNs, and autoencoders are trained on large datasets. They are crucial in fields like image recognition, NLP, and biomedical signal processing.
 
 ## Reinforcement Learning
 
+Reinforcement learning models learn optimal decision-making policies by interacting with an environment and receiving feedback in the form of rewards. Applications include robotics, game playing, autonomous driving, and real-time resource allocation.
+
 ## Classification and Regression Trees
+
+CART models build decision trees by recursively splitting the data based on feature values to minimize prediction error. These interpretable models are used in areas like credit scoring, fraud detection, and clinical diagnostics.
 
 ## Further Rule Induction Techniques
 
+Beyond decision trees, rule induction methods like RIPPER or CN2 generate if-then rules from training data. These are valued for their interpretability in domains requiring explainable AI, such as healthcare and legal analytics.
+
 ## Support Vector Machines
+
+SVMs are powerful classifiers that find the optimal separating hyperplane between classes by maximizing margin. Kernel functions extend them to nonlinear problems. They are effective in high-dimensional spaces like text classification and bioinformatics.
 
 ## Instance-Based Approaches
 
+These methods, such as k-nearest neighbors (KNN), rely on comparing new data to stored instances using distance metrics. They are non-parametric and suitable for pattern recognition in low-dimensional, well-behaved datasets.
+
 ## Bayesian Modeling
+
+Bayesian models incorporate prior knowledge and quantify uncertainty in predictions. Techniques include Bayesian linear regression, Naive Bayes classifiers, and probabilistic graphical models. They are useful in uncertain or low-data environments.
 
 ## Transfer Learning
 
+Transfer learning leverages knowledge from a pretrained model on a related task to improve performance on a new problem. It is commonly used in image and language models where annotated data is scarce.
+
 ## Ensembles and Hierarchical Models
+
+Ensemble methods like bagging (Random Forests), boosting (XGBoost), and stacking combine multiple models to improve accuracy and robustness. Hierarchical models structure relationships between sub-models or levels of abstraction.
 
 ## Recommendation Techniques
 
+Recommender systems suggest items to users based on collaborative filtering, content-based filtering, or hybrid approaches. Matrix factorization and deep learning methods drive applications in e-commerce, streaming platforms, and personalized education.
+
 ## Measures of Fit
+
+Model evaluation metrics vary by task: R^2, RMSE, MAE for regression; accuracy, precision, recall, F1-score, and ROC-AUC for classification. Proper selection of metrics ensures fair model comparison and tuning.
 
 ## Testing of Predictive Models
 
+Model testing involves techniques like train-test split, cross-validation, and bootstrapping. These methods assess model generalization and help prevent overfitting by simulating performance on unseen data.
+
 ## CNN, RNN, GNN
+
+CNNs are specialized for image and spatial data, using convolutional layers to capture local patterns. Applications include object detection, medical imaging, and scene understanding.
+
+RNNs process sequential data using recurrent connections to retain memory of past inputs. Variants like LSTM and GRU overcome limitations like vanishing gradients. They are pivotal in time series, NLP, and audio processing.
+
+GNNs operate on graph-structured data, learning representations for nodes, edges, and entire graphs. Use cases include social network analysis, recommendation, and molecular property prediction.
 
 ## Generative Adversarial Networks (GAN)
 
+GANs consist of a generator and discriminator in a zero-sum game. The generator learns to produce realistic data while the discriminator distinguishes real from fake. GANs are used for data augmentation, image synthesis, and style transfer.
+
 ## Federated Learning
 
+Federated learning enables model training across decentralized devices without centralizing data. It supports privacy-preserving AI in sectors like healthcare, mobile applications, and edge computing by aggregating model updates rather than raw data.
+
+<br>
 <br>
 
 # Other Advanced Analytics
 
+#
+
 ## Solver approaches
+
+Solver-based approaches use mathematical optimization techniques—such as linear programming, integer programming, and constraint satisfaction—to find the best solution from a feasible set. Widely used in logistics, operations research, and scheduling.
 
 ## Heuristic approaches
 
+Heuristics use problem-specific strategies or rules of thumb to find good (but not necessarily optimal) solutions efficiently. Common techniques include greedy algorithms, simulated annealing, and tabu search—applicable in planning, routing, and design problems.
+
 ## Design of experiments
+
+DoE is a systematic method for planning, conducting, and analyzing controlled tests to evaluate factors affecting outcomes. It supports robust model development and process optimization in manufacturing, healthcare, and scientific research.
 
 ## Discrete Events
 
+Discrete event simulation models systems where state changes occur at distinct points in time, such as in queuing systems or production lines. Useful for evaluating throughput, bottlenecks, and resource utilization.
+
 ## Monte Carlo Simulation
+
+Monte Carlo methods use repeated random sampling to estimate the probability distribution of uncertain outcomes. Common in financial risk analysis, reliability engineering, and stochastic modeling.
 
 ## Agent-Based Modelling
 
+Agent-based models simulate interactions of autonomous entities (agents) with local rules, revealing emergent system-level behavior. Used in complex systems modeling, from urban mobility to market dynamics.
+
 ## Text Analytics
+
+Text analytics extracts structured information from unstructured text using techniques like natural language processing, sentiment analysis, and topic modeling. Applied in document classification, customer feedback analysis, and compliance monitoring.
 
 ## Customizable Pretrained Algorithms
 
+Pretrained algorithms—such as transformers or CNNs—can be fine-tuned on domain-specific data to accelerate deployment. This enables rapid adaptation of state-of-the-art models with minimal labeled data.
+
 ## Audio Mining
+
+Audio mining analyzes audio content for patterns, keywords, or speaker characteristics. Techniques include speech-to-text, audio segmentation, and acoustic event detection, relevant in customer service, security, and healthcare.
 
 ## Image Analytics
 
+Image analytics applies computer vision techniques to extract insights from visual data. Use cases range from quality inspection in manufacturing to satellite image classification and medical diagnostics.
+
 ## Geospatial Analysis
+
+Geospatial analysis examines data with spatial components using mapping, spatial statistics, and geocoding. It supports applications in environmental monitoring, urban planning, and location-based services.
 
 ## Financial Modelling and Econometrics
 
+These models analyze and forecast financial trends using statistical and mathematical tools. Techniques include time series econometrics, portfolio optimization, and pricing models, supporting investment and policy decisions.
+
 ## Decision Modelling
+
+Decision modeling structures complex choices using decision trees, influence diagrams, or cost-benefit frameworks. It enhances clarity and accountability in strategic, operational, or policy decisions.
 
 ## Decision Management
 
+Decision management integrates business rules, analytics, and workflows to automate operational decisions. It ensures consistency, compliance, and responsiveness in real-time systems.
+
 ## Composite AI
 
+Composite AI combines different AI techniques—such as symbolic reasoning with machine learning—to improve interpretability, adaptability, and performance. This hybrid approach supports AI applications in regulated or knowledge-rich domains.
+
 ## Stream Processing/Data in Motion
+
+Stream processing handles real-time data flows—capturing, analyzing, and acting on data as it arrives. Technologies like Apache Kafka and Spark Streaming enable event-driven architectures for fraud detection, IoT, and real-time dashboards.
+
+<br>
 
 <br>
 
 # Flexibility, Extensibility and Openness
+
+#
 
 ## R
 
@@ -4897,7 +4986,11 @@ os.environ\[\'GET_PROPERTIES_FROM_ENV\'\] = \"true\"
 
 <br>
 
+<br>
+
 # Performance and Scalability
+
+#
 
 ## In-Database Analytics
 
@@ -4923,7 +5016,11 @@ os.environ\[\'GET_PROPERTIES_FROM_ENV\'\] = \"true\"
 
 <br>
 
+<br>
+
 # Delivery
+
+#
 
 ## Write-back
 
