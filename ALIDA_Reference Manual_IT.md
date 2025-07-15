@@ -30,38 +30,38 @@ Si tratta di un asset di ENG concepito e sviluppato alla luce dell’uso massicc
 
 ## **Acknowledgements**
 
-To those who remain in the heart of the ALIDA Team: Domenico Messina,
+A coloro i quali rimangono nel cuore del Team ALIDA: Domenico Messina,
 \...
 
-To those who still swim in this sea: Susanna Bonura, Delia Milazzo,
+A coloro i quali ancora nuotano in questo mare: Susanna Bonura, Delia Milazzo,
 Flavio Scaccia, Davide Profeta, Nicola Masi, Matteo Stanislao Giarrusso,
 Piero Di Liberto, Sergio Comella, Salvatore Cipolla, Rosario Catelli,
 \...
 
-## **Contents**
+## **Contenuti**
 
-[Contents [7](#contents)]
+[Contenuti [7](#contents)]
 
-[Part I [23](#part-i)]
+[Parte I [23](#part-i)]
 
-[Introduction [23](#introduction)]
+[Introduzione [23](#introduction)]
 
 [1. ALIDA [24](#alida)]
 
-[1.1 What is it? [24](#what-is-it)]
+[1.1 Cosa è? [24](#what-is-it)]
 
-[1.2 What is it for? [24](#what-is-it-for)]
+[1.2 A cosa serve? [24](#what-is-it-for)]
 
-[1.3 Why do you need it? [25](#why-do-you-need-it)]
+[1.3 Perchè ne si ha bisogno? [25](#why-do-you-need-it)]
 
-[1.4 How does it work? [25](#how-does-it-work)]
+[1.4 Come funziona? [25](#how-does-it-work)]
 
-[1.5 When can it be used?
+[1.5 Quando può essere utilizzato?
 [25](#when-can-it-be-used)]
 
-[1.6 In a nutshell? [26](#in-a-nutshell)]
+[1.6 In breve? [26](#in-a-nutshell)]
 
-[2. Use Cases [28](#use-cases)]
+[2. Casi d'Uso [28](#use-cases)]
 
 [2.1 MobiSpaces [28](#mobispaces)]
 
@@ -69,1180 +69,1179 @@ Piero Di Liberto, Sergio Comella, Salvatore Cipolla, Rosario Catelli,
 
 [2.1.2 Overview [29](#overview)]
 
-[2.1.3 Zooming into project
+[2.1.3 Approfondimento
 [30](#zooming-into-project)]
 
-[2.1.4 Alida in the project
-[31](#alida-in-the-project)](#alida-in-the-project)
+[2.1.4 Alida all'interno del progetto
+[31](#alida-in-the-project)]
 
-[2.2 CyberSEAS [33](#cyberseas)](#cyberseas)
+[2.2 CyberSEAS [33](#cyberseas)]
 
-[2.2.1 Partners [33](#partners-1)](#partners-1)
+[2.2.1 Partners [33](#partners-1)]
 
-[2.2.2 Overview [35](#overview-1)](#overview-1)
+[2.2.2 Overview [35](#overview-1)]
 
-[2.2.3 Zooming into Project
-[35](#zooming-into-project-1)](#zooming-into-project-1)
+[2.2.3 Approfondimento
+[35](#zooming-into-project-1)]
 
 [2.2.4 Alida in the Project
-[36](#alida-in-the-project-1)](#alida-in-the-project-1)
+[36](#alida-in-the-project-1)]
 
-[2.3 CiTrace [39](#citrace)](#citrace)
+[2.3 CiTrace [39](#citrace)]
 
-[2.3.1 Partners [39](#partners-2)](#partners-2)
+[2.3.1 Partners [39](#partners-2)]
 
-[2.3.2 Overview [40](#overview-2)](#overview-2)
+[2.3.2 Overview [40](#overview-2)]
 
-[2.3.3 Zooming into Project
-[40](#zooming-into-project-2)](#zooming-into-project-2)
+[2.3.3 Approfondimento
+[40](#zooming-into-project-2)]
 
-[2.4 BD4NRG [41](#bd4nrg)](#bd4nrg)
+[2.4 BD4NRG [41](#bd4nrg)]
 
-[2.4.1 Partners [41](#partners-3)](#partners-3)
+[2.4.1 Partners [41](#partners-3)]
 
-[2.4.2 Case Overview [43](#case-overview)](#case-overview)
+[2.4.2 Case Overview [43](#case-overview)]
 
-[2.4.3 Zooming into Project
-[43](#zooming-into-project-3)](#zooming-into-project-3)
+[2.4.3 Approfondimento
+[43](#zooming-into-project-3)]
 
 [2.4.4 Alida in the Project
-[45](#alida-in-the-project-2)](#alida-in-the-project-2)
+[45](#alida-in-the-project-2)]
 
-[2.5 SCREAM [46](#scream)](#scream)
+[2.5 SCREAM [46](#scream)]
 
-[2.5.1 Partners [46](#partners-4)](#partners-4)
+[2.5.1 Partners [46](#partners-4)]
 
-[2.5.2 Case Overview [46](#case-overview-1)](#case-overview-1)
+[2.5.2 Case Overview [46](#case-overview-1)]
 
 [2.5.3 Zooming into Project
-[47](#zooming-into-project-4)](#zooming-into-project-4)
+[47](#zooming-into-project-4)]
 
 [2.5.4 Alida in the Project
-[48](#alida-in-the-project-3)](#alida-in-the-project-3)
+[48](#alida-in-the-project-3)]
 
-[2.6 Infinitech [49](#infinitech)](#infinitech)
+[2.6 Infinitech [49](#infinitech)]
 
-[2.6.1 Partners [49](#partners-5)](#partners-5)
+[2.6.1 Partners [49](#partners-5)]
 
-[2.6.2 Case Overview [52](#case-overview-2)](#case-overview-2)
+[2.6.2 Case Overview [52](#case-overview-2)]
 
-[2.6.3 Zooming into Project
-[52](#zooming-into-project-5)](#zooming-into-project-5)
+[2.6.3 Approfondimento
+[52](#zooming-into-project-5)]
 
 [2.6.4 Alida in the Project
-[55](#alida-in-the-project-4)](#alida-in-the-project-4)
+[55](#alida-in-the-project-4)]
 
-[2.7 OK-INSAID [58](#ok-insaid)](#ok-insaid)
+[2.7 OK-INSAID [58](#ok-insaid)]
 
-[2.7.1 Partners [58](#partners-6)](#partners-6)
-
-[2.7.2 Case Overview [59](#case-overview-3)](#case-overview-3)
+[2.7.2 Case Overview [59](#case-overview-3)]
 
 [2.7.3 Zooming into Project
-[59](#zooming-into-project-6)](#zooming-into-project-6)
+[59](#zooming-into-project-6)]
 
 [2.7.4 Alida in the Project
-[60](#alida-in-the-project-5)](#alida-in-the-project-5)
+[60](#alida-in-the-project-5)]
 
-[2.8 ICARUS [65](#icarus)](#icarus)
+[2.8 ICARUS [65](#icarus)]
 
-[2.8.1 Partners [65](#partners-7)](#partners-7)
+[2.8.1 Partners [65](#partners-7)]
 
-[2.8.2 Case Overview [66](#case-overview-4)](#case-overview-4)
+[2.8.2 Case Overview [66](#case-overview-4)]
 
-[2.8.3 Zooming into Project
-[66](#zooming-into-project-7)](#zooming-into-project-7)
+[2.8.3 Approfondimento
+[66](#zooming-into-project-7)]
 
-[2.9 Agritech [68](#agritech)](#agritech)
+[2.9 Agritech [68](#agritech)]
 
-[2.9.1 Partners [68](#partners-8)](#partners-8)
+[2.9.1 Partners [68](#partners-8)]
 
-[2.9.2 Case Overview [70](#case-overview-5)](#case-overview-5)
+[2.9.2 Case Overview [70](#case-overview-5)
 
-[2.9.3 Zooming into Project
-[70](#zooming-into-project-8)](#zooming-into-project-8)
+[2.9.3 Approfondimento
+[70](#zooming-into-project-8)]
 
 [2.9.4 Alida in the Project
-[72](#alida-in-the-project-6)](#alida-in-the-project-6)
+[72](#alida-in-the-project-6)
 
-[Part II [73](#part-ii)](#part-ii)
+[Part II [73](#part-ii)]
 
-[User Guide [73](#user-guide)](#user-guide)
+[User Guide [73](#user-guide)]
 
-[1. Data Access\* [73](#data-access)](#data-access)
+[1. Accesso ai dati\* [73](#data-access)]
 
-[1.1 Enterprise Application Integration
-[73](#enterprise-application-integration)](#enterprise-application-integration)
+[1.1 Integrazione delle applicazioni aziendali
+[73](#enterprise-application-integration)]
 
-[1.1.1 Definition [73](#definition)](#definition)
+[1.1.1 Definizione [73](#definition)]
 
-[1.1.2 In ALIDA [73](#in-alida)](#in-alida)
+[1.1.2 In ALIDA [73](#in-alida)]
 
-[1.2 Data Replication and Synchronization
-[73](#data-replication-and-synchronization)](#data-replication-and-synchronization)
+[1.2 Replica e sincronizzazione dei dati
+[73](#data-replication-and-synchronization)]
 
-[1.2.1 Data Replication [73](#data-replication)](#data-replication)
+[1.2.1 Replica dei dati [73](#data-replica)]
 
-[1.2.2 Data Synchronization
-[74](#data-synchronization)](#data-synchronization)
+[1.2.2 Sincronizzazione dei dati
+[74](#data-synchronization)]
 
-[1.2.3 In ALIDA [75](#in-alida-1)](#in-alida-1)
+[1.2.3 In ALIDA [75](#in-alida-1)]
 
-[1.3 Basic and Advanced ETL Functionality
-[76](#basic-and-advanced-etl-functionality)](#basic-and-advanced-etl-functionality)
+[1.3 Funzionalità ETL di base e avanzate
+[76](#basic-and-advanced-etl-functionality)]
 
-[1.3.1 Basic ETL Functionality
-[76](#basic-etl-functionality)](#basic-etl-functionality)
+[1.3.1 Funzionalità ETL di base
+[76](#basic-etl-functionality)]
 
-[1.3.1.1 Extract [76](#extract)](#extract)
 
-[1.3.1.2 Transform [76](#transform)](#transform)
+[1.3.1.1 Estratto [76](#extract)]
 
-[1.3.1.3 Load [76](#load)](#load)
+[1.3.1.2 Trasformazione [76](#transform)]
 
-[Common Use Cases: [77](#common-use-cases)](#common-use-cases)
+[1.3.1.3 Carico [76](#load)]
 
-[1.3.2 Advanced ETL Functionality
-[77](#advanced-etl-functionality)](#advanced-etl-functionality)
+[Casi d'uso comuni: [77](#common-use-cases)]
 
-[1.3.2.1 Advanced Extract [77](#advanced-extract)](#advanced-extract)
+[1.3.2 Funzionalità ETL avanzate
+[77](#advanced-etl-functionality)]
 
-[1.3.2.2 Advanced Transform
-[77](#advanced-transform)](#advanced-transform)
+[1.3.2.1 Estratto avanzato [77](#advanced-extract)]
 
-[1.3.2.3 Advanced Load [78](#advanced-load)](#advanced-load)
+[1.3.2.2 Trasformazione avanzata
+[77](#advanced-transform)]
 
-[1.3.2.4 Automation & Orchestration
-[78](#automation-orchestration)](#automation-orchestration)
+[1.3.2.3 Carico avanzato [78](#advanced-load)]
 
-[1.3.2.4.1 Advanced Scalability & Performance
-[78](#advanced-scalability-performance)](#advanced-scalability-performance)
+[1.3.2.4 Automazione e orchestrazione
+[78](#automation-orchestration)]
 
-[1.3.2.4.2 Security & Governance
-[78](#security-governance)](#security-governance)
+[1.3.2.4.1 Scalabilità e prestazioni avanzate
+[78](#advanced-scalability-performance)]
 
-[1.3.2.4.3 Integration with Modern Architectures
-[78](#integration-with-modern-architectures)](#integration-with-modern-architectures)
+[1.3.2.4.2 Sicurezza e governance
+[78](#security-governance)]
 
-[1.3.2.4.4 In ALIDA [79](#in-alida-2)](#in-alida-2)
+[1.3.2.4.3 Integrazione con le architetture moderne
+[78](#integration-with-modern-architectures)]
 
-[1.4 Hybrid and Multi Cloud Data Sources
-[79](#hybrid-and-multi-cloud-data-sources)](#hybrid-and-multi-cloud-data-sources)
+[1.3.2.4.4 In ALIDA [79](#in-alida-2)]
 
-[1.4.1 Hybrid Cloud [79](#hybrid-cloud)](#hybrid-cloud)
+[1.4 Origini dati ibride e multi-cloud
+[79](#hybrid e più fonti di dati cloud)]
 
-[1.4.2 Multi-Cloud [80](#multi-cloud)](#multi-cloud)
+[1.4.1 Cloud ibrido [79](#hybrid-cloud)]
 
-[1.5 Access to Nontraditional Data Types
-[80](#access-to-nontraditional-data-types)](#access-to-nontraditional-data-types)
+[1.4.2 Multi-Cloud [80](#multi-cloud)]
 
-[1.5.1 Geospatial Data [81](#geospatial-data)](#geospatial-data)
+[1.5 Accesso a tipi di dati non tradizionali
+[80](#access-to-nontraditional-data-types)]
 
-[1.5.2 Mobile Phone Data [81](#mobile-phone-data)](#mobile-phone-data)
+[1.5.1 Dati geospaziali [81](#geospatial-data)]
 
-[1.5.3 Social Media Data [81](#social-media-data)](#social-media-data)
+[1.5.2 Dati del telefono cellulare [81](#mobile-phone-data)]
 
-[1.5.4 Sensor Data [81](#sensor-data)](#sensor-data)
+[1.5.3 Dati sui social media [81](#social-media-data)]
 
-[1.5.5 Citizen-Generated Data
-[81](#citizen-generated-data)](#citizen-generated-data)
+[1.5.4 Dati del sensore [81](#sensor-data)]
 
-[1.5.6 Transaction Data [81](#transaction-data)](#transaction-data)
+[1.5.5 Dati generati dai cittadini
+[81](#citizen-generated-data)]
 
-[1.6 Connectivity to Data Lake Infrastructure
-[82](#connectivity-to-data-lake-infrastructure)](#connectivity-to-data-lake-infrastructure)
+[1.5.6 Dati sulle transazioni [81](#transaction-data)]
 
-[1.6.1 Choose the Right Data Lake Platform
-[82](#choose-the-right-data-lake-platform)](#choose-the-right-data-lake-platform)
+[1.6 Connettività all'infrastruttura del data lake
+[82](#connectivity-to-data-lake-infrastructure)]
 
-[1.6.2 Set Up Authentication and Access Control
-[82](#set-up-authentication-and-access-control)](#set-up-authentication-and-access-control)
+[1.6.1 Scegliere la giusta piattaforma di data lake
+[82](#choose-the-right-data-lake-platform)]
 
-[1.6.3 Data Ingestion and Integration
-[82](#data-ingestion-and-integration)](#data-ingestion-and-integration)
+[1.6.2 Impostazione dell'autenticazione e del controllo degli accessi
+[82](#set-up-authentication-and-access-control)]
 
-[1.6.4 Data Management and Governance
-[82](#data-management-and-governance)](#data-management-and-governance)
+[1.6.3 Acquisizione e integrazione dei dati
+[82](#data-ingestion-and-integration)]
 
-[1.6.5 Analytics and Processing
-[83](#analytics-and-processing)](#analytics-and-processing)
+[1.6.4 Gestione e governance dei dati
+[82](#data-management-and-governance)]
 
-[1.7 Data Lineage [83](#data-lineage)](#data-lineage)
+[1.6.5 Analisi ed elaborazione
+[83](#analytics-and-processing)]
 
-[1.7.1 Importance of Data Lineage
-[83](#importance-of-data-lineage)](#importance-of-data-lineage)
+[1.7 Derivazione dati [83](#data-lineage)]
 
-[1.7.2 Components of Data Lineage
-[83](#components-of-data-lineage)](#components-of-data-lineage)
+[1.7.1 Importanza della derivazione dei dati
+[83](#importance-of-data-lineage)]
 
-[1.7.3 Tools for Data Lineage
-[84](#tools-for-data-lineage)](#tools-for-data-lineage)
+[1.7.2 Componenti della derivazione dei dati
+[83](#components-of-data-lineage)]
 
-[1.7.4 Benefits of Data Lineage
-[84](#benefits-of-data-lineage)](#benefits-of-data-lineage)
+[1.7.3 Strumenti per la derivazione dei dati
+[84](#tools-for-data-lineage)]
 
-[1.8 Data Governance and Metadata Management
-[84](#data-governance-and-metadata-management)](#data-governance-and-metadata-management)
+[1.7.4 Vantaggi della derivazione dei dati
+[84](#benefits-of-data-lineage)]
 
-[1.8.1 Data Governance [84](#data-governance)](#data-governance)
+[1.8 Governance dei dati e gestione dei metadati
+[84](#data-governance-and-metadata-management)]
 
-[1.8.2 Metadata Management
-[85](#metadata-management)](#metadata-management)
+[1.8.1 Governance dei dati [84](#data-governance)]
 
-[1.8.3 Synergy Between Data Governance and Metadata Management
-[85](#synergy-between-data-governance-and-metadata-management)](#synergy-between-data-governance-and-metadata-management)
+[1.8.2 Gestione dei metadati
+[85](#metadata-management)]
 
-[1.9 API-Based Access to Web Data
-[86](#api-based-access-to-web-data)](#api-based-access-to-web-data)
+[1.8.3 Sinergia tra governance dei dati e gestione dei metadati
+[85](#synergy-between-data-governance-and-metadata-management)]
 
-[1.9.1 How API-Based Access Works
-[86](#how-api-based-access-works)](#how-api-based-access-works)
+[1.9 Accesso ai dati Web basato su API
+[86](#api-based-access-to-web-data)]
 
-[1.9.2 Popular Tools and Libraries
-[86](#popular-tools-and-libraries)](#popular-tools-and-libraries)
+[1.9.1 Come funziona l'accesso basato su API
+[86](#how-api-based-access-works)]
 
-[1.9.3 Use Cases [86](#use-cases-1)](#use-cases-1)
+[1.9.2 Strumenti e librerie popolari
+[86](#popular-tools-and-libraries)]
 
-[1.9.4 Learning Resources
-[86](#learning-resources)](#learning-resources)
+[1.9.3 Casi d'uso [86](#use-cases-1)]
 
-[2. Data Preparation [88](#data-preparation)](#data-preparation)
+[1.9.4 Risorse per l'apprendimento
+[86](#learning-resources)]
 
-[2.1 Data Blending/Wrangling
-[88](#data-blendingwrangling)](#data-blendingwrangling)
+[2. Preparazione dei dati [88](#data-preparation)]
 
-[2.2 Data Augmentation [89](#data-augmentation)](#data-augmentation)
+[2.1 Fusione/Wrangling dei dati
+[88](#data-blendingwrangling)]
 
-[2.3 Data Quality Support
-[91](#data-quality-support)](#data-quality-support)
+[2.2 Aumento dei dati [89](#data-augmentation)]
 
-[2.4 Dataset Partitioning
-[91](#dataset-partitioning)](#dataset-partitioning)
+[2.3 Supporto per la qualità dei dati
+[91](#data-quality-support)]
 
-[2.5 Binning and Smoothing
-[91](#binning-and-smoothing)](#binning-and-smoothing)
+[2.4 Partizionamento del set di dati
+[91](#dataset-partitioning)]
 
-[2.6 Filter and Search [91](#filter-and-search)](#filter-and-search)
+[2.5 Binning e smoothing
+[91](#binning-and-smoothing)]
 
-[2.7 Feature Generation [91](#feature-generation)](#feature-generation)
+[2.6 Filtro e ricerca [91](#filter-and-search)]
 
-[2.8 Official Watermarking of Datasets
-[91](#official-watermarking-of-datasets)](#official-watermarking-of-datasets)
+[2.7 Generazione di funzionalità [91](#feature-generation)]
 
-[2.9 Basic Data Catalogue
-[91](#basic-data-catalogue)](#basic-data-catalogue)
+[2.8 Watermarking ufficiale dei set di dati
+[91](#official-watermarking-of-datasets)]
 
-[2.10 Data Labelling/Annotation
-[91](#data-labellingannotation)](#data-labellingannotation)
+[2.9 Catalogo dei dati di base
+[91](#basic-data-catalogue)]
 
-[2.11 Transformations, Aggregation and Set Operations
-[91](#transformations-aggregation-and-set-operations)](#transformations-aggregation-and-set-operations)
+[2.10 Etichettatura/annotazione dei dati
+[91](#data-labellingannotation)]
 
-[2.12 Data Enrichment [91](#data-enrichment)](#data-enrichment)
 
-[2.13 Augmented Data Preprocessing
-[91](#augmented-data-preprocessing)](#augmented-data-preprocessing)
+[2.11 Operazioni di trasformazione, aggregazione e set
+[91](#transformations-aggregation-and-set-operations)]
 
-[2.14 Augmented Data Preparation
-[91](#augmented-data-preparation)](#augmented-data-preparation)
+[2.12 Arricchimento dei dati [91](#data-enrichment)]
 
-[2.15 Cloud, Hybrid and Multicloud Support
-[91](#cloud-hybrid-and-multicloud-support)](#cloud-hybrid-and-multicloud-support)
+[2.13 Pre-elaborazione aumentata dei dati
+[91](#augmented-data-preprocessing)]
 
-[3. Data Exploration and Visualisation \<omissis\>
-[92](#data-exploration-and-visualisation-omissis)](#data-exploration-and-visualisation-omissis)
+[2.14 Preparazione dei dati aumentata
+[91](#augmented-data-preparation)]
 
-[3.1 Univariate and Bivariate Statistics
-[92](#univariate-and-bivariate-statistics)](#univariate-and-bivariate-statistics)
+[2.15 Supporto cloud, ibrido e multicloud
+[91](#cloud-hybrid-and-multicloud-support)]
 
-[3.2 Statistical Significance Testing
-[92](#statistical-significance-testing)](#statistical-significance-testing)
+[3. Esplorazione e visualizzazione dei dati \<omissis\>
+[92](#data-exploration-and-visualisation-omissis)]
 
-[3.3 Signal Preprocessing
-[92](#signal-preprocessing)](#signal-preprocessing)
+[3.1 Statistica univariata e bivariata
+[92](#univariate-and-bivariate-statistics)]
 
-[3.4 Data Visualizations
-[92](#data-visualizations)](#data-visualizations)
+[3.2 Test di significatività statistica
+[92](#statistical-significance-testing)]
 
-[3.5 Exporting Results [92](#exporting-results)](#exporting-results)
+[3.3 Pre-elaborazione del segnale
+[92](#signal-preprocessing)]
 
-[3.6 Custom Visualization
-[92](#custom-visualization)](#custom-visualization)
+[3.4 Visualizzazioni dei dati
+[92](#data-visualizations)]
 
-[3.7 Clustering and Self-Organizing Maps
-[92](#clustering-and-self-organizing-maps)](#clustering-and-self-organizing-maps)
+[3.5 Esportazione dei risultati [92](#exporting-results)]
 
-[3.8 Geolocation Mapping
-[92](#geolocation-mapping)](#geolocation-mapping)
+[3.6 Visualizzazione personalizzata
+[92](#custom-visualization))
 
-[3.9 Affinity and Graph Analysis
-[92](#affinity-and-graph-analysis)](#affinity-and-graph-analysis)
+[3.7 Clustering e mappe auto-organizzanti
+[92](#clustering-and-self-organizing-maps)]
 
-[3.10 Conjoint and Survey Analysis
-[92](#conjoint-and-survey-analysis)](#conjoint-and-survey-analysis)
+[3.8 Mappatura della geolocalizzazione
+[92](#geolocation-mapping)]
 
-[3.11 Density Estimation [92](#density-estimation)](#density-estimation)
+[3.9 Analisi di affinità e grafi
+[92](#affinity-and-graph-analysis)]
 
-[3.12 Similarity Metrics [92](#similarity-metrics)](#similarity-metrics)
+[3.10 Analisi congiunta e di indagine
+[92](#conjoint-and-survey-analysis)]
 
-[3.13 Augmented Data Discovery
-[92](#augmented-data-discovery)](#augmented-data-discovery)
+[3.11 Stima della densità [92](#density-estimation)]
 
-[3.14 On-Premises [92](#on-premises)](#on-premises)
+[3.12 Metriche di somiglianza [92](#similarity-metrics)]
 
-[3.15 Cloud, Multicloud and Hybrid
-[92](#cloud-multicloud-and-hybrid)](#cloud-multicloud-and-hybrid)
+[3.13 Rilevamento dei dati aumentato
+[92](#augmented-data-discovery)]
 
-[4. User Interface [93](#user-interface)](#user-interface)
+[3.14 Locale [92](#on-premises)]
 
-[4.1 Ease of Use and Learning Curve
-[93](#ease-of-use-and-learning-curve)](#ease-of-use-and-learning-curve)
+[3.15 Cloud, multicloud e ibrido
+[92](#cloud-multicloud-and-hybrid)]
 
-[4.2 Developer-Focused Data Science
-[93](#developer-focused-data-science)](#developer-focused-data-science)
+[4. Interfaccia utente [93](#user-interface)]
 
-[4.3 NLP Q&A [93](#nlp-qa)](#nlp-qa)
+[4.1 Facilità d'uso e curva di apprendimento
+[93](#ease-of-use-and-learning-curve)]
 
-[4.4 Documentation [93](#documentation)](#documentation)
+[4.2 Scienza dei dati incentrata sugli sviluppatori
+[93](#developer-focused-data-science)]
 
-[4.5 User Community [93](#user-community)](#user-community)
+[4.3 DOMANDE E RISPOSTE SULLA NLP [93](#nlp-qa)]
 
-[4.6 Third-Party Applications
-[93](#third-party-applications)](#third-party-applications)
+[4.4 Documentazione [93](#documentation)]
 
-[4.7 Visual Pipelining or Visual Composition Framework
-[93](#visual-pipelining-or-visual-composition-framework)](#visual-pipelining-or-visual-composition-framework)
+[4.5 Comunità di utenti [93](#user-community)]
 
-[4.8 Wizards and Contextual Aids \<start again\>
-[93](#wizards-and-contextual-aids-start-again)](#wizards-and-contextual-aids-start-again)
+[4.6 Applicazioni di terze parti
+[93](#third-party-applications)]
 
-[4.8.1 ALIDA Home -- Dashboard
-[93](#alida-home-dashboard)](#alida-home-dashboard)
+[4.7 Pipelining visivo o framework di composizione visiva
+[93](#visual-pipelining-or-visual-composition-framework)]
 
-[4.8.2 Notifications [94](#notifications)](#notifications)
+[4.8 Procedure guidate e aiuti contestuali \<ricominciare\>
+[93](#wizards-and-contextual-aids-start-again)]
 
-[4.8.3 DataSource [99](#datasource)](#datasource)
+[4.8.1 ALIDA Home -- Cruscotto
+[93](#alida-home-dashboard)]
 
-[4.8.4 Datasets [102](#datasets)](#datasets)
+[4.8.2 Notifiche [94](#notifications)]
 
-[4.8.5 BDA Services [104](#bda-services)](#bda-services)
+[4.8.3 Origine dati [99](#datasource)]
 
-[4.8.6 BDA Application [108](#bda-application)](#bda-application)
+[4.8.4 Dataset [102](#datasets)]
 
-[1. Machine Learning [143](#machine-learning)](#machine-learning)
+[4.8.5 Servizi BDA [104](#bda-services)]
 
-[1.1 Regression [143](#regression)](#regression)
+[4.8.6 Applicazione BDA [108](#bda-application)]
+
+
+### [Part III [143](#part-iii)]
+
+[1. Machine Learning [143](#machine-learning)]
+
+[1.1 Regression [143](#regression)]
 
 [1.2 Time Series Analysis
-[143](#time-series-analysis)](#time-series-analysis)
+[143](#time-series-analysis)]
 
 [1.3 Deep Learning (Deep Neural Nets)
-[143](#deep-learning-deep-neural-nets)](#deep-learning-deep-neural-nets)
+[143](#deep-learning-deep-neural-nets)]
 
 [1.4 Reinforcement Learning
-[143](#reinforcement-learning)](#reinforcement-learning)
+[143](#reinforcement-learning)]
 
 [1.5 Classification and Regression Trees
-[143](#classification-and-regression-trees)](#classification-and-regression-trees)
+[143](#classification-and-regression-trees)]
 
 [1.6 Further Rule Induction Techniques
-[143](#further-rule-induction-techniques)](#further-rule-induction-techniques)
+[143](#further-rule-induction-techniques)]
 
 [1.7 Support Vector Machines
-[143](#support-vector-machines)](#support-vector-machines)
+[143](#support-vector-machines)]
 
 [1.8 Instance-Based Approaches
-[143](#instance-based-approaches)](#instance-based-approaches)
+[143](#instance-based-approaches)]
 
-[1.9 Bayesian Modeling [143](#bayesian-modeling)](#bayesian-modeling)
+[1.9 Bayesian Modeling [143](#bayesian-modeling)](
 
-[1.10 Transfer Learning [143](#transfer-learning)](#transfer-learning)
+[1.10 Transfer Learning [143](#transfer-learning)]
 
 [1.11 Ensembles and Hierarchical Models
-[143](#ensembles-and-hierarchical-models)](#ensembles-and-hierarchical-models)
+[143](#ensembles-and-hierarchical-models)]
 
 [1.12 Recommendation Techniques
-[143](#recommendation-techniques)](#recommendation-techniques)
+[143](#recommendation-techniques)]
 
-[1.13 Measures of Fit [143](#measures-of-fit)](#measures-of-fit)
+[1.13 Measures of Fit [143](#measures-of-fit)]
 
 [1.14 Testing of Predictive Models
-[143](#testing-of-predictive-models)](#testing-of-predictive-models)
+[143](#testing-of-predictive-models)]
 
-[1.15 CNN, RNN, GNN [143](#cnn-rnn-gnn)](#cnn-rnn-gnn)
+[1.15 CNN, RNN, GNN [143](#cnn-rnn-gnn)]
 
 [1.16 Generative Adversarial Networks (GAN)
-[143](#generative-adversarial-networks-gan)](#generative-adversarial-networks-gan)
+[143](#generative-adversarial-networks-gan)]
 
 [1.17 Federated Learning
-[143](#federated-learning)](#federated-learning)
+[143](#federated-learning)]
 
 [2. Other Advanced Analytics
-[144](#other-advanced-analytics)](#other-advanced-analytics)
+[144](#other-advanced-analytics)]
 
-[2.1 Solver approaches [144](#solver-approaches)](#solver-approaches)
+[2.1 Solver approaches [144](#solver-approaches)]
 
 [2.2 Heuristic approaches
-[144](#heuristic-approaches)](#heuristic-approaches)
+[144](#heuristic-approaches)]
 
 [2.3 Design of experiments
-[144](#design-of-experiments)](#design-of-experiments)
+[144](#design-of-experiments)]
 
-[2.4 Discrete Events [144](#discrete-events)](#discrete-events)
+[2.4 Discrete Events [144](#discrete-events)]
 
 [2.5 Monte Carlo Simulation
-[144](#monte-carlo-simulation)](#monte-carlo-simulation)
+[144](#monte-carlo-simulation)]
 
 [2.6 Agent-Based Modelling
-[144](#agent-based-modelling)](#agent-based-modelling)
+[144](#agent-based-modelling)]
 
-[2.7 Text Analytics [144](#text-analytics)](#text-analytics)
+[2.7 Text Analytics [144](#text-analytics)]
 
 [2.8 Customizable Pretrained Algorithms
-[144](#customizable-pretrained-algorithms)](#customizable-pretrained-algorithms)
+[144](#customizable-pretrained-algorithms)]
 
-[2.9 Audio Mining [144](#audio-mining)](#audio-mining)
+[2.9 Audio Mining [144](#audio-mining)]
 
-[2.10 Image Analytics [144](#image-analytics)](#image-analytics)
+[2.10 Image Analytics [144](#image-analytics)]
 
 [2.11 Geospatial Analysis
-[144](#geospatial-analysis)](#geospatial-analysis)
+[144](#geospatial-analysis)]
 
 [2.12 Financial Modelling and Econometrics
-[144](#financial-modelling-and-econometrics)](#financial-modelling-and-econometrics)
+[144](#financial-modelling-and-econometrics)]
 
 [2.13 Decision Modelling
-[144](#decision-modelling)](#decision-modelling)
+[144](#decision-modelling)]
 
 [2.14 Decision Management
-[144](#decision-management)](#decision-management)
+[144](#decision-management)]
 
-[2.15 Composite AI [144](#composite-ai)](#composite-ai)
+[2.15 Composite AI [144](#composite-ai)]
 
 [2.16 Stream Processing/Data in Motion
-[144](#stream-processingdata-in-motion)](#stream-processingdata-in-motion)
+[144](#stream-processingdata-in-motion)]
 
 [3. Flexibility, Extensibility and Openness
-[145](#flexibility-extensibility-and-openness)](#flexibility-extensibility-and-openness)
+[145](#flexibility-extensibility-and-openness)]
 
-[3.1 R [145](#r)](#r)
+[3.1 R [145](#r)]
 
-[3.2 Python [145](#python)](#python)
+[3.2 Python [145](#python)]
 
-[3.3 Scala [145](#scala)](#scala)
+[3.3 Scala [145](#scala)]
 
-[3.4 Java [145](#java)](#java)
+[3.4 Java [145](#java)]
 
 [3.5 Third-Party Libraries
-[145](#third-party-libraries)](#third-party-libraries)
+[145](#third-party-libraries)]
 
 [3.6 Popular Libraries and Frameworks
-[145](#popular-libraries-and-frameworks)](#popular-libraries-and-frameworks)
+[145](#popular-libraries-and-frameworks)]
 
 [3.7 Data Science Notebooks
-[145](#data-science-notebooks)](#data-science-notebooks)
+[145](#data-science-notebooks)]
 
 [3.7.1 Read datasets inside Notebooks
-[145](#read-datasets-inside-notebooks)](#read-datasets-inside-notebooks)
+[145](#read-datasets-inside-notebooks)]
 
 [3.8 Open-Source Data Management Platforms (e.g., Spark and Hadoop)
-[146](#open-source-data-management-platforms-e.g.-spark-and-hadoop)](#open-source-data-management-platforms-e.g.-spark-and-hadoop)
+[146](#open-source-data-management-platforms-e.g.-spark-and-hadoop)]
 
-[3.9 Docker [146](#docker)](#docker)
+[3.9 Docker [146](#docker)]
 
 [3.10 Scripting and Embedding Capabilities
-[146](#scripting-and-embedding-capabilities)](#scripting-and-embedding-capabilities)
+[146](#scripting-and-embedding-capabilities)]
 
 [3.11 Open-Source Automated Machine Learning Tools
-[146](#open-source-automated-machine-learning-tools)](#open-source-automated-machine-learning-tools)
+[146](#open-source-automated-machine-learning-tools)]
 
 [3.12 Code Visibility and Transparency
-[146](#code-visibility-and-transparency)](#code-visibility-and-transparency)
+[146](#code-visibility-and-transparency)]
 
 [4. Performance and Scalability
-[147](#performance-and-scalability)](#performance-and-scalability)
+[147](#performance-and-scalability)]
 
 [4.1 In-Database Analytics
-[147](#in-database-analytics)](#in-database-analytics)
+[147](#in-database-analytics)]
 
 [4.2 Big Data Volume Scalability
-[147](#big-data-volume-scalability)](#big-data-volume-scalability)
+[147](#big-data-volume-scalability)]
 
 [4.3 Real-Time Data and Streams
-[147](#real-time-data-and-streams)](#real-time-data-and-streams)
+[147](#real-time-data-and-streams)]
 
 [4.4 In-Memory, Hadoop and Spark
-[147](#in-memory-hadoop-and-spark)](#in-memory-hadoop-and-spark)
+[147](#in-memory-hadoop-and-spark)]
 
-[4.5 Support of GPUs [147](#support-of-gpus)](#support-of-gpus)
+[4.5 Support of GPUs [147](#support-of-gpus)]
 
 [4.6 Support of Other Specialized Hardware
-[147](#support-of-other-specialized-hardware)](#support-of-other-specialized-hardware)
+[147](#support-of-other-specialized-hardware)]
 
 [4.7 Algorithmic Efficiency in a Single-Node or MultipleNode Environment
-[147](#algorithmic-efficiency-in-a-single-node-or-multiplenode-environment)](#algorithmic-efficiency-in-a-single-node-or-multiplenode-environment)
+[147](#algorithmic-efficiency-in-a-single-node-or-multiplenode-environment)]
 
-[4.8 Cost guidance [147](#cost-guidance)](#cost-guidance)
+[4.8 Cost guidance [147](#cost-guidance)]
 
 [4.9 Performance options for training
-[147](#performance-options-for-training)](#performance-options-for-training)
+[147](#performance-options-for-training)]
 
-[4.10 On-Premises [147](#on-premises-1)](#on-premises-1)
+[4.10 On-Premises [147](#on-premises-1)]
 
 [4.11 Cloud, Hybrid and Multicloud
-[147](#cloud-hybrid-and-multicloud)](#cloud-hybrid-and-multicloud)
+[147](#cloud-hybrid-and-multicloud)]
 
-[5. Delivery [148](#delivery)](#delivery)
+[5. Delivery [148](#delivery)]
 
-[5.1 Write-back [148](#write-back)](#write-back)
+[5.1 Write-back [148](#write-back)]
 
-[5.2 Recoding [148](#recoding)](#recoding)
+[5.2 Recoding [148](#recoding)]
 
-[5.3 REST APIs [148](#rest-apis)](#rest-apis)
+[5.3 REST APIs [148](#rest-apis)]
 
-[5.4 PMML and ONNX [148](#pmml-and-onnx)](#pmml-and-onnx)
+[5.4 PMML and ONNX [148](#pmml-and-onnx)]
 
 [5.5 Augmented Model Deployment and Monitoring
-[148](#augmented-model-deployment-and-monitoring)](#augmented-model-deployment-and-monitoring)
+[148](#augmented-model-deployment-and-monitoring)]
 
-[5.6 Containerization [148](#containerization)](#containerization)
+[5.6 Containerization [148](#containerization)]
 
-[5.7 Web deployment [148](#web-deployment)](#web-deployment)
+[5.7 Web deployment [148](#web-deployment)]
 
-[5.8 Other [148](#other)](#other)
+[5.8 Other [148](#other)]
 
-[5.9 Deployment Mode [148](#deployment-mode)](#deployment-mode)
+[5.9 Deployment Mode [148](#deployment-mode)]
 
-[5.9.1 Model Serving [148](#model-serving)](#model-serving)
+[5.9.1 Model Serving [148](#model-serving)]
 
 [5.10 Parallel Model Deployments
-[150](#parallel-model-deployments)](#parallel-model-deployments)
+[150](#parallel-model-deployments)]
 
 [6. Platform and Project Management
-[151](#platform-and-project-management)](#platform-and-project-management)
+[151](#platform-and-project-management)]
 
 [6.1 Compliance and Auditing
-[151](#compliance-and-auditing)](#compliance-and-auditing)
+[151](#compliance-and-auditing)]
 
-[6.2 Object Reuse [151](#object-reuse)](#object-reuse)
+[6.2 Object Reuse [151](#object-reuse)]
 
 [6.3 Multiuser Capabilities
-[151](#multiuser-capabilities)](#multiuser-capabilities)
+[151](#multiuser-capabilities)]
 
 [6.4 Debugging and Unit Testing
-[151](#debugging-and-unit-testing)](#debugging-and-unit-testing)
+[151](#debugging-and-unit-testing)]
 
 [6.5 Runtime Optimization
-[151](#runtime-optimization)](#runtime-optimization)
+[151](#runtime-optimization)]
 
-[6.6 Audit and Logs [151](#audit-and-logs)](#audit-and-logs)
+[6.6 Audit and Logs [151](#audit-and-logs)]
 
-[6.7 Data Encryption [151](#data-encryption)](#data-encryption)
+[6.7 Data Encryption [151](#data-encryption)]
 
 [6.8 Securing ML Pipeline
-[151](#securing-ml-pipeline)](#securing-ml-pipeline)
+[151](#securing-ml-pipeline)]
 
-[6.9 Client Deployment [151](#client-deployment)](#client-deployment)
+[6.9 Client Deployment [151](#client-deployment)]
 
-[7. Model Management [152](#model-management)](#model-management)
+[7. Model Management [152](#model-management)]
 
 [7.1 Metadata management
-[152](#metadata-management-1)](#metadata-management-1)
+[152](#metadata-management-1)]
 
-[7.2 Traceability [152](#traceability)](#traceability)
+[7.2 Traceability [152](#traceability)]
 
 [7.3 Champion/Challenger
-[152](#championchallenger)](#championchallenger)
+[152](#championchallenger)]
 
-[7.4 Model Telemetry [152](#model-telemetry)](#model-telemetry)
+[7.4 Model Telemetry [152](#model-telemetry)]
 
-[7.5 Confusion Matrices [152](#confusion-matrices)](#confusion-matrices)
+[7.5 Confusion Matrices [152](#confusion-matrices)]
 
 [7.6 Model Catalog and Reproducibility
-[152](#model-catalog-and-reproducibility)](#model-catalog-and-reproducibility)
+[152](#model-catalog-and-reproducibility)]
 
 [7.7 Technical Performance Tracking
-[152](#technical-performance-tracking)](#technical-performance-tracking)
+[152](#technical-performance-tracking)]
 
 [7.8 Business Performance Tracking
-[152](#business-performance-tracking)](#business-performance-tracking)
+[152](#business-performance-tracking)]
 
-[7.9 Adaptive ML [152](#adaptive-ml)](#adaptive-ml)
+[7.9 Adaptive ML [152](#adaptive-ml)]
 
 [7.10 Model Alignment to Business Ojectives
-[152](#model-alignment-to-business-ojectives)](#model-alignment-to-business-ojectives)
+[152](#model-alignment-to-business-ojectives)]
 
-[7.11 Governance [152](#governance)](#governance)
+[7.11 Governance [152](#governance)]
 
 [7.12 Model Licensing Issues
-[152](#model-licensing-issues)](#model-licensing-issues)
+[152](#model-licensing-issues)]
 
 [7.13 Scripting and Automation
-[152](#scripting-and-automation)](#scripting-and-automation)
+[152](#scripting-and-automation)]
 
 [7.14 Process Monitoring
-[152](#process-monitoring)](#process-monitoring)
+[152](#process-monitoring)]
 
 [7.15 Model Management Across Deployment Modes
-[152](#model-management-across-deployment-modes)](#model-management-across-deployment-modes)
+[152](#model-management-across-deployment-modes)]
 
-[8. MLOps [153](#mlops)](#mlops)
+[8. MLOps [153](#mlops)]
 
-[8.1 Intro [153](#intro)](#intro)
+[8.1 Intro [153](#intro)]
 
-[8.2 Model life cycle [153](#model-life-cycle)](#model-life-cycle)
+[8.2 Model life cycle [153](#model-life-cycle)]
 
 [8.3 Data collection and preprocessing
-[155](#data-collection-and-preprocessing)](#data-collection-and-preprocessing)
+[155](#data-collection-and-preprocessing)]
 
 [8.4 Model Development, testing and validation
-[155](#model-development-testing-and-validation)](#model-development-testing-and-validation)
+[155](#model-development-testing-and-validation)]
 
-[8.5 Model Deployment [155](#model-deployment)](#model-deployment)
+[8.5 Model Deployment [155](#model-deployment)]
 
 [8.6 Monitoring and Maintenance
-[156](#monitoring-and-maintenance)](#monitoring-and-maintenance)
+[156](#monitoring-and-maintenance)]
 
-[9. Explainable AI [157](#explainable-ai)](#explainable-ai)
+[9. Explainable AI [157](#explainable-ai)]
 
-[9.1 Explainable AI [157](#explainable-ai-1)](#explainable-ai-1)
+[9.1 Explainable AI [157](#explainable-ai-1)]
 
 [9.2 Support for Open Source
-[157](#support-for-open-source)](#support-for-open-source)
+[157](#support-for-open-source)]
 
 [9.3 Augmented Explainability
-[157](#augmented-explainability)](#augmented-explainability)
+[157](#augmented-explainability)]
 
 [9.4 Explainabiliity Techniques (Including Permutation Importance,
 Feature Importance, Sensitivity Analysis, Partial Dependence Plots, ICE
 Plots, Integrated Gradients, Similarity Based Methods and Others)
-[157](#explainabiliity-techniques-including-permutation-importance-feature-importance-sensitivity-analysis-partial-dependence-plots-ice-plots-integrated-gradients-similarity-based-methods-and-others)](#explainabiliity-techniques-including-permutation-importance-feature-importance-sensitivity-analysis-partial-dependence-plots-ice-plots-integrated-gradients-similarity-based-methods-and-others)
+[157](#explainabiliity-techniques-including-permutation-importance-feature-importance-sensitivity-analysis-partial-dependence-plots-ice-plots-integrated-gradients-similarity-based-methods-and-others)]
 
-[9.5 Responsible AI [157](#responsible-ai)](#responsible-ai)
+[9.5 Responsible AI [157](#responsible-ai)]
 
-[9.6 Regulations [157](#regulations)](#regulations)
+[9.6 Regulations [157](#regulations)]
 
 [10. Precanned Solutions
-[158](#precanned-solutions)](#precanned-solutions)
+[158](#precanned-solutions)]
 
 [10.1 Marketing, Sales and Customer Service
-[158](#marketing-sales-and-customer-service)](#marketing-sales-and-customer-service)
+[158](#marketing-sales-and-customer-service)]
 
 [10.2 Finance, Risk Management and Quality Management
-[158](#finance-risk-management-and-quality-management)](#finance-risk-management-and-quality-management)
+[158](#finance-risk-management-and-quality-management)]
 
 [10.3 Internet of Things
-[158](#internet-of-things)](#internet-of-things)
+[158](#internet-of-things)]
 
 [10.4 Supply Chain/Logistics
-[158](#supply-chainlogistics)](#supply-chainlogistics)
+[158](#supply-chainlogistics)]
 
 [10.5 Back-Office Analytics
-[158](#back-office-analytics)](#back-office-analytics)
+[158](#back-office-analytics)]
 
-[10.6 IT Operations [158](#it-operations)](#it-operations)
+[10.6 IT Operations [158](#it-operations)]
 
-[10.7 Cybersecurity [158](#cybersecurity)](#cybersecurity)
+[10.7 Cybersecurity [158](#cybersecurity)]
 
-[10.8 Anomaly Detection [158](#anomaly-detection)](#anomaly-detection)
+[10.8 Anomaly Detection [158](#anomaly-detection)]
 
-[10.9 What-If Scenarios [158](#what-if-scenarios)](#what-if-scenarios)
+[10.9 What-If Scenarios [158](#what-if-scenarios)]
 
-[11. Collaboration [159](#collaboration)](#collaboration)
+[11. Collaboration [159](#collaboration)]
 
 [11.1 Collaboration Across All Modeling Steps for Distributed Teams
-[159](#collaboration-across-all-modeling-steps-for-distributed-teams)](#collaboration-across-all-modeling-steps-for-distributed-teams)
+[159](#collaboration-across-all-modeling-steps-for-distributed-teams)]
 
 [11.2 Discussion Threads
-[159](#discussion-threads)](#discussion-threads)
+[159](#discussion-threads)]
 
 [11.3 Ratings and Recommendations
-[159](#ratings-and-recommendations)](#ratings-and-recommendations)
+[159](#ratings-and-recommendations)]
 
-[11.4 Marketplace/Hub [159](#marketplacehub)](#marketplacehub)
+[11.4 Marketplace/Hub [159](#marketplacehub)]
 
 [11.5 Multipersona Collaboration
-[159](#multipersona-collaboration)](#multipersona-collaboration)
+[159](#multipersona-collaboration)]
 
-[Part III [160](#part-iii)](#part-iii)
+### [Part IV [160](#part-iv)]
 
-[R&I Guide [160](#ri-guide)](#ri-guide)
+[R&I Guide [160](#ri-guide)]
 
-[1. Data Access [160](#data-access-1)](#data-access-1)
+[1. Data Access [160](#data-access-1)]
 
 [1.1 Enterprise Application Integration
-[160](#enterprise-application-integration-1)](#enterprise-application-integration-1)
+[160](#enterprise-application-integration-1)]
 
 [1.2 Data Replication and Synchronization
-[160](#data-replication-and-synchronization-1)](#data-replication-and-synchronization-1)
+[160](#data-replication-and-synchronization-1)]
 
 [1.3 Basic and Advanced ETL Functionality
-[160](#basic-and-advanced-etl-functionality-1)](#basic-and-advanced-etl-functionality-1)
+[160](#basic-and-advanced-etl-functionality-1)]
 
 [1.4 Hybrid and Multicloud Data Sources
-[160](#hybrid-and-multicloud-data-sources)](#hybrid-and-multicloud-data-sources)
+[160](#hybrid-and-multicloud-data-sources)]
 
 [1.5 Access to Non-traditional Data Types
-[160](#access-to-non-traditional-data-types)](#access-to-non-traditional-data-types)
+[160](#access-to-non-traditional-data-types)]
 
 [1.6 Connectivity to Data Lake Infrastructure
-[160](#connectivity-to-data-lake-infrastructure-1)](#connectivity-to-data-lake-infrastructure-1)
+[160](#connectivity-to-data-lake-infrastructure-1)]
 
-[1.7 Data Lineage [160](#data-lineage-1)](#data-lineage-1)
+[1.7 Data Lineage [160](#data-lineage-1)]
 
 [1.8 Data Governance and Metadata Management
-[160](#data-governance-and-metadata-management-1)](#data-governance-and-metadata-management-1)
+[160](#data-governance-and-metadata-management-1)]
 
 [1.9 API-Based Access to Web Data
-[160](#api-based-access-to-web-data-1)](#api-based-access-to-web-data-1)
+[160](#api-based-access-to-web-data-1)]
 
-[2. Data Preparation [161](#data-preparation-1)](#data-preparation-1)
+[2. Data Preparation [161](#data-preparation-1)]
 
 [2.1 Data Blending/Wrangling
-[161](#data-blendingwrangling-1)](#data-blendingwrangling-1)
+[161](#data-blendingwrangling-1)]
 
 [2.2 Data Augmentation
-[161](#data-augmentation-1)](#data-augmentation-1)
+[161](#data-augmentation-1)]
 
 [2.3 Data Quality Support
-[161](#data-quality-support-1)](#data-quality-support-1)
+[161](#data-quality-support-1)]
 
 [2.4 Dataset Partitioning
-[161](#dataset-partitioning-1)](#dataset-partitioning-1)
+[161](#dataset-partitioning-1)]
 
 [2.5 Binning and Smoothing
-[161](#binning-and-smoothing-1)](#binning-and-smoothing-1)
+[161](#binning-and-smoothing-1)]
 
 [2.6 Filter and Search
-[161](#filter-and-search-1)](#filter-and-search-1)
+[161](#filter-and-search-1)]
 
 [2.7 Feature Generation
-[161](#feature-generation-1)](#feature-generation-1)
+[161](#feature-generation-1)]
 
 [2.8 Official Watermarking of Datasets
-[161](#official-watermarking-of-datasets-1)](#official-watermarking-of-datasets-1)
+[161](#official-watermarking-of-datasets-1)]
 
-[2.9 Basic Data Catalog [161](#basic-data-catalog)](#basic-data-catalog)
+[2.9 Basic Data Catalog [161](#basic-data-catalog)]
 
 [2.10 Data Labeling/Annotation
-[161](#data-labelingannotation)](#data-labelingannotation)
+[161](#data-labelingannotation)]
 
 [2.11 Transformations, Aggregation and Set Operations
-[161](#transformations-aggregation-and-set-operations-1)](#transformations-aggregation-and-set-operations-1)
+[161](#transformations-aggregation-and-set-operations-1)]
 
-[2.12 Data Enrichment [161](#data-enrichment-1)](#data-enrichment-1)
-
+[2.12 Data Enrichment [161](#data-enrichment-1)]
 [2.13 Augmented Data Preprocessing
-[161](#augmented-data-preprocessing-1)](#augmented-data-preprocessing-1)
+[161](#augmented-data-preprocessing-1)]
 
 [2.14 Augmented Data Preparation
-[161](#augmented-data-preparation-1)](#augmented-data-preparation-1)
+[161](#augmented-data-preparation-1)]
 
 [2.15 Cloud, Hybrid and Multicloud Support
-[161](#cloud-hybrid-and-multicloud-support-1)](#cloud-hybrid-and-multicloud-support-1)
+[161](#cloud-hybrid-and-multicloud-support-1)]
 
 [3. Data Exploration and Visualisation
-[162](#data-exploration-and-visualisation)](#data-exploration-and-visualisation)
+[162](#data-exploration-and-visualisation)]
 
 [3.1 Univariate and Bivariate Statistics
-[162](#univariate-and-bivariate-statistics-1)](#univariate-and-bivariate-statistics-1)
+[162](#univariate-and-bivariate-statistics-1)]
 
 [3.2 Statistical Significance Testing
-[162](#statistical-significance-testing-1)](#statistical-significance-testing-1)
+[162](#statistical-significance-testing-1)]
 
 [3.3 Signal Preprocessing
-[162](#signal-preprocessing-1)](#signal-preprocessing-1)
+[162](#signal-preprocessing-1)]
 
 [3.4 Data Visualizations
-[162](#data-visualizations-1)](#data-visualizations-1)
+[162](#data-visualizations-1)]
 
 [3.5 Exporting Results
-[162](#exporting-results-1)](#exporting-results-1)
+[162](#exporting-results-1)]
 
 [3.6 Custom Visualization
-[162](#custom-visualization-1)](#custom-visualization-1)
+[162](#custom-visualization-1)]
 
 [3.7 Clustering and Self-Organizing Maps
-[162](#clustering-and-self-organizing-maps-1)](#clustering-and-self-organizing-maps-1)
+[162](#clustering-and-self-organizing-maps-1)]
 
 [3.8 Geolocation Mapping
-[162](#geolocation-mapping-1)](#geolocation-mapping-1)
+[162](#geolocation-mapping-1)]
 
 [3.9 Affinity and Graph Analysis
-[162](#affinity-and-graph-analysis-1)](#affinity-and-graph-analysis-1)
+[162](#affinity-and-graph-analysis-1)]
 
 [3.10 Conjoint and Survey Analysis
-[162](#conjoint-and-survey-analysis-1)](#conjoint-and-survey-analysis-1)
+[162](#conjoint-and-survey-analysis-1)]
 
 [3.11 Density Estimation
-[162](#density-estimation-1)](#density-estimation-1)
+[162](#density-estimation-1)]
 
 [3.12 Similarity Metrics
-[162](#similarity-metrics-1)](#similarity-metrics-1)
+[162](#similarity-metrics-1)]
 
 [3.13 Augmented Data Discovery
-[162](#augmented-data-discovery-1)](#augmented-data-discovery-1)
+[162](#augmented-data-discovery-1)]
 
-[3.14 On-Premises [162](#on-premises-2)](#on-premises-2)
+[3.14 On-Premises [162](#on-premises-2)]
 
 [3.15 Cloud, Multicloud and Hybrid
-[162](#cloud-multicloud-and-hybrid-1)](#cloud-multicloud-and-hybrid-1)
+[162](#cloud-multicloud-and-hybrid-1)]
 
-[4. User Interface [163](#user-interface-1)](#user-interface-1)
+[4. User Interface [163](#user-interface-1)]
 
 [4.1 Ease of Use and Learning Curve
-[163](#ease-of-use-and-learning-curve-1)](#ease-of-use-and-learning-curve-1)
+[163](#ease-of-use-and-learning-curve-1)]
 
 [4.2 Developer-Focused Data Science
-[163](#developer-focused-data-science-1)](#developer-focused-data-science-1)
+[163](#developer-focused-data-science-1)]
+[4.3 NLP Q&A [163](#nlp-qa-1)]
 
-[4.3 NLP Q&A [163](#nlp-qa-1)](#nlp-qa-1)
+[4.4 Documentation [163](#documentation-1)]
 
-[4.4 Documentation [163](#documentation-1)](#documentation-1)
-
-[4.5 User Community [163](#user-community-1)](#user-community-1)
+[4.5 User Community [163](#user-community-1)]
 
 [4.6 Third-Party Applications
-[163](#third-party-applications-1)](#third-party-applications-1)
+[163](#third-party-applications-1)]
 
 [4.7 Visual Pipelining or Visual Composition Framework
-[163](#visual-pipelining-or-visual-composition-framework-1)](#visual-pipelining-or-visual-composition-framework-1)
+[163](#visual-pipelining-or-visual-composition-framework-1)]
 
 [4.8 Wizards and Contextual Aids
-[163](#wizards-and-contextual-aids)](#wizards-and-contextual-aids)
+[163](#wizards-and-contextual-aids)]
 
-[5. Machine Learning [164](#machine-learning-1)](#machine-learning-1)
+[5. Machine Learning [164](#machine-learning-1)]
 
-[5.1 Regression [164](#regression-1)](#regression-1)
+[5.1 Regression [164](#regression-1)]
 
 [5.2 Time Series Analysis
-[164](#time-series-analysis-1)](#time-series-analysis-1)
+[164](#time-series-analysis-1)]
 
 [5.3 5.3 Deep Learning (Deep Neural Nets) 5.4 Reinforcement Learning
-[164](#deep-learning-deep-neural-nets-5.4-reinforcement-learning)](#deep-learning-deep-neural-nets-5.4-reinforcement-learning)
+[164](#deep-learning-deep-neural-nets-5.4-reinforcement-learning)]
 
 [5.4 Classification and Regression Trees
-[164](#classification-and-regression-trees-1)](#classification-and-regression-trees-1)
+[164](#classification-and-regression-trees-1)]
 
 [5.5 Further Rule Induction Techniques
-[164](#further-rule-induction-techniques-1)](#further-rule-induction-techniques-1)
+[164](#further-rule-induction-techniques-1)]
 
 [5.6 Support Vector Machines
-[164](#support-vector-machines-1)](#support-vector-machines-1)
+[164](#support-vector-machines-1)]
 
 [5.7 Instance-Based Approaches
-[164](#instance-based-approaches-1)](#instance-based-approaches-1)
+[164](#instance-based-approaches-1)]
 
 [5.8 Bayesian Modeling
-[164](#bayesian-modeling-1)](#bayesian-modeling-1)
+[164](#bayesian-modeling-1)]
 
 [5.9 Transfer Learning
-[164](#transfer-learning-1)](#transfer-learning-1)
+[164](#transfer-learning-1)]
 
 [5.10 Ensembles and Hierarchical Models
-[164](#ensembles-and-hierarchical-models-1)](#ensembles-and-hierarchical-models-1)
+[164](#ensembles-and-hierarchical-models-1)]
 
 [5.11 Recommendation Techniques
-[164](#recommendation-techniques-1)](#recommendation-techniques-1)
+[164](#recommendation-techniques-1)]
 
-[5.12 Measures of Fit [164](#measures-of-fit-1)](#measures-of-fit-1)
+[5.12 Measures of Fit [164](#measures-of-fit-1)]
 
 [5.13 Testing of Predictive Models
-[164](#testing-of-predictive-models-1)](#testing-of-predictive-models-1)
+[164](#testing-of-predictive-models-1)]
 
-[5.14 CNN, RNN, GNN [164](#cnn-rnn-gnn-1)](#cnn-rnn-gnn-1)
+[5.14 CNN, RNN, GNN [164](#cnn-rnn-gnn-1)]
 
 [5.15 Generative Adversarial Networks (GAN)
-[164](#generative-adversarial-networks-gan-1)](#generative-adversarial-networks-gan-1)
+[164](#generative-adversarial-networks-gan-1)]
 
 [5.16 Federated Learning
-[164](#federated-learning-1)](#federated-learning-1)
+[164](#federated-learning-1)]
 
 [6. Other Advanced Analytics
-[165](#other-advanced-analytics-1)](#other-advanced-analytics-1)
+[165](#other-advanced-analytics-1)]
 
 [6.1 Solver approaches
-[165](#solver-approaches-1)](#solver-approaches-1)
+[165](#solver-approaches-1)]
 
 [6.2 Heuristic approaches
-[165](#heuristic-approaches-1)](#heuristic-approaches-1)
+[165](#heuristic-approaches-1)]
 
 [6.3 Design of experiments
-[165](#design-of-experiments-1)](#design-of-experiments-1)
+[165](#design-of-experiments-1)]
 
-[6.4 Discrete Events [165](#discrete-events-1)](#discrete-events-1)
+[6.4 Discrete Events [165](#discrete-events-1)]
 
 [6.5 Monte Carlo Simulation
-[165](#monte-carlo-simulation-1)](#monte-carlo-simulation-1)
+[165](#monte-carlo-simulation-1)]
 
 [6.6 Agent-Based Modeling
-[165](#agent-based-modeling)](#agent-based-modeling)
+[165](#agent-based-modeling)]
 
-[6.7 Text Analytics [165](#text-analytics-1)](#text-analytics-1)
+[6.7 Text Analytics [165](#text-analytics-1)]
 
 [6.8 Customizable Pretrained Algorithms
-[165](#customizable-pretrained-algorithms-1)](#customizable-pretrained-algorithms-1)
+[165](#customizable-pretrained-algorithms-1)]
 
-[6.9 Audio Mining [165](#audio-mining-1)](#audio-mining-1)
+[6.9 Audio Mining [165](#audio-mining-1)]
 
-[6.10 Image Analytics [165](#image-analytics-1)](#image-analytics-1)
+[6.10 Image Analytics [165](#image-analytics-1)]
 
 [6.11 Geospatial Analysis
-[165](#geospatial-analysis-1)](#geospatial-analysis-1)
+[165](#geospatial-analysis-1)]
 
 [6.12 Financial Modeling and Econometrics
-[165](#financial-modeling-and-econometrics)](#financial-modeling-and-econometrics)
+[165](#financial-modeling-and-econometrics)]
 
 [6.13 Decision Modelling
-[165](#decision-modelling-1)](#decision-modelling-1)
-
+[165](#decision-modelling-1)]
 [6.14 Decision Management
-[165](#decision-management-1)](#decision-management-1)
+[165](#decision-management-1)]
 
-[6.15 Composite AI [165](#composite-ai-1)](#composite-ai-1)
+[6.15 Composite AI [165](#composite-ai-1)]
 
 [6.16 Stream Processing/Data in Motion
-[165](#stream-processingdata-in-motion-1)](#stream-processingdata-in-motion-1)
+[165](#stream-processingdata-in-motion-1)]
 
 [7. Flexibility, Estensibility and Openness
-[166](#flexibility-estensibility-and-openness)](#flexibility-estensibility-and-openness)
+[166](#flexibility-estensibility-and-openness)]
 
-[7.1 R [166](#r-1)](#r-1)
+[7.1 R [166](#r-1)]
 
-[7.2 Python [166](#python-1)](#python-1)
+[7.2 Python [166](#python-1)]
 
-[7.3 Scala [166](#scala-1)](#scala-1)
+[7.3 Scala [166](#scala-1)]
 
-[7.4 Java [166](#java-1)](#java-1)
+[7.4 Java [166](#java-1)]
 
 [7.5 Third-Party Libraries
-[166](#third-party-libraries-1)](#third-party-libraries-1)
+[166](#third-party-libraries-1)]
 
 [7.6 Popular Libraries and Frameworks
-[166](#popular-libraries-and-frameworks-1)](#popular-libraries-and-frameworks-1)
+[166](#popular-libraries-and-frameworks-1)]
 
 [7.7 Data Science Notebooks
-[166](#data-science-notebooks-1)](#data-science-notebooks-1)
+[166](#data-science-notebooks-1)]
 
-[7.7.1 Intro [166](#intro-1)](#intro-1)
+[7.7.1 Intro [166](#intro-1)]
 
 [7.7.2 Technologies involved
-[167](#technologies-involved)](#technologies-involved)
+[167](#technologies-involved)]
 
 [7.7.2.1 Jupyter Notebooks
-[168](#jupyter-notebooks)](#jupyter-notebooks)
+[168](#jupyter-notebooks)]
+[7.7.2.2 Jupyter Hub [169](#jupyter-hub)]
 
-[7.7.2.2 Jupyter Hub [169](#jupyter-hub)](#jupyter-hub)
-
-[7.7.2.3 Data access [170](#data-access-2)](#data-access-2)
+[7.7.2.3 Data access [170](#data-access-2)]
 
 [7.8 Open-Source Data Management Platforms (e.g., Spark and Hadoop)
-[172](#open-source-data-management-platforms-e.g.-spark-and-hadoop-1)](#open-source-data-management-platforms-e.g.-spark-and-hadoop-1)
+[172](#open-source-data-management-platforms-e.g.-spark-and-hadoop-1)]
 
-[7.9 Docker [172](#docker-1)](#docker-1)
+[7.9 Docker [172](#docker-1)]
 
 [7.10 Scripting and Embedding Capabilities
-[172](#scripting-and-embedding-capabilities-1)](#scripting-and-embedding-capabilities-1)
+[172](#scripting-and-embedding-capabilities-1)]
 
 [7.11 Open-Source Automated Machine Learning Tools
-[172](#open-source-automated-machine-learning-tools-1)](#open-source-automated-machine-learning-tools-1)
+[172](#open-source-automated-machine-learning-tools-1)]
 
 [7.12 Code Visibility and Transparency
-[172](#code-visibility-and-transparency-1)](#code-visibility-and-transparency-1)
+[172](#code-visibility-and-transparency-1)]
 
 [8. Performance and Scalability
-[160](#performance-and-scalability-1)](#performance-and-scalability-1)
+[160](#performance-and-scalability-1)]
 
 [8.1 In-Database Analytics
-[160](#in-database-analytics-1)](#in-database-analytics-1)
+[160](#in-database-analytics-1)]
 
 [8.2 Big Data Volume Scalability
-[160](#big-data-volume-scalability-1)](#big-data-volume-scalability-1)
+[160](#big-data-volume-scalability-1)]
 
 [8.3 Real-Time Data and Streams
-[160](#real-time-data-and-streams-1)](#real-time-data-and-streams-1)
+[160](#real-time-data-and-streams-1)]
 
 [8.4 In-Memory, Hadoop and Spark
-[160](#in-memory-hadoop-and-spark-1)](#in-memory-hadoop-and-spark-1)
+[160](#in-memory-hadoop-and-spark-1)]
 
-[8.5 Support of GPUs [160](#support-of-gpus-1)](#support-of-gpus-1)
+[8.5 Support of GPUs [160](#support-of-gpus-1)]
 
 [8.6 Support of Other Specialized Hardware
-[160](#support-of-other-specialized-hardware-1)](#support-of-other-specialized-hardware-1)
+[160](#support-of-other-specialized-hardware-1)]1)
 
 [8.7 Algorithmic Efficiency in a Single-Node or MultipleNode Environment
-[160](#algorithmic-efficiency-in-a-single-node-or-multiplenode-environment-1)](#algorithmic-efficiency-in-a-single-node-or-multiplenode-environment-1)
+[160](#algorithmic-efficiency-in-a-single-node-or-multiplenode-environment-1)]
 
-[8.8 Cost guidance [160](#cost-guidance-1)](#cost-guidance-1)
+[8.8 Cost guidance [160](#cost-guidance-1)]
 
 [8.9 Performance options for training
-[160](#performance-options-for-training-1)](#performance-options-for-training-1)
+[160](#performance-options-for-training-1)]
 
-[8.10 On-Premises [160](#on-premises-3)](#on-premises-3)
+[8.10 On-Premises [160](#on-premises-3)]
 
 [8.11 Cloud, Hybrid and Multicloud
-[160](#cloud-hybrid-and-multicloud-1)](#cloud-hybrid-and-multicloud-1)
+[160](#cloud-hybrid-and-multicloud-1)]
 
-[9. Delivery [161](#delivery-1)](#delivery-1)
+[9. Delivery [161](#delivery-1)]
 
-[9.1 Write-back [161](#write-back-1)](#write-back-1)
+[9.1 Write-back [161](#write-back-1)]
 
-[9.2 Recoding [161](#recoding-1)](#recoding-1)
+[9.2 Recoding [161](#recoding-1)]
 
-[9.3 REST APIs [161](#rest-apis-1)](#rest-apis-1)
+[9.3 REST APIs [161](#rest-apis-1)]
 
-[9.4 PMML and ONNX [161](#pmml-and-onnx-1)](#pmml-and-onnx-1)
+[9.4 PMML and ONNX [161](#pmml-and-onnx-1)]
 
 [9.5 Augmented Model Deployment and Monitoring
-[161](#augmented-model-deployment-and-monitoring-1)](#augmented-model-deployment-and-monitoring-1)
+[161](#augmented-model-deployment-and-monitoring-1)]
 
-[9.6 Containerization [161](#containerization-1)](#containerization-1)
+[9.6 Containerization [161](#containerization-1)]
 
-[9.7 Web deployment [161](#web-deployment-1)](#web-deployment-1)
+[9.7 Web deployment [161](#web-deployment-1)]
 
-[9.8 Other [161](#other-1)](#other-1)
+[9.8 Other [161](#other-1)]
 
-[9.9 Deployment Mode [161](#deployment-mode-1)](#deployment-mode-1)
+[9.9 Deployment Mode [161](#deployment-mode-1)]
 
 [9.10 Parallel Model Deployments
-[161](#parallel-model-deployments-1)](#parallel-model-deployments-1)
+[161](#parallel-model-deployments-1)]
 
 [10. Platform and Project Management
-[162](#platform-and-project-management-1)](#platform-and-project-management-1)
+[162](#platform-and-project-management-1)]
 
 [10.1 Compliance and Auditing
-[162](#compliance-and-auditing-1)](#compliance-and-auditing-1)
+[162](#compliance-and-auditing-1)]
 
-[10.2 Object Reuse [162](#object-reuse-1)](#object-reuse-1)
+[10.2 Object Reuse [162](#object-reuse-1)]
 
 [10.3 Multiuser Capabilities
-[162](#multiuser-capabilities-1)](#multiuser-capabilities-1)
+[162](#multiuser-capabilities-1)]
 
 [10.4 Debugging and Unit Testing
-[162](#debugging-and-unit-testing-1)](#debugging-and-unit-testing-1)
+[162](#debugging-and-unit-testing-1)]
 
 [10.5 Runtime Optimization
-[162](#runtime-optimization-1)](#runtime-optimization-1)
+[162](#runtime-optimization-1)]
 
-[10.6 Audit and Logs [162](#audit-and-logs-1)](#audit-and-logs-1)
+[10.6 Audit and Logs [162](#audit-and-logs-1)]
 
-[10.7 Data Encryption [162](#data-encryption-1)](#data-encryption-1)
+[10.7 Data Encryption [162](#data-encryption-1)]
 
 [10.8 Securing ML Pipeline
-[162](#securing-ml-pipeline-1)](#securing-ml-pipeline-1)
+[162](#securing-ml-pipeline-1)]
 
 [10.9 Client Deployment
-[162](#client-deployment-1)](#client-deployment-1)
+[162](#client-deployment-1)]
 
-[11. Model Management [163](#model-management-1)](#model-management-1)
+[11. Model Management [163](#model-management-1)]
 
 [11.1 Metadata management
-[163](#metadata-management-2)](#metadata-management-2)
+[163](#metadata-management-2)]
 
-[11.2 Traceability [163](#traceability-1)](#traceability-1)
+[11.2 Traceability [163](#traceability-1)]
 
 [11.3 Champion/Challenger
-[163](#championchallenger-1)](#championchallenger-1)
+[163](#championchallenger-1)]
 
-[11.4 Model Telemetry [163](#model-telemetry-1)](#model-telemetry-1)
+[11.4 Model Telemetry [163](#model-telemetry-1)]
 
 [11.5 Confusion Matrices
-[163](#confusion-matrices-1)](#confusion-matrices-1)
+[163](#confusion-matrices-1)]
 
 [11.6 Model Catalog and Reproducibility
-[163](#model-catalog-and-reproducibility-1)](#model-catalog-and-reproducibility-1)
+[163](#model-catalog-and-reproducibility-1)]
 
 [11.7 Technical Performance Tracking
-[163](#technical-performance-tracking-1)](#technical-performance-tracking-1)
+[163](#technical-performance-tracking-1)]
 
 [11.8 Business Performance Tracking
-[163](#business-performance-tracking-1)](#business-performance-tracking-1)
+[163](#business-performance-tracking-1)]
 
-[11.9 Adaptive ML [163](#adaptive-ml-1)](#adaptive-ml-1)
+[11.9 Adaptive ML [163](#adaptive-ml-1)]
 
 [11.10 Model Alignment to Business Ojectives
-[163](#model-alignment-to-business-ojectives-1)](#model-alignment-to-business-ojectives-1)
+[163](#model-alignment-to-business-ojectives-1)]
 
-[11.11 Governance [163](#governance-1)](#governance-1)
+[11.11 Governance [163](#governance-1)]
 
 [11.12 Model Licensing Issues
-[163](#model-licensing-issues-1)](#model-licensing-issues-1)
+[163](#model-licensing-issues-1)]
 
 [11.13 Scripting and Automation
-[163](#scripting-and-automation-1)](#scripting-and-automation-1)
+[163](#scripting-and-automation-1)]
 
 [11.14 Process Monitoring
-[163](#process-monitoring-1)](#process-monitoring-1)
+[163](#process-monitoring-1)]
 
 [11.15 Model Management Across Deployment Modes
-[163](#model-management-across-deployment-modes-1)](#model-management-across-deployment-modes-1)
+[163](#model-management-across-deployment-modes-1)]
 
-[12. Explainable AI [164](#explainable-ai-2)](#explainable-ai-2)
+[12. Explainable AI [164](#explainable-ai-2)]
 
-[12.1 Explainable AI [164](#explainable-ai-3)](#explainable-ai-3)
+[12.1 Explainable AI [164](#explainable-ai-3)]
 
 [12.2 Support for Open Source
-[164](#support-for-open-source-1)](#support-for-open-source-1)
+[164](#support-for-open-source-1)]
 
 [12.3 Augmented Explainability
-[164](#augmented-explainability-1)](#augmented-explainability-1)
+[164](#augmented-explainability-1)]
 
 [12.4 Explainabiliity Techniques (Including Permutation Importance,
 Feature Importance, Sensitivity Analysis, Partial Dependence Plots, ICE
 Plots, Integrated Gradients, Similarity Based Methods and Others)
-[164](#explainabiliity-techniques-including-permutation-importance-feature-importance-sensitivity-analysis-partial-dependence-plots-ice-plots-integrated-gradients-similarity-based-methods-and-others-1)](#explainabiliity-techniques-including-permutation-importance-feature-importance-sensitivity-analysis-partial-dependence-plots-ice-plots-integrated-gradients-similarity-based-methods-and-others-1)
+[164](#explainabiliity-techniques-including-permutation-importance-feature-importance-sensitivity-analysis-partial-dependence-plots-ice-plots-integrated-gradients-similarity-based-methods-and-others-1)]
 
-[12.5 Responsible AI [164](#responsible-ai-1)](#responsible-ai-1)
+[12.5 Responsible AI [164](#responsible-ai-1)]
 
-[12.6 Regulations [164](#regulations-1)](#regulations-1)
+[12.6 Regulations [164](#regulations-1)]
 
 [13. Precanned Solutions
-[165](#precanned-solutions-1)](#precanned-solutions-1)
+[165](#precanned-solutions-1)]
 
 [13.1 Marketing, Sales and Customer Service
-[165](#marketing-sales-and-customer-service-1)](#marketing-sales-and-customer-service-1)
+[165](#marketing-sales-and-customer-service-1)]
 
 [13.2 Finance, Risk Management and Quality Management
-[165](#finance-risk-management-and-quality-management-1)](#finance-risk-management-and-quality-management-1)
+[165](#finance-risk-management-and-quality-management-1)]
 
 [13.3 Internet of Things
-[165](#internet-of-things-1)](#internet-of-things-1)
+[165](#internet-of-things-1)]
 
 [13.4 Supply Chain/Logistics
-[165](#supply-chainlogistics-1)](#supply-chainlogistics-1)
+[165](#supply-chainlogistics-1)]
 
 [13.5 Back-Office Analytics
-[165](#back-office-analytics-1)](#back-office-analytics-1)
+[165](#back-office-analytics-1)]
 
-[13.6 IT Operations [165](#it-operations-1)](#it-operations-1)
+[13.6 IT Operations [165](#it-operations-1)]
 
-[13.7 Cybersecurity [165](#cybersecurity-1)](#cybersecurity-1)
+[13.7 Cybersecurity [165](#cybersecurity-1)]
 
 [13.8 Anomaly Detection
-[165](#anomaly-detection-1)](#anomaly-detection-1)
+[165](#anomaly-detection-1)]
 
 [13.9 What-If Scenarios
-[165](#what-if-scenarios-1)](#what-if-scenarios-1)
+[165](#what-if-scenarios-1)]
 
-[14. Collaboration [166](#collaboration-1)](#collaboration-1)
+[14. Collaboration [166](#collaboration-1)]
 
 [14.1 Collaboration Across All Modeling Steps for Distributed Teams
-[166](#collaboration-across-all-modeling-steps-for-distributed-teams-1)](#collaboration-across-all-modeling-steps-for-distributed-teams-1)
+[166](#collaboration-across-all-modeling-steps-for-distributed-teams-1)]
 
 [14.2 Discussion Threads
-[166](#discussion-threads-1)](#discussion-threads-1)
+[166](#discussion-threads-1)]
 
 [14.3 Ratings and Recommendations
-[166](#ratings-and-recommendations-1)](#ratings-and-recommendations-1)
+[166](#ratings-and-recommendations-1)]
 
-[14.4 Marketplace/Hub [166](#marketplacehub-1)](#marketplacehub-1)
+[14.4 Marketplace/Hub [166](#marketplacehub-1)]
 
 [14.5 Multipersona Collaboration
-[166](#multipersona-collaboration-1)](#multipersona-collaboration-1)
+[166](#multipersona-collaboration-1)]
 
-[Part IV [167](#part-iv)](#part-iv)
+### [Part V [167](#part-v)]
 
-[Conclusions [167](#conclusions)](#conclusions)
+[Conclusions [167](#conclusions)]
 
 [Acronyms [168](#acronyms)]
 
@@ -1256,9 +1255,13 @@ Plots, Integrated Gradients, Similarity Based Methods and Others)
 
 [Journal Papers [172](#journal-papers)]
 
-# **Part I**
+#
+
+# **Part I**    
 
 ## Introduction
+
+#
 
 ## ALIDA
 
@@ -1401,14 +1404,18 @@ analytics endeavours, ensuring you make data-driven decisions with
 confidence.
 
 
+##
+
 # **Use Cases**
 
-## MobiSpaces
+<br>
+
+> ## MobiSpaces
 
 
 
 <figure>
-<img src="media/image_012_image2.jpg" style="max-width: 75%; height: auto;"/>
+<img src="media/image_012_image2.jpg" style="max-width: 50%; height: auto;"/>
 </figure>
 
 
@@ -1422,7 +1429,9 @@ confidence.
 
 ### Partners
 
-![Figure 2.1.2: MobiSpaces Partners Logos 01](media/image_015_image4.jpg)
+<figure>
+<img src="media/image_014_image3.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 2.1.2: MobiSpaces Partners Logos 01*
 
@@ -1477,7 +1486,10 @@ Finally, it aims to measure the degradation of bus battery performance
 over time, predict their useful life, and anticipate details regarding
 their maintenance.
 
-![image_015_image4.jpg](media/image_015_image4.jpg)
+<figure>
+<img src="media/image_015_image4.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
+
 > *Figure 2.1.3: MobiSpaces Partners Logos 02*
 
 
@@ -1527,7 +1539,9 @@ battery level management and aims to give an instrument to re-build bus
 schedules, both real-time and long-term, given predictions on battery
 duration based on the data analysed and on the expected battery decay.
 
-![image_043_image5.jpg](media/image_043_image5.jpg)
+<figure>
+<img src="media/image_043_image5.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 2.1.4:  MobiSpaces Contribution 01*
 
@@ -1554,9 +1568,11 @@ The internal data are usually located and stored on internal servers. A
 mission of the use case, detailed later in the deliverable, is to create
 a good, efficient and sustainable data path for the datasets described.
 
-## CyberSEAS
+> ## CyberSEAS
 
-![image_044_image6.jpg](media/image_044_image6.jpg)
+<figure>
+<img src="media/image_044_image6.jpg" style="max-width: 50%; height: auto;"/>
+</figure>
 
 > *Figure 2.2.1: CyberSEAS Project Logo*
 
@@ -1570,7 +1586,9 @@ a good, efficient and sustainable data path for the datasets described.
 
 ### Partners
 
-![image_045_image7.jpg](media/image_045_image7.jpg)
+<figure>
+<img src="media/image_045_image7.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 2.2.2: CyberSEAS Partners Logo*
 
@@ -1700,7 +1718,10 @@ FML Architecture Flow in ALIDA platform*, ALIDA allows federated model
 training, so that users can train models without the need to expose
 data.
 
-![image_046_image8.jpg](media/image_046_image8.jpg)
+<figure>
+<img src="media/image_046_image8.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
+
 > *Figure 2.2.3: FML Architecture Flow in ALIDA platform*
 
 Among the few open-source technologies that enable FML, Flower has been
@@ -1732,11 +1753,11 @@ FML Participant areas, thus based on specific modules for the
 micro-service to be ALIDA compliant, being able to integrate and use at
 the same time all the features provided by Flower.
 
-## CiTrace
+> ## CiTrace
 
 
 <figure>
-<img src="media/image_047_image9.jpg" style="max-width: 50%; height: auto;"/>
+<img src="media/image_047_image9.jpg" style="max-width: 35%; height: auto;"/>
 </figure>
 
 > *Figure 2.3.1: CiTrace Project Logo*
@@ -1798,7 +1819,7 @@ penetration rate, inventory turnover, and order fulfilment. The Optimal
 Distribution Strategy model will be the result of training a Machine
 Learning algorithm based on these data.
 
-## BD4NRG
+> ## BD4NRG
 
 <figure>
 <img src="media/image_058_image11.jpg" style="max-width: 35%; height: auto;"/>
@@ -1813,7 +1834,9 @@ Learning algorithm based on these data.
 
 ### Partners
 
-![image_059_image12.jpg](media/image_059_image12.jpg)
+<figure>
+<img src="media/image_059_image12.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 2.4.2: BD4NRG Partners Logos*
 
@@ -1951,10 +1974,8 @@ users lacking Big Data expertise to manage BDA and deploy big data
 pipeline applications ready-to-be-executed addressing their goals at
 edge/fog/cloud nodes.
 
-
 <figure>
-<img src="media/image_060_image13.jpg" style="width:4.22138in;height:5.44433in"/>
-<figcaption><p>Figure 2.4.3</p></figcaption>
+<img src="media/image_060_image13.jpg" style="max-width: 50%; height: auto;"/>
 </figure>
 
 > *Figure 2.4.3: ALIDA general architecture for BD4NRG* 
@@ -1964,7 +1985,7 @@ workflows and allows for composition, deployment and execution of
 workflows (either batch or stream) of BDA applications. *Figure 2.4.3*
 describes the ALIDA general architecture.
 
-## SCREAM
+> ## SCREAM
 
 <figure>
 <img src="media/image_061_image14.jpg" style="max-width: 35%; height: auto;"/>
@@ -1981,7 +2002,9 @@ describes the ALIDA general architecture.
 
 ### Partners
 
-![](media/image_062_image15.jpg)
+<figure>
+<img src="media/image_062_image15.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 2.5.2: SCREAM Partners Logo*
 
@@ -2053,7 +2076,7 @@ In ALIDA, both **BDA App** streaming for the *data acquisition* and
 *data preparation,* and *batch* for pre-process and generate ML/DL
 models based on data stored within distributed data storage.
 
-## Infinitech
+> ## Infinitech
 
 
 <figure>
@@ -2070,7 +2093,9 @@ models based on data stored within distributed data storage.
 
 ### Partners
 
-![image_065_image18.jpg](media/image_065_image18.jpg)
+<figure>
+<img src="media/image_065_image18.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 2.6.2: Infinitech Partners Logo 01*
 
@@ -2329,7 +2354,9 @@ implemented yet.
 
 > *Figure 2.6.7: Infinitech Contribution 05*
 
-## OK-INSAID
+#
+
+> ## OK-INSAID
 
 <figure>
 <img src="media/image_072_image24.jpg" style="max-width:40%; height: auto;"/>
@@ -2345,7 +2372,9 @@ implemented yet.
 
 ### Partners
 
-![image_066_image25.jpg](media/image_066_image25.jpg)
+<figure>
+<img src="media/image_066_image25.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 2.7.2: OK-INSAID Partners Logos*
 
@@ -2518,7 +2547,9 @@ execution of application A1.
 application A2.
 
 
-![image_002_image27.jpg](media/image_002_image27.jpg)
+<figure>
+<img src="media/image_002_image27.jpg" style="max-width: 100%; height: auto;"/>
+</figure>
 
 > *Figure 2.7.4: OK-INSAID Contribution 02*
 
@@ -2538,7 +2569,9 @@ application A2.
 
 > *Figure 2.7.8: OK-INSAID Contribution 06*
 
-## ICARUS
+#
+
+> ## ICARUS
 
 <figure>
 <img src="media/image_007_image32.jpg" style="max-width:40%; height: auto;"/>
@@ -2653,7 +2686,9 @@ The platform will soon be available in beta format. Project researchers
 are currently exploring the best business plan for bringing the platform
 to market.
 
-## Agritech
+#
+
+> ## Agritech
 
 <figure>
 <img src="media/image_009_image34.png" style="max-width:30%; height: auto;"/>
@@ -2727,7 +2762,9 @@ analytical results to a traceability system that will expose the outcome
 during the scanning phase of the QR code displayed on the finished
 product.
 
-![image_011_image36.jpg](media/image_011_image36.jpg)
+<figure>
+<img src="media/image_011_image36.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 2.9.3: Agritech Contribution 01*
 
@@ -2838,13 +2875,21 @@ offering advanced functionalities for data collection, analysis,
 visualization, and automation to improve agricultural efficiency and
 productivity.
 
+<br>
+
+#
+
 # **Part II**
 
 ## User Guide
 
-## Data Access
+#
 
-*(\*ChatGPT and CoPilot)*
+## **Data Access**
+
+<!-- (\*ChatGPT and CoPilot)* *\ -->
+
+
 
 ## Enterprise Application Integration
 
@@ -3545,9 +3590,12 @@ projects, helping you understand the basics and advanced concepts.
 API-based access to web data can significantly enhance your data
 analysis and integration capabilities.
 
-# Data Preparation
+<br>
+<br>
 
-## Data Blending/Wrangling
+## **Data Preparation**
+
+### Data Blending/Wrangling
 
 In **Machine Learning** and **Data Science**, the concepts of **Data
 Blending** and **Data Wrangling** refer to two distinct but
@@ -3618,7 +3666,7 @@ Imagine you have:
 2.  With **Data Wrangling**, clean up the dataset (removing errors,
     transforming variables, handling missing data).
 
-## Data Augmentation
+### Data Augmentation
 
 **Data Augmentation** is a technique used to **artificially increase the
 amount of data** available for training a model, creating new instances
@@ -3630,7 +3678,7 @@ better performance, especially when the dataset is limited.
 
 **Data Augmentation in the different areas**
 
-**1️⃣ Computer Vision (Images)**
+#### ***Computer Vision (Images)***
 
 In computer vision, **Data Augmentation** is widely used to generate
 multiple images from existing ones. Common techniques include:
@@ -3649,11 +3697,11 @@ multiple images from existing ones. Common techniques include:
 6.  **Generation of synthetic data** (e.g. GAN - Generative Adversarial
     Networks)
 
-📌 **Example**: In a dataset of cat images, you can create new images by
+-  **Example**: In a dataset of cat images, you can create new images by
 rotating them or applying filters to simulate different lighting
 conditions.
 
-**2️⃣ Natural Language Processing (NLP)**
+#### ***Natural Language Processing (NLP)***
 
 In text, **Data Augmentation** can be more complex because editing a
 sentence without altering its meaning is difficult. Some techniques
@@ -3671,10 +3719,10 @@ include:
 5.  **Generation with language models** (e.g. GPT to create new similar
     texts)
 
-📌 **Example**: The phrase *\"The dog runs in the park\"* can be
+**Example**: The phrase *\"The dog runs in the park\"* can be
 increased to *\"The dog sprints in the garden\"* by synonyms.
 
-**3️⃣ Tabular Data (Structured Data)**
+*** Tabular Data (Structured Data)***
 
 In tabular datasets, Data Augmentation is more complex, but can be
 accomplished with:
@@ -3686,90 +3734,460 @@ accomplished with:
 3.  **Statistical perturbations** (random changes to the data while
     maintaining the original distribution)
 
-📌 **Example**: If you have little data from high-income customers,
+**Example**: If you have little data from high-income customers,
 SMOTE can generate new synthetic examples to improve class balance.
 
-**Benefits of Data Augmentation**
+#### ***Benefits of Data Augmentation:***
 
-**🔍 Improves model** **generalization**
+**- Improves model** **generalization**
 
-**🔍 Reduces overfitting**, especially with small **datasets**
+**- Reduces overfitting**, especially with small **datasets**
 
-**🔍 Increases model robustness** to variations in real **data**
+**- Increases model robustness** to variations in real **data**
 
-**🔍 Allows you to better leverage deep learning models**, which require
+**- Allows you to better leverage deep learning models**, which require
 large amounts of data.
 
-**Limitations and Challenges**
+**Limitations and Challenges:**
 
 ⚠ **Not always effective for all data**\
 ⚠ T**ypes Risk of introducing bias or noise** if augmentation is poorly
 designed\
 ⚠ **Increased training time**, especially with images and text.
 
-## Data Quality Support
+## **Data Quality Support**
+
+Data Quality Support refers to the set of activities, tools, methodologies, and interventions aimed at ensuring that the data used in applied research projects are accurate, complete, consistent, reliable, and timely, throughout their entire lifecycle—from collection to dissemination.
+In applied research contexts (e.g., agri-food, environmental, healthcare), supporting data quality plays a key role because it:
+Directly impacts the scientific validity of results
+Ensures reproducibility and traceability of findings
+Affects the scalability and transferability of results to real-world applications (e.g., industry, supply chains, regulatory bodies)
+
+### **Core Components of Data Quality Support**
+
+**1. Standardization**
+
+Standardization is the foundational pillar of data quality support, enabling the harmonization of data structure, content, and meaning. In applied research, the adoption of formal ontologies, controlled vocabularies, and standardized data formats allows for the efficient integration of heterogeneous data sources, reduces semantic ambiguity, and enhances data reusability in accordance with FAIR principles. The use of international standards (e.g., ISO 8000 – Data Quality, ISO/IEC 25012 – Data Quality Model) reinforces compliance and interoperability at both European and global levels.
+
+**2. Validation and Verification**
+
+Validation and verification are essential processes to ensure the reliability and internal consistency of the datasets used. These activities include both automated and manual checks to detect syntactic errors, semantic inconsistencies, duplicates, missing values, and outliers. In multidisciplinary research contexts, such verification mechanisms must be modular and adaptable, supporting data quality throughout the entire lifecycle—including during the integration of distributed and heterogeneous sources.
+Monitoring of semantic consistency and relational integrity.
+
+**3. Governance and Metadata**
+
+Effective data governance requires the definition of key roles (e.g., data stewards, data owners) and the use of tools for documentation, traceability, and version control. Metadata play a central role in describing the origin, structure, intended use, and constraints of data. In applied research, this approach facilitates quality assessment, data provenance (lineage), and scientific trustworthiness. Integration with Data Management Plans (DMPs) is essential for projects funded at national and EU levels.
+
+**4. Technologies and Tools**
+
+Technological support for data quality relies on specialized tools for data profiling, cleansing, continuous monitoring, and remediation. Open-source tools such as Talend, OpenRefine, or Apache Griffin, along with emerging technologies (e.g., AI/ML for anomaly detection), enable automation in identifying and correcting data anomalies. Furthermore, interoperable platforms such as ALIDA (for analytical workflow orchestration) or Distributed Ledger Technologies (DLTs) (to ensure integrity and traceability) strengthen quality control throughout the entire data lifecycle.
+
+### **Practical Applications**
+
+#### *Sensor and experimental data quality*
+
+In experimental contexts (e.g., agronomy, environmental studies, Industry 4.0), Data Quality Support ensures the accuracy and consistency of data collected from sensors, lab instruments, IoT systems, or manual surveys. The adoption of standardized protocols, automatic validation checks, and data cleaning tools improves the reliability of datasets used for modeling and predictive analysis.
+
+#### *Integration and harmonization of heterogeneous data*
+
+Applied research frequently involves the combined use of datasets that vary in format, granularity, origin, or frequency (e.g., open data, historical records, enterprise systems, institutional sources). Data Quality Support enables harmonization through data fusion, semantic mapping, and assisted integration, supporting complex use cases such as the development of digital twins or decision support systems.
+
+#### *Integrity and consistency checks in distributed systems (DLT, edge computing)*
+
+In distributed architectures—such as DLTs or edge computing infrastructures—data quality must be ensured at both local and global levels. Data Quality Support includes input data validation, temporal alignment, and integrity monitoring throughout the processing pipeline.
+
+#### *Support for data collection from external stakeholders (e.g., companies, field operators)*
+
+In applied research, data are often sourced from external actors with varying levels of digitalization and technical expertise. Data Quality Support involves the creation of guided templates, standardized collection forms, operational manuals, and technical training to ensure data accuracy and compatibility.
+
+#### *Enabling distributed and federated analytics*
+
+In scenarios where data cannot be centralized (due to privacy, ownership, or cost reasons), Data Quality Support enables federated analysis (e.g., federated learning) by ensuring that locally trained models are based on valid, comparable, and compliant data.
+
+#### *Continuous monitoring and alerting on data stream quality*
+
+In projects involving continuous data flows (e.g., streaming, sensors, logs), Data Quality Support includes real-time monitoring and automatic alerts in case of quality degradation (e.g., dropped flows, anomalies, missing values). This is critical in high-automation or mission-critical environments.
+
+#### *Support for interoperability in multi-actor research projects*
+
+In collaborative research projects involving institutions, enterprises, and public authorities, data quality is a prerequisite for sharing and interoperability. Support activities may include semantic alignment of datasets, negotiation of shared ontologies, and the definition of standardized data exchange formats.
+
+
+## Benefits of Data Quality Support
+
+The adoption of structured data quality practices enhances the validity of experimental results and ensures higher reproducibility of studies. This is particularly crucial when data feed predictive models, simulations, or automated decision-making processes.
+
+#### *Greater transparency, traceability, and auditability*
+
+High-quality data can be traced back to its origin and transformations, facilitating internal and external review processes. It supports regulatory compliance (e.g., GDPR, EU regulations) and enables certification or audit workflows, especially in tech-intensive or public-funded projects.
+
+#### *Reduced risk of errors and bias in analytical models*
+
+Incomplete, incorrect, or inconsistent data can introduce bias or misleading outcomes in analyses. Data Quality Support allows for timely detection of anomalies or errors, reducing the risk of flawed decisions or compromised statistical robustness.
+
+#### *Optimized reuse of existing datasets*
+
+By ensuring quality and interoperability, Data Quality Support enables the effective reuse of existing data, reducing the need for redundant data collection and improving the operational efficiency of research initiatives.
+
+#### *Increased value of data for technology transfer*
+
+Reliable and well-documented data are more easily exploitable for technology transfer, commercialization, or intellectual property valorization. Data quality becomes a strategic asset, particularly in applied, industrial, or patent-driven projects.
+
+#### *Enabler of interoperability and distributed analytics*
+
+Quality support allows the alignment of semantics and structure across heterogeneous sources, facilitating integration of data from various actors (e.g., companies, institutions, IoT systems). This is essential for building interoperable systems and performing distributed analytics (e.g., federated learning, DLT).
+
+#### *Support for sustainability and efficiency in research projects*
+
+Investing in data quality helps reduce future costs, avoid rework, and increase the long-term durability of results. Data Quality Support makes research projects more sustainable, scalable, and ready for replication.
+
+
+
 
 ## Dataset Partitioning
 
+Dataset partitioning is a foundational step in ensuring fair, robust, and reproducible evaluation of analytical and predictive models in applied research. The choice of strategy—whether stratified, temporal, or cross-validation—depends on the nature of the data and the research objectives, and it must be implemented carefully to ensure the credibility of the results.
+
+#### Definition and Purpose
+
+Dataset partitioning refers to the systematic division of a dataset into multiple subsets, each serving a distinct purpose in a data analysis or machine learning pipeline. It is a critical step in ensuring:
+
+ - Objective validation of model performance
+
+ - Generalization of results to unseen data
+
+ - Control over bias and overfitting
+
+ - Balanced representation of data classes or features
+
+
+
 ## Binning and Smoothing
+
+In the context of applied Artificial Intelligence (AI) and data-driven research, the quality and structure of input data play a pivotal role in determining the reliability, robustness, and interpretability of analytical models. Two key preprocessing techniques often employed to enhance data usability are binning and smoothing. These methods are particularly useful when working with noisy, high-dimensional, or continuous-valued datasets, which are common in fields such as agrifood technology, environmental monitoring, digital health, and decentralized systems using DLT (Distributed Ledger Technologies).
+
+#### *Binning: Discretizing Continuous Data*
+
+Binning is a data discretization technique that transforms continuous numerical variables into categorical intervals, or "bins". Instead of using raw values, each observation is replaced by a representative value associated with its corresponding bin. This approach can simplify the structure of the data, reduce the influence of minor fluctuations or measurement errors, and prepare the dataset for algorithms that operate more effectively on categorical features (e.g., decision trees, Naive Bayes classifiers).
+
+More advanced techniques, such as supervised binning or optimal binning, take into account the relationship between input variables and the target variable to determine the best way to discretize the data. In some cases, fuzzy binning or clustering-based binning is applied to allow for soft boundaries and probabilistic memberships, especially in complex or uncertain domains.
+
+In applied research, binning is particularly useful when datasets contain sensor readings, geospatial coordinates, or quantitative lab results. Discretizing such data can improve the stability of the model and reduce its sensitivity to noise or outliers.
+
+#### *Smoothing: Reducing Noise and Highlighting Trends*
+
+Smoothing refers to a set of techniques used to reduce noise in datasets, particularly in time series or high-frequency data, while preserving underlying patterns and trends. The goal is to produce a cleaner signal that can be more effectively analyzed, modeled, or interpreted.
+
+Common smoothing methods include:
+
+Moving average smoothing, where each data point is replaced by the average of its neighboring values within a defined window.
+
+Exponential smoothing, which applies exponentially decreasing weights to older observations, giving more importance to recent values.
+
+Savitzky–Golay filtering, which fits a low-degree polynomial to a sliding window of the data, preserving the original shape and features of the signal better than simple averaging.
+
+Additive smoothing (e.g., Laplace smoothing), used in categorical data to avoid zero probabilities in probabilistic models.
+
+Other advanced techniques such as kernel-based smoothing or spline interpolation may also be applied, particularly when handling complex temporal or spatial datasets.
+
+In applied AI systems, smoothing is commonly used to preprocess real-world data collected from IoT devices, agricultural sensors, satellite imagery, or health monitors. These sources are often subject to environmental noise, missing values, or irregular sampling intervals. By smoothing the data, researchers can extract meaningful patterns, improve model training, and reduce the risk of overfitting caused by random fluctuations.
+
+#### Combined Use of Binning and Smoothing
+
+In many practical applications, binning and smoothing are used in combination. For instance, data can first be grouped into bins, and then each bin can be smoothed by replacing its values with the mean or median of the bin. This dual approach allows researchers to discretize the data structure while also attenuating local noise, providing a more stable input for AI models.
+Such preprocessing is particularly valuable in fields where raw data is heterogeneous, sparse, or highly variable—such as in blockchain-enabled traceability systems (DLT), where multiple nodes may contribute inconsistent data over time. Applying binning and smoothing in this context helps to align formats, remove outliers, and improve the consistency of the analytical pipeline.
+
+Binning and smoothing are fundamental preprocessing techniques in applied AI that facilitate the simplification, standardization, and noise reduction of raw data. Their proper implementation enhances the interpretability, stability, and performance of machine learning models, especially in complex or data-rich domains. When used thoughtfully, these techniques contribute significantly to the reproducibility and scientific reliability of research outcomes.
 
 ## Filter and Search
 
+Filter and search operations are essential pillars of applied AI pipelines. Far beyond simple data subsetting or keyword retrieval, these operations support intelligent interaction with large, complex, and distributed datasets. Whether through preprocessing, semantic search, high-dimensional indexing, or user-driven exploration, effective filtering and search mechanisms ensure that AI systems remain relevant, efficient, and explainable — key requirements for responsible innovation in data-intensive research environments.
+
+The ability to filter and search through large volumes of structured or unstructured data is fundamental to enabling efficient analysis, model training, and decision support. These operations are not limited to traditional information retrieval, but are embedded in every layer of data processing — from feature selection and data querying to intelligent knowledge extraction in distributed environments.
+
+The “Filter and Search” paradigm in AI-driven systems extends beyond basic keyword queries or dataset subsetting. It involves a combination of algorithmic filtering, semantic search, ranking, and contextual matching, often integrated into intelligent pipelines that support automation, scalability, and explainability.
+
+#### 1. Filtering as a Preprocessing Step
+Filtering is widely used during data preprocessing to remove irrelevant, redundant, or low-quality data before training a machine learning model. This includes:
+
+Filtering rows based on thresholds (e.g., only records with temperature > 30°C)
+
+Removing missing, inconsistent, or noisy entries
+
+Selecting relevant features (feature filtering) based on statistical significance or domain knowledge
+
+Applying conditional logic to retain only data that meets experiment-specific criteria
+
+In applied research, particularly in fields like agriculture, environmental monitoring, or digital health, filtering helps ensure that the training data is representative, clean, and meaningful, reducing noise and bias in downstream analysis.
+
+#### 2. Semantic and Context-Aware Search
+Modern search systems in AI extend beyond syntactic matching. They include semantic search methods that use embeddings, ontologies, and contextual similarity to retrieve information that is relevant, even if it doesn't contain the exact search terms.
+
+For example:
+
+In a knowledge graph, a semantic search might return all entities related to “organic farming” even if the exact phrase does not appear
+
+In NLP-based applications, transformer models (e.g., BERT) can retrieve semantically similar documents or concepts using vector similarity instead of keywords
+
+In decentralized data environments (e.g., DLTs), search can involve cross-node querying with ontology alignment and metadata indexing
+
+Semantic filtering and search are essential when datasets are heterogeneous, multilingual, or multi-source, as is often the case in applied EU-funded research or AI-driven policy analysis.
+
+#### 3. Search in High-Dimensional or Unstructured Data
+In AI and applied science, researchers often work with unstructured data (text, images, signals) or high-dimensional datasets (e.g., genomics, multispectral imaging). Efficient search mechanisms allow for:
+
+Similarity search (e.g., finding the most similar sensor readings or images)
+
+Subspace filtering (selecting only features or dimensions relevant to a hypothesis)
+
+Use of indexing structures like KD-trees, inverted indexes, or approximate nearest neighbors (ANN) to handle large-scale search efficiently
+
+This is especially relevant in domains such as precision agriculture, where satellite or drone imagery is queried to locate specific patterns (e.g., disease hotspots), or in smart manufacturing, where sensor logs are filtered to detect early warnings.
+
+#### 4. User-Driven Filtering in Interactive Systems
+In applied systems that include human-in-the-loop components, filtering is often user-driven. Researchers, domain experts, or decision-makers interact with dashboards or visual analytics tools that support:
+
+Custom filters (by time, location, category)
+
+Multidimensional queries (e.g., “show me anomalies in refrigerated transport for dairy products in July”)
+
+Real-time updates as filters are modified
+
+This supports explainability and interpretability, which are increasingly critical in AI systems deployed in real-world environments, especially when transparency is required (e.g., healthcare, food safety, environmental impact assessments).
+
+#### 5. Filtering and Search in Distributed and Federated Contexts
+In modern research architectures involving distributed data sources or federated learning, filtering and search must operate across decentralized nodes. This introduces specific challenges:
+
+Ensuring interoperability of queries across datasets with different schemas or standards
+
+Filtering data locally at the edge, before it is shared or aggregated
+
+Maintaining privacy and security while still enabling efficient data access
+
+In such systems, filtering and search mechanisms must be lightweight, secure, and often ontology-driven to ensure meaningful results across different domains and languages.
+
+
 ## Feature Generation
+
+Feature generation is a critical step in any data analytics or machine learning workflow. By transforming raw data into meaningful, domain-relevant variables, it enables models to better capture real-world complexity, improve predictive accuracy, and align with scientific or operational goals. In applied research contexts—where data is often noisy, incomplete, or heterogeneous—feature generation becomes not just a technical task, but a strategic activity that bridges data science and domain expertise.
+
+In modern data analytics workflows, particularly those involving machine learning or AI-based modeling, the quality of the input features is often more critical than the choice of algorithm. Feature generation—also known as feature construction—refers to the process of creating new, informative variables from raw data, in order to better represent the underlying structure of the problem and enhance model performance.
+
+Rather than relying solely on the original data fields collected from sensors, databases, or user input, analysts generate new features that capture domain knowledge, reveal latent relationships, or simplify complex patterns.
+
+#### 1. Definition and Purpose
+Feature generation is the process of transforming raw data into structured variables (features) that are more meaningful and predictive for a specific analytical task. It is distinct from feature selection (which picks the best existing features), in that it creates new variables, either by combining existing ones or deriving them through domain logic or mathematical transformations.
+
+The goal is to improve:
+
+ - Model accuracy and generalization
+
+ - Interpretability and explainability
+
+ - Robustness to noise or missing data
+
+ - Alignment with domain-specific knowledge
+
+In applied settings such as agriculture, smart manufacturing, or energy systems, feature generation often incorporates expert knowledge about time, geography, system behavior, or regulatory constraints.
+
+#### 2. Types of Feature Generation
+There are several common strategies for generating features:
+
+a. Mathematical Transformations
+Raw numerical features can be transformed using operations like logarithms, square roots, ratios, or polynomial expansions. For example, generating a “temperature variation” feature from daily min/max values.
+
+b. Aggregations and Window Functions
+In time-series or sequential data, features can be created by computing statistics (mean, median, standard deviation, min/max) over time windows or spatial segments. This is widely used in predictive maintenance or crop monitoring.
+
+c. Interaction Terms
+New features can be generated by multiplying or combining two or more variables to capture interactions that are not visible when variables are treated independently. For instance, “soil moisture × temperature” could be more informative than each variable alone.
+
+d. Domain-Derived Features
+Features derived from subject matter expertise—such as growing degree days (GDD) in agriculture, or normalized load curves in energy systems—allow models to integrate real-world processes into their structure.
+
+e. Text and Categorical Encoding
+When working with textual or categorical data, feature generation includes techniques such as TF-IDF vectors, n-grams, word embeddings (e.g., BERT), or one-hot encoding, to convert raw text or labels into numerical inputs.
+
+f. Spatial and Temporal Features
+In geospatial or time-aware applications, generating features such as “distance from origin”, “days since last event”, or “seasonality index” enables the model to leverage temporal and spatial patterns that are often key in applied research.
+
+#### 3. Automated vs Manual Feature Generation
+Feature generation can be manual, relying on expert insight and exploratory data analysis, or automated, using algorithmic approaches such as:
+
+Featuretools for deep feature synthesis
+
+AutoML platforms that generate candidate features and rank them
+
+Embedding techniques (e.g., in graph neural networks or NLP) that automatically learn latent features from complex structures
+
+In applied research environments, a hybrid approach is often used—combining human expertise with automated pipelines—to ensure that generated features are both meaningful and technically robust.
+
+#### 4. Role in the Data Analytics Pipeline
+Feature generation plays a foundational role in transforming data from its raw state to a model-ready form. It is typically positioned between data cleaning and model training:
+
+Raw data ingestion
+
+Preprocessing (cleaning, normalization)
+
+Feature generation
+
+Feature selection and dimensionality reduction
+
+Model development and evaluation
+
+Without relevant features, even the most sophisticated algorithms can perform poorly. Conversely, well-designed features can dramatically improve model performance—even when using relatively simple models.
+
+#### 5. Benefits in Applied Research and AI
+In applied domains, feature generation enables:
+
+Adaptation to domain-specific constraints (e.g., regulatory thresholds, biological cycles)
+
+Improved explainability, allowing stakeholders to understand how inputs influence predictions
+
+Data enrichment, especially when integrating multiple sources (e.g., IoT + satellite data)
+
+Reduced dimensionality, by condensing raw variables into more meaningful aggregates
+
+Greater resilience to data sparsity, noise, or drift over time
+
+For example, in agrifood traceability systems, generating features that represent “chain consistency”, “average time per transformation step”, or “anomaly scores from past batches” can support fraud detection or quality assurance processes.
+
 
 ## Official Watermarking of Datasets
 
+Official watermarking of datasets represents a powerful and emerging strategy to strengthen data governance, provenance assurance, and scientific integrity in the age of open data and AI. By embedding persistent, verifiable marks into datasets, organizations and research institutions can ensure authenticity, accountability, and trust in the data they produce and share. As the data landscape becomes more decentralized, collaborative, and regulated, watermarking will increasingly become a foundational practice in responsible data analytics and digital trust frameworks.
+
+In modern data-driven environments, the integrity, authenticity, and traceability of datasets are critical to ensuring responsible and verifiable use of data. One emerging technique that supports these goals is official watermarking—a process by which digital identifiers or cryptographic marks are embedded directly into datasets, establishing their origin, ownership, or certification status in a verifiable way.
+
+Unlike traditional metadata or file naming conventions, official watermarking is embedded at the data level, making it harder to tamper with and easier to audit. This technique is particularly relevant in sectors such as research, healthcare, public administration, agri-food traceability, and AI model development, where the reliability and provenance of data can impact regulatory compliance, scientific validity, and public trust.
+
+#### 1. Definition and Core Concept
+Official watermarking of datasets refers to the systematic embedding of unique, traceable digital signatures—called watermarks—into a dataset or its derived content. These watermarks can be either visible (semantic labels, tags, hashes) or invisible (statistically encoded or cryptographic markers). The objective is to create an unambiguous link between a dataset and its publisher, custodian, or issuing authority.
+
+Unlike traditional document watermarks, which are often visual and superficial, dataset watermarks are resilient to format transformations, hidden within the data, and detectable via validation tools. They can also include timestamps, version numbers, origin identifiers, or digital certificates.
+
+#### 2. Why Watermarking is Needed in Data Analytics
+In applied data analytics and AI-driven research, watermarking supports several critical needs:
+
+ - Data provenance and attribution: Tracking who created, certified, or modified the dataset.
+
+ - Integrity verification: Ensuring that the dataset has not been tampered with, altered, or corrupted.
+
+ - Legal and ethical accountability: Enabling traceability for data sharing under formal agreements, public policies, or licensing constraints.
+
+ - Reproducibility in research: Certifying that a given dataset used in experimentation is the officially released version.
+
+ - Counterfeit detection: Identifying unlicensed copies or manipulated versions of open/public datasets.
+
+These needs are becoming increasingly relevant in collaborative R&D projects, data marketplaces, federated data spaces, and regulatory AI frameworks.
+
+#### 3. Types of Dataset Watermarking
+There are several technical approaches to watermarking, each suited to different data types and use cases:
+
+ - Cryptographic watermarking: Embedding hashes, digital signatures, or cryptographic checksums directly in the dataset or its metadata to verify integrity.
+
+ - Statistical watermarking: Introducing subtle perturbations in numerical data (e.g., ±0.001%) that are statistically invisible but verifiable through a secret key.
+
+ - Semantic watermarking: Embedding unique codes or identifiers into specific categorical fields (e.g., ID codes, batch numbers, geotags) in a structured way.
+
+ - Embedded metadata schemes: Creating hidden fields or labels within structured data (e.g., hidden columns in a CSV or JSON schema) to encode origin information.
+
+Depending on the application, these methods can be passive (detectable without affecting the data use) or active (designed to raise alerts if tampered with).
+
+#### 4. Applications in Applied Research and Data Governance
+In the context of data analytics for applied research and public-interest projects, official watermarking is particularly useful for:
+
+ - Certifying Open Datasets: Ensuring that published research datasets (e.g., under Open Science mandates) carry a verifiable mark of authenticity from the issuing institution or funding body.
+
+ - DLT and Blockchain Integration: Embedding dataset watermarks as transaction hashes or on-chain references to guarantee origin and immutability.
+
+ - Cross-institutional Data Exchange: Enabling secure and traceable data flows between consortia partners while maintaining accountability.
+
+ - Model Training Auditability: Embedding watermark identifiers into datasets used for AI model training to allow trace-back in case of bias or misuse.
+
+Sensitive Data Monitoring: Protecting regulated data (e.g., personal health or agricultural subsidy records) by embedding audit trails directly within the dataset.
+
+
 ## Basic Data Catalogue
+A basic data catalogue acts as a centralized, searchable inventory that documents all data assets within an organization—including structured tables, unstructured files, dashboards, and ML models. It relies on metadata (technical, operational, and business) to support discovery, trust, and governance. By enabling users to locate relevant data quickly, examine lineage, and understand usage context, a data catalogue dismantles data silos and supports self-service analytics and compliance. https://www.ibm.com/think/topics/data-catalog
 
-## Data Labelling/Annotation
+## Data Labelling / Annotation
+Data labelling (or annotation) involves applying structured tags or labels to raw data—whether text, images, audio, or video—to enable AI algorithms to understand and learn from it. Common formats include classification labels, bounding boxes, and semantic segmentation. High-quality annotations fuel accurate model training and are essential for domains like autonomous vehicles, medical imaging, and sentiment analysis. https://en.wikipedia.org/wiki/Data_annotation
 
-## Transformations, Aggregation and Set Operations
+## Transformations
+Transformations comprise the suite of operations—such as normalization, encoding, pivoting, or scaling—used to convert raw inputs into formats suited for analysis. Tools like dbt (Data Build Tool) exemplify modern transformation orchestration in analytics pipelines. Transformations ensure data consistency and prepare inputs for model training or integration .
+
+## Aggregation and Set Operations
+Aggregation involves summarizing granular data (for example, computing the mean, sum, or count across groups), while set operations support combining or comparing datasets (using union, intersection, difference). These techniques are key in feature engineering, enabling analysts to derive meaningful trends and group-level insights—such as average sensor values by location or commonalities between datasets.
 
 ## Data Enrichment
+Data enrichment enhances existing datasets by integrating external or auxiliary information. This can involve adding weather statistics to agricultural sensors, demographic data to health records, or geospatial context to logistics logs. Enrichment boosts model performance by embedding deeper, contextual knowledge into analytics pipelines.
 
 ## Augmented Data Preprocessing
+Augmented data preprocessing applies machine learning or AI techniques to automate and enhance traditional preparation steps—such as cleaning, validation, or profiling. Modern platforms leverage natural language queries and ML-powered quality scoring to guide users through preprocessing tasks, democratizing access to advanced analytics. https://www.qlik.com/us/data-management/data-catalog
 
 ## Augmented Data Preparation
+Building on preprocessing, augmented data preparation offers a self-service interface that guides users through data ingestion, transformation, and cleaning via AI-enhanced suggestions. These platforms allow analysts to visually explore samples, adjust pipelines, and operationalize them without requiring heavy coding, thereby accelerating time-to-insight and reducing dependency on IT .
 
 ## Cloud, Hybrid and Multicloud Support
+Modern analytics infrastructure often spans cloud, on‑premises, and multiple cloud providers. Supporting hybrid and multicloud architectures ensures that data catalogues, transformation tools, and ML workflows can seamlessly operate across diverse environments. This flexibility empowers organizations to optimize for data locality, regulatory compliance, and cost-efficiency while maintaining a unified governance layer and enabling distributed processing .
 
-## 
+<br>
+<br>
 
-# Data Exploration and Visualisation \<omissis\>
+# **Data Exploration and Visualisation** 
+
+In advanced data analytics, effective exploration and visualization are foundational to ensuring insightful, reliable, and actionable results. Together, these methods form an advanced toolkit for data exploration in applied AI settings. From univariate/bivariate statistics to interactive and graph-based visual analysis, augmented discovery, and flexible deployment architecture, they empower analysts to extract reliable insights and present them effectively to decision-makers.
+
+Below is a narrative overview of key methods:
 
 ## Univariate and Bivariate Statistics
+Univariate analysis focuses on the distribution of a single variable—its central tendency (mean, median, mode), variability (variance, standard deviation), and overall shape (skewness, kurtosis), often visualized via histograms or box plots. https://smogdr.github.io/edar_coursebook/eda1.html https://en.wikipedia.org/wiki/Descriptive_statistics. Bivariate analysis examines the relationship between two variables, using scatter plots, correlation coefficients, or contingency tables to reveal associations. https://behaveannual.org/statistical-analysis/univariate-and-bivariate-analysis/
 
 ## Statistical Significance Testing
+After identifying potential relationships, hypothesis tests (e.g. t-tests, chi-square, ANOVA) assess whether observed differences or correlations are statistically robust, guiding whether findings generalize beyond the sample.
 
 ## Signal Preprocessing
+Before visualizing time-based or sensor data, preprocessing steps—such as denoising (e.g., filtering), detrending, normalization, and handling missing values—are applied to reveal genuine patterns and avoid spurious anomalies.
 
 ## Data Visualizations
+Effective visualizations translate numerical insights into clear visual formats—line charts for time series, heatmaps for correlation matrices, geolocation maps for spatial data, and network diagrams for relational patterns—critical for accurate interpretation and stakeholder communication.
 
 ## Exporting Results
+Exploration outcomes must be shareable; exporting summarized statistics, visual objects, or dashboards (e.g., as CSVs, PowerPoints, or interactive web exports) ensures findings are integrated into reports or used in downstream systems.
 
 ## Custom Visualization
+Complex projects often require tailored visual formats—such as composite charts, interactive filters, or domain-specific plots—built through libraries like D3.js or Plotly, to emphasize insights tailored for specific audiences (e.g., agronomists, policymakers).
 
 ## Clustering and Self-Organizing Maps
+Clustering groups similar observations, revealing structure in high-dimensional data. Self‑organizing maps project such clusters onto two-dimensional grids, preserving topological consistency—making latent patterns visually interpretable. https://en.wikipedia.org/wiki/Self-organizing_map
 
 ## Geolocation Mapping
+Visualizing data on maps (e.g., heatmaps, choropleths, marker clusters) is instrumental in identifying spatial patterns—such as disease spread, product traceability in supply chains, or sensor coverage in environmental monitoring.
 
 ## Affinity and Graph Analysis
+Networks are constructed based on entity connections (e.g., co-occurrence, similarity), and graph algorithms highlight affinity structures, detect communities, and visualize relationships—useful in social network analysis or traceability graphing in DLT environments.
 
 ## Conjoint and Survey Analysis
+In behavioral research, surveys often use conjoint analysis to identify preferences and trade-offs. Responses are statistically analyzed to quantify attribute importance, which is then visualized through bar charts, part-worth utilities, or preference maps.
 
 ## Density Estimation
+Kernel density estimation and contour plots reveal the distribution of observations, helping identify clusters or anomalies. Useful in continuous data exploration such as geospatial sensor readings or income distributions.
 
 ## Similarity Metrics
+Quantitative measures—such as Euclidean distance, cosine similarity, Jaccard index, or Mahalanobis distance—are calculated to assess similarity between data points, guiding clustering or nearest-neighbor viewing.
 
 ## Augmented Data Discovery
+Modern analytics tools integrate AI to automatically suggest visualizations, detect anomalies, and propose filters. This augmented exploration accelerates insights for non-technical users via semantic queries or auto-generated dashboards.
 
-## On-Premises
+## On-Premises, Cloud, Multicloud and Hybrid
+Visualization architectures must adapt to varied environments—on-premises servers, public clouds, or hybrid setups. Multicloud integration ensures that visualization tools (catalogues, dashboards, notebooks) operate seamlessly across distributed platforms while respecting data locality, compliance rules, and interactive performance.
 
-## Cloud, Multicloud and Hybrid
 
-4.  
+<br>
+<br>
 
-# User Interface
+#  **User Interface**
 
 ## Ease of Use and Learning Curve
 
@@ -3787,7 +4205,7 @@ designed\
 
 ## Wizards and Contextual Aids \<start again\>
 
-### ALIDA Home -- Dashboard
+### ALIDA Home - Dashboard
 
 The ALIDA homepage displays some general information. In the upper-left
 corner, there is a link to the ALIDA Official Website, where you can
@@ -3952,9 +4370,10 @@ to perform, like the **method** (*GET, POST, PUT, PATCH, DELETE*), the
 **URL** to send the request to, the optional **query parameters**,
 additional **headers** and **body**.
 
-> ![](media/image45.png){width="5.314937664041995in"
-> height="5.1694892825896765in"}
->
+<figure>
+<img src="media/image_024_image45.png" style="max-width: 75%; height: auto;"/>
+</figure>
+
 > *Figure 4.8.9: Trigger Advanced Settings*
 
 The last tab of the requested set of information related to a
@@ -3975,8 +4394,9 @@ means we need to identify where the data originates from. On ALIDA, you
 can connect to various data sources via the "Data Source" menu option.
 (*Figure 4.8.10: DataSource Menu*)
 
-![](media/image46.png){width="5.9055260279965in"
-height="3.0434120734908134in"}
+<figure>
+<img src="media/image_025_image46.png" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 4.8.10: DataSource Menu*
 
@@ -3988,8 +4408,9 @@ Access Level (whether the item is visible as Private, Team, or Public),
 and enter a Description field with details on the content of the Data
 Source. (*Figure 4.8.11: Register Datasource*)
 
-![](media/image47.png){width="5.9055260279965in"
-height="2.9809700349956256in"}
+<figure>
+<img src="media/image_026_image47.png" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 4.8.11: Register Datasource*
 
@@ -4001,8 +4422,9 @@ Additional types include Tabular Storage, such as MySQL, and Filesystem
 Storage, which acts as a typical filesystem. (*Figure 4.8.12: New
 DataSource Registration Form*)
 
-![](media/image48.png){width="5.9055260279965in"
-height="2.9796062992125982in"}
+<figure>
+<img src="media/image_027_image48.png" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 4.8.12: New DataSource Registration Form*
 
@@ -4033,8 +4455,9 @@ datasource. To proceed with creating a dataset, select the "***+
 Register Dataset***" option. You can find it upper right into Dataset
 menu. (*Figure 4.8.13: Register Dataset*)
 
-![](media/image49.png){width="5.9055260279965in"
-height="2.9422659667541557in"}
+<figure>
+<img src="media/image_028_image49.png" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 4.8.13: Register Dataset*
 
@@ -4044,8 +4467,9 @@ a description and tags. If the Data Source is of a tabular type, you can
 view the table schema with the related fields, which can be edited.
 (*Figure 4.8.14: New Dataset Filling Details*)
 
-![](media/image50.png){width="5.9055260279965in"
-height="3.0456922572178478in"}
+<figure>
+<img src="media/image_029_image50.png" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 4.8.14: New Dataset Filling Details*
 
@@ -4054,8 +4478,9 @@ dataset, with a toast message displaying "*Dataset registered
 successfully*," (*Figure 4.8.15: Dataset Registered Successfully*) from
 which you can view a Dataset Preview for potential modifications.
 
-![](media/image51.jpg){width="5.9055260279965in"
-height="3.478597987751531in"}
+<figure>
+<img src="media/image_030_image51.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 4.8.15: Dataset Registered Successfully*
 
@@ -4086,8 +4511,9 @@ available: copy to clipboard, preview, edit, and delete.
 
 - **Delete** - allows for deletion of the Dataset.
 
-![](media/image52.jpg){width="5.9055260279965in"
-height="3.875254811898513in"}
+<figure>
+<img src="media/image_031_image52.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 4.8.16: Dataset List*
 
@@ -4097,12 +4523,13 @@ BDA Services are microservices capable of processing Big Data and
 handling both BATCH and STREAM data flows. (*Figure 4.8.17: Service
 List*)
 
-![](media/image53.jpg){width="5.9055260279965in"
-height="2.865511811023622in"}
+<figure>
+<img src="media/image_032_image53.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 4.8.17: Service List*
->
-> The creation of these BDA services requires varying timeframes.
+
+The creation of these BDA services requires varying timeframes.
 
 Our ALIDA catalogue includes a range of BDA services categorized by
 area: ingestion, preparation, processing, analysis, visualization,
@@ -4111,8 +4538,9 @@ evaluation, FML (Federated
 Machine Learning) aggregator, and FML participant. (*Figure 4.8.18:
 Create New Service*)
 
-![](media/image54.jpg){width="5.9055260279965in"
-height="3.5013877952755905in"}
+<figure>
+<img src="media/image_033_image54.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 4.8.18: Create New Service*
 
@@ -4129,16 +4557,14 @@ possible to work with Big Data. The parameters shown in the example are
 all properties defined by the creator of the BDA service. (*Figure
 4.8.19: Kmeans Service Sample*)
 
-![](media/image55.jpg){width="5.905527121609799in"
-height="5.302457349081365in"}
+<figure>
+<img src="media/image_034_image55.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 4.8.19: Kmeans Service Sample*
->
-> All BDA services are microservices built as Docker images.
->
-> (e.g.,
->
-> *gitlab.alidalab.it:5000/alida/analytics/spark-analytics/kmeans-elbow:1.2.0*)
+
+All BDA services are microservices built as Docker images.
+(e.g., *gitlab.alidalab.it:5000/alida/analytics/spark-analytics/kmeans-elbow:1.2.0*)
 
 Meanwhile, the Keys list all the properties used during the runtime of
 the BDA service.
@@ -4149,8 +4575,9 @@ To proceed with the creation of a BDA Service, log in to the ALIDA
 platform and select **BDA Service** from the menu in the top-left
 corner.
 
-![](media/image56.jpg){width="5.9055260279965in"
-height="3.2113998250218723in"}
+<figure>
+<img src="media/image_034_image56.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 4.8.20: BDA Service Creation*
 
@@ -4167,8 +4594,9 @@ Definition**, where instead of entering each field manually, you can
 import a JSON file in textual format containing the required fields for
 the service's creation.
 
-![](media/image57.jpg){width="5.9055260279965in"
-height="3.8554451006124233in"}
+<figure>
+<img src="media/image_036_image57.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 4.8.21: BDA Service - Import Definition*
 
@@ -4203,8 +4631,9 @@ Alternatively, if the access level *Public* were selected, all data
 sources associated with that access level would be available for
 selection.
 
-![](media/image58.jpg){width="5.9055260279965in"
-height="3.7000503062117236in"}
+<figure>
+<img src="media/image_037_image58.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 4.8.22: BDA Application Creation*
 
@@ -4220,9 +4649,10 @@ Next step, we select which service to associate with this dataset by
 choosing from the service categories such as *preparation*, *analysis*,
 or *fml_aggregator*. (*Figure 4.8.23: BDA App Creation 01*)
 
-> ![](media/image59.jpg){width="4.724438976377953in"
-> height="2.896531058617673in"}
->
+<figure>
+<img src="media/image_038_image59.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
+
 > *Figure 4.8.23: BDA App Creation 01*
 
 Once the dataset is selected, it provides information about the name and
@@ -4251,8 +4681,9 @@ parameters, such as *maxIteration* or the *Maximum number of clusters*
 and *Minimum number of clusters* to display in the distribution.
 (*Figure 4.8.24: BDA App Creation 02*)
 
-![](media/image60.jpg){width="5.9055260279965in"
-height="2.5854833770778654in"}
+<figure>
+<img src="media/image_039_image60.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 4.8.24: BDA App Creation 02*
 
@@ -4291,8 +4722,9 @@ created BDA App. (*Figure 4.8.25: BDA Application Feature*)
 In this case, it is crucial to consider both the specifications of the
 machine running DOCKER and the accessibility of the data being used.
 
-![](media/image61.jpg){width="5.9055260279965in"
-height="4.5021052055993005in"}
+<figure>
+<img src="media/image_040_image61.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
 
 > *Figure 4.8.25: BDA Application Feature*
 
@@ -4315,18 +4747,20 @@ testing but also, once the app reaches the **COMPLETED** state, the
 ability to view *Application Media*. (*Figure 4.8.26: Application Media
 Sample*)
 
-> ![](media/image62.jpg){width="4.724438976377953in"
-> height="3.078707349081365in"}
->
+<figure>
+<img src="media/image_041_image62.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
+
 > *Figure 4.8.26: Application Media Sample*
 
 These include additional elements such as *f1_metric*, *roc_metric*, and
 *accuracy_metric*, as well as visualizations like *ROC Curve of test
 set.png* or *Confusion Matrix of test set.png*.'
 
-> ![](media/image63.jpg){width="4.724438976377953in"
-> height="3.1621992563429573in"}
->
+<figure>
+<img src="media/image_042_image63.jpg" style="max-width: 75%; height: auto;"/>
+</figure>
+
 > *Figure 4.8.27: MLflow Tool*
 
 If the trained model within the BDA App is of the FML type, it is
@@ -4334,81 +4768,166 @@ possible to perform a comparison using the *Experiments* button, which
 provides access to the *mlflow* tool. (*Figure 4.8.27: MLflow ToolFigure
 4.8.27: MLflow Tool*)
 
+#
+
+# **Part III** 
+
 # Machine Learning
+
+#
+
+In the field of applied machine learning, a wide array of algorithms and modeling approaches are used to extract patterns, make predictions, and support decision-making across domains. Below is a detailed and discursive overview of foundational and advanced ML techniques.
 
 ## Regression
 
+Regression models aim to predict a continuous output variable based on one or more input features. Common methods include linear regression, ridge/lasso regression, and nonlinear models. These are foundational in applications like demand forecasting, risk scoring, and sensor calibration.
+
 ## Time Series Analysis
+
+Time series models capture trends, seasonality, and temporal dependencies in sequential data. Techniques include ARIMA, exponential smoothing, and ML-based forecasting (e.g., LSTM networks). These are widely used in finance, energy, climate modeling, and supply chain analytics.
 
 ## Deep Learning (Deep Neural Nets) 
 
+Deep learning uses multi-layer neural networks to model highly complex patterns in data. Architectures such as feedforward networks, CNNs, and autoencoders are trained on large datasets. They are crucial in fields like image recognition, NLP, and biomedical signal processing.
+
 ## Reinforcement Learning
+
+Reinforcement learning models learn optimal decision-making policies by interacting with an environment and receiving feedback in the form of rewards. Applications include robotics, game playing, autonomous driving, and real-time resource allocation.
 
 ## Classification and Regression Trees
 
-**5.18**
-
-**Self-Supervised Learning**
+CART models build decision trees by recursively splitting the data based on feature values to minimize prediction error. These interpretable models are used in areas like credit scoring, fraud detection, and clinical diagnostics.
 
 ## Further Rule Induction Techniques
 
+Beyond decision trees, rule induction methods like RIPPER or CN2 generate if-then rules from training data. These are valued for their interpretability in domains requiring explainable AI, such as healthcare and legal analytics.
+
 ## Support Vector Machines
+
+SVMs are powerful classifiers that find the optimal separating hyperplane between classes by maximizing margin. Kernel functions extend them to nonlinear problems. They are effective in high-dimensional spaces like text classification and bioinformatics.
 
 ## Instance-Based Approaches
 
+These methods, such as k-nearest neighbors (KNN), rely on comparing new data to stored instances using distance metrics. They are non-parametric and suitable for pattern recognition in low-dimensional, well-behaved datasets.
+
 ## Bayesian Modeling
+
+Bayesian models incorporate prior knowledge and quantify uncertainty in predictions. Techniques include Bayesian linear regression, Naive Bayes classifiers, and probabilistic graphical models. They are useful in uncertain or low-data environments.
 
 ## Transfer Learning
 
+Transfer learning leverages knowledge from a pretrained model on a related task to improve performance on a new problem. It is commonly used in image and language models where annotated data is scarce.
+
 ## Ensembles and Hierarchical Models
+
+Ensemble methods like bagging (Random Forests), boosting (XGBoost), and stacking combine multiple models to improve accuracy and robustness. Hierarchical models structure relationships between sub-models or levels of abstraction.
 
 ## Recommendation Techniques
 
+Recommender systems suggest items to users based on collaborative filtering, content-based filtering, or hybrid approaches. Matrix factorization and deep learning methods drive applications in e-commerce, streaming platforms, and personalized education.
+
 ## Measures of Fit
+
+Model evaluation metrics vary by task: R^2, RMSE, MAE for regression; accuracy, precision, recall, F1-score, and ROC-AUC for classification. Proper selection of metrics ensures fair model comparison and tuning.
 
 ## Testing of Predictive Models
 
+Model testing involves techniques like train-test split, cross-validation, and bootstrapping. These methods assess model generalization and help prevent overfitting by simulating performance on unseen data.
+
 ## CNN, RNN, GNN
+
+CNNs are specialized for image and spatial data, using convolutional layers to capture local patterns. Applications include object detection, medical imaging, and scene understanding.
+
+RNNs process sequential data using recurrent connections to retain memory of past inputs. Variants like LSTM and GRU overcome limitations like vanishing gradients. They are pivotal in time series, NLP, and audio processing.
+
+GNNs operate on graph-structured data, learning representations for nodes, edges, and entire graphs. Use cases include social network analysis, recommendation, and molecular property prediction.
 
 ## Generative Adversarial Networks (GAN)
 
+GANs consist of a generator and discriminator in a zero-sum game. The generator learns to produce realistic data while the discriminator distinguishes real from fake. GANs are used for data augmentation, image synthesis, and style transfer.
+
 ## Federated Learning
+
+Federated learning enables model training across decentralized devices without centralizing data. It supports privacy-preserving AI in sectors like healthcare, mobile applications, and edge computing by aggregating model updates rather than raw data.
+
+<br>
+<br>
 
 # Other Advanced Analytics
 
+#
+
 ## Solver approaches
+
+Solver-based approaches use mathematical optimization techniques—such as linear programming, integer programming, and constraint satisfaction—to find the best solution from a feasible set. Widely used in logistics, operations research, and scheduling.
 
 ## Heuristic approaches
 
+Heuristics use problem-specific strategies or rules of thumb to find good (but not necessarily optimal) solutions efficiently. Common techniques include greedy algorithms, simulated annealing, and tabu search—applicable in planning, routing, and design problems.
+
 ## Design of experiments
+
+DoE is a systematic method for planning, conducting, and analyzing controlled tests to evaluate factors affecting outcomes. It supports robust model development and process optimization in manufacturing, healthcare, and scientific research.
 
 ## Discrete Events
 
+Discrete event simulation models systems where state changes occur at distinct points in time, such as in queuing systems or production lines. Useful for evaluating throughput, bottlenecks, and resource utilization.
+
 ## Monte Carlo Simulation
+
+Monte Carlo methods use repeated random sampling to estimate the probability distribution of uncertain outcomes. Common in financial risk analysis, reliability engineering, and stochastic modeling.
 
 ## Agent-Based Modelling
 
+Agent-based models simulate interactions of autonomous entities (agents) with local rules, revealing emergent system-level behavior. Used in complex systems modeling, from urban mobility to market dynamics.
+
 ## Text Analytics
+
+Text analytics extracts structured information from unstructured text using techniques like natural language processing, sentiment analysis, and topic modeling. Applied in document classification, customer feedback analysis, and compliance monitoring.
 
 ## Customizable Pretrained Algorithms
 
+Pretrained algorithms—such as transformers or CNNs—can be fine-tuned on domain-specific data to accelerate deployment. This enables rapid adaptation of state-of-the-art models with minimal labeled data.
+
 ## Audio Mining
+
+Audio mining analyzes audio content for patterns, keywords, or speaker characteristics. Techniques include speech-to-text, audio segmentation, and acoustic event detection, relevant in customer service, security, and healthcare.
 
 ## Image Analytics
 
+Image analytics applies computer vision techniques to extract insights from visual data. Use cases range from quality inspection in manufacturing to satellite image classification and medical diagnostics.
+
 ## Geospatial Analysis
+
+Geospatial analysis examines data with spatial components using mapping, spatial statistics, and geocoding. It supports applications in environmental monitoring, urban planning, and location-based services.
 
 ## Financial Modelling and Econometrics
 
+These models analyze and forecast financial trends using statistical and mathematical tools. Techniques include time series econometrics, portfolio optimization, and pricing models, supporting investment and policy decisions.
+
 ## Decision Modelling
+
+Decision modeling structures complex choices using decision trees, influence diagrams, or cost-benefit frameworks. It enhances clarity and accountability in strategic, operational, or policy decisions.
 
 ## Decision Management
 
+Decision management integrates business rules, analytics, and workflows to automate operational decisions. It ensures consistency, compliance, and responsiveness in real-time systems.
+
 ## Composite AI
+
+Composite AI combines different AI techniques—such as symbolic reasoning with machine learning—to improve interpretability, adaptability, and performance. This hybrid approach supports AI applications in regulated or knowledge-rich domains.
 
 ## Stream Processing/Data in Motion
 
+Stream processing handles real-time data flows—capturing, analyzing, and acting on data as it arrives. Technologies like Apache Kafka and Spark Streaming enable event-driven architectures for fraud detection, IoT, and real-time dashboards.
+
+<br>
+
+<br>
+
 # Flexibility, Extensibility and Openness
+
+#
 
 ## R
 
@@ -4461,7 +4980,13 @@ os.environ\[\'GET_PROPERTIES_FROM_ENV\'\] = \"true\"
 
 ## Code Visibility and Transparency
 
+<br>
+
+<br>
+
 # Performance and Scalability
+
+#
 
 ## In-Database Analytics
 
@@ -4485,7 +5010,13 @@ os.environ\[\'GET_PROPERTIES_FROM_ENV\'\] = \"true\"
 
 ## Cloud, Hybrid and Multicloud
 
+<br>
+
+<br>
+
 # Delivery
+
+#
 
 ## Write-back
 
@@ -4553,6 +5084,8 @@ right corner.
 
 ## Parallel Model Deployments
 
+<br>
+
 # Platform and Project Management
 
 ## Compliance and Auditing
@@ -4572,6 +5105,8 @@ right corner.
 ## Securing ML Pipeline
 
 ## Client Deployment
+
+<br>
 
 # Model Management
 
@@ -4604,6 +5139,8 @@ right corner.
 ## Process Monitoring
 
 ## Model Management Across Deployment Modes
+
+<br>
 
 # MLOps
 
@@ -4757,6 +5294,8 @@ quella di "Delivery".**
 Models can be monitored using frameworks such as Evidently wrapped in
 BDA services.
 
+<br>
+
 # Explainable AI
 
 ## Explainable AI
@@ -4770,6 +5309,8 @@ BDA services.
 ## Responsible AI
 
 ## Regulations
+
+<br>
 
 # Precanned Solutions
 
@@ -4791,6 +5332,8 @@ BDA services.
 
 ## What-If Scenarios
 
+<br>
+
 # Collaboration
 
 ## Collaboration Across All Modeling Steps for Distributed Teams
@@ -4803,9 +5346,15 @@ BDA services.
 
 ## Multipersona Collaboration
 
-# Part III
+<br>
+
+<br>
+
+# **Part IV**
 
 # R&I Guide
+
+#
 
 # Data Access
 
@@ -5462,7 +6011,11 @@ storage:
 
 **\**
 
-# Part IV
+<br>
+
+<br>
+
+# **Part V**
 
 # Conclusions
 
