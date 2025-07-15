@@ -4112,10 +4112,10 @@ Sensitive Data Monitoring: Protecting regulated data (e.g., personal health or a
 
 
 ## Basic Data Catalogue
-A basic data catalogue acts as a centralized, searchable inventory that documents all data assets within an organization—including structured tables, unstructured files, dashboards, and ML models. It relies on metadata (technical, operational, and business) to support discovery, trust, and governance. By enabling users to locate relevant data quickly, examine lineage, and understand usage context, a data catalogue dismantles data silos and supports self-service analytics and compliance. https://www.ibm.com/think/topics/data-catalog?utm_source=chatgpt.com
+A basic data catalogue acts as a centralized, searchable inventory that documents all data assets within an organization—including structured tables, unstructured files, dashboards, and ML models. It relies on metadata (technical, operational, and business) to support discovery, trust, and governance. By enabling users to locate relevant data quickly, examine lineage, and understand usage context, a data catalogue dismantles data silos and supports self-service analytics and compliance. https://www.ibm.com/think/topics/data-catalog
 
 ## Data Labelling / Annotation
-Data labelling (or annotation) involves applying structured tags or labels to raw data—whether text, images, audio, or video—to enable AI algorithms to understand and learn from it. Common formats include classification labels, bounding boxes, and semantic segmentation. High-quality annotations fuel accurate model training and are essential for domains like autonomous vehicles, medical imaging, and sentiment analysis. https://en.wikipedia.org/wiki/Data_annotation?utm_source=chatgpt.com
+Data labelling (or annotation) involves applying structured tags or labels to raw data—whether text, images, audio, or video—to enable AI algorithms to understand and learn from it. Common formats include classification labels, bounding boxes, and semantic segmentation. High-quality annotations fuel accurate model training and are essential for domains like autonomous vehicles, medical imaging, and sentiment analysis. https://en.wikipedia.org/wiki/Data_annotation
 
 ## Transformations
 Transformations comprise the suite of operations—such as normalization, encoding, pivoting, or scaling—used to convert raw inputs into formats suited for analysis. Tools like dbt (Data Build Tool) exemplify modern transformation orchestration in analytics pipelines. Transformations ensure data consistency and prepare inputs for model training or integration .
@@ -4127,8 +4127,7 @@ Aggregation involves summarizing granular data (for example, computing the mean,
 Data enrichment enhances existing datasets by integrating external or auxiliary information. This can involve adding weather statistics to agricultural sensors, demographic data to health records, or geospatial context to logistics logs. Enrichment boosts model performance by embedding deeper, contextual knowledge into analytics pipelines.
 
 ## Augmented Data Preprocessing
-Augmented data preprocessing applies machine learning or AI techniques to automate and enhance traditional preparation steps—such as cleaning, validation, or profiling. Modern platforms leverage natural language queries and ML-powered quality scoring to guide users through preprocessing tasks, democratizing access to advanced analytics. https://www.qlik.com/us/data-management/data-catalog?utm_source=chatgpt.com
-
+Augmented data preprocessing applies machine learning or AI techniques to automate and enhance traditional preparation steps—such as cleaning, validation, or profiling. Modern platforms leverage natural language queries and ML-powered quality scoring to guide users through preprocessing tasks, democratizing access to advanced analytics. https://www.qlik.com/us/data-management/data-catalog
 
 ## Augmented Data Preparation
 Building on preprocessing, augmented data preparation offers a self-service interface that guides users through data ingestion, transformation, and cleaning via AI-enhanced suggestions. These platforms allow analysts to visually explore samples, adjust pipelines, and operationalize them without requiring heavy coding, thereby accelerating time-to-insight and reducing dependency on IT .
@@ -4146,7 +4145,7 @@ In advanced data analytics, effective exploration and visualization are foundati
 Below is a narrative overview of key methods:
 
 ## Univariate and Bivariate Statistics
-Univariate analysis focuses on the distribution of a single variable—its central tendency (mean, median, mode), variability (variance, standard deviation), and overall shape (skewness, kurtosis), often visualized via histograms or box plots. https://smogdr.github.io/edar_coursebook/eda1.html?utm_source=chatgpt.com https://en.wikipedia.org/wiki/Descriptive_statistics?utm_source=chatgpt.com . Bivariate analysis examines the relationship between two variables, using scatter plots, correlation coefficients, or contingency tables to reveal associations. https://behaveannual.org/statistical-analysis/univariate-and-bivariate-analysis/?utm_source=chatgpt.com
+Univariate analysis focuses on the distribution of a single variable—its central tendency (mean, median, mode), variability (variance, standard deviation), and overall shape (skewness, kurtosis), often visualized via histograms or box plots. https://smogdr.github.io/edar_coursebook/eda1.html https://en.wikipedia.org/wiki/Descriptive_statistics. Bivariate analysis examines the relationship between two variables, using scatter plots, correlation coefficients, or contingency tables to reveal associations. https://behaveannual.org/statistical-analysis/univariate-and-bivariate-analysis/
 
 ## Statistical Significance Testing
 After identifying potential relationships, hypothesis tests (e.g. t-tests, chi-square, ANOVA) assess whether observed differences or correlations are statistically robust, guiding whether findings generalize beyond the sample.
@@ -4164,7 +4163,7 @@ Exploration outcomes must be shareable; exporting summarized statistics, visual 
 Complex projects often require tailored visual formats—such as composite charts, interactive filters, or domain-specific plots—built through libraries like D3.js or Plotly, to emphasize insights tailored for specific audiences (e.g., agronomists, policymakers).
 
 ## Clustering and Self-Organizing Maps
-Clustering groups similar observations, revealing structure in high-dimensional data. Self‑organizing maps project such clusters onto two-dimensional grids, preserving topological consistency—making latent patterns visually interpretable. https://en.wikipedia.org/wiki/Self-organizing_map?utm_source=chatgpt.com
+Clustering groups similar observations, revealing structure in high-dimensional data. Self‑organizing maps project such clusters onto two-dimensional grids, preserving topological consistency—making latent patterns visually interpretable. https://en.wikipedia.org/wiki/Self-organizing_map
 
 ## Geolocation Mapping
 Visualizing data on maps (e.g., heatmaps, choropleths, marker clusters) is instrumental in identifying spatial patterns—such as disease spread, product traceability in supply chains, or sensor coverage in environmental monitoring.
