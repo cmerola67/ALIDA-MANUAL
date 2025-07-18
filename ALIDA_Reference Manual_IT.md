@@ -167,7 +167,7 @@ Piero Di Liberto, Sergio Comella, Salvatore Cipolla, Rosario Catelli,
 
 [User Guide [73](#user-guide)]
 
-[1. Accesso ai dati\* [73](#data-access)]
+[1. Accesso ai dati [73](#data-access)]
 
 [1.1 Integrazione delle applicazioni aziendali
 [73](#enterprise-application-integration)]
@@ -226,7 +226,7 @@ Piero Di Liberto, Sergio Comella, Salvatore Cipolla, Rosario Catelli,
 [1.3.2.4.4 In ALIDA [79](#in-alida-2)]
 
 [1.4 Origini dati ibride e multi-cloud
-[79](#hybrid e più fonti di dati cloud)]
+[79](#hybrid-and-multi-cloud-data-sources)]
 
 [1.4.1 Cloud ibrido [79](#hybrid-cloud)]
 
@@ -432,579 +432,587 @@ Piero Di Liberto, Sergio Comella, Salvatore Cipolla, Rosario Catelli,
 
 ### [Part III [143](#part-iii)]
 
-[1. Machine Learning [143](#machine-learning)]
+[1. Apprendimento automatico [143](#machine-learning)]
 
-[1.1 Regression [143](#regression)]
+[1.1 Regressione [143](#regression)]
 
-[1.2 Time Series Analysis
+[1.2 Analisi delle serie storiche
 [143](#time-series-analysis)]
 
-[1.3 Deep Learning (Deep Neural Nets)
+[1.3 Deep Learning (reti neurali profonde)
 [143](#deep-learning-deep-neural-nets)]
 
-[1.4 Reinforcement Learning
+[1.4 Apprendimento per rinforzo
 [143](#reinforcement-learning)]
 
-[1.5 Classification and Regression Trees
+[1.5 Alberi di classificazione e regressione
 [143](#classification-and-regression-trees)]
 
-[1.6 Further Rule Induction Techniques
+[1.6 Ulteriori tecniche di induzione delle regole
 [143](#further-rule-induction-techniques)]
 
-[1.7 Support Vector Machines
+[1.7 Supporto macchine vettoriali
 [143](#support-vector-machines)]
 
-[1.8 Instance-Based Approaches
+[1.8 Approcci basati su istanze
 [143](#instance-based-approaches)]
 
-[1.9 Bayesian Modeling [143](#bayesian-modeling)](
+[1.9 Modellazione bayesiana [143](#bayesian-modeling)]
 
-[1.10 Transfer Learning [143](#transfer-learning)]
+[1.10 Trasferimento di apprendimento [143](#transfer-learning)]
 
-[1.11 Ensembles and Hierarchical Models
+[1.11 Insiemi e modelli gerarchici
 [143](#ensembles-and-hierarchical-models)]
 
-[1.12 Recommendation Techniques
+[1.12 Tecniche di raccomandazione
 [143](#recommendation-techniques)]
 
-[1.13 Measures of Fit [143](#measures-of-fit)]
+[1.13 Misure di adattamento [143](#measures-of-fit)]
 
-[1.14 Testing of Predictive Models
+[1.14 Test di modelli predittivi
 [143](#testing-of-predictive-models)]
 
 [1.15 CNN, RNN, GNN [143](#cnn-rnn-gnn)]
 
-[1.16 Generative Adversarial Networks (GAN)
+[1.16 Reti generative avversarie (GAN)
 [143](#generative-adversarial-networks-gan)]
 
-[1.17 Federated Learning
+[1.17 Apprendimento federato
 [143](#federated-learning)]
 
-[2. Other Advanced Analytics
+[2. Altre analisi avanzate
 [144](#other-advanced-analytics)]
 
-[2.1 Solver approaches [144](#solver-approaches)]
+[2.1 Approcci del risolutore [144](#solver-approaches)]
 
-[2.2 Heuristic approaches
+[2.2 Approcci euristici
 [144](#heuristic-approaches)]
 
-[2.3 Design of experiments
+[2.3 Progettazione degli esperimenti
 [144](#design-of-experiments)]
 
-[2.4 Discrete Events [144](#discrete-events)]
+[2.4 Eventi discreti [144](#discrete-events)]
 
-[2.5 Monte Carlo Simulation
+[2.5 Simulazione Monte Carlo
 [144](#monte-carlo-simulation)]
 
-[2.6 Agent-Based Modelling
+[2.6 Modellazione basata su agenti
 [144](#agent-based-modelling)]
 
-[2.7 Text Analytics [144](#text-analytics)]
+[2.7 Analisi del testo [144](#text-analytics)]
 
-[2.8 Customizable Pretrained Algorithms
+[2.8 Algoritmi pre-addestrati personalizzabili
 [144](#customizable-pretrained-algorithms)]
 
 [2.9 Audio Mining [144](#audio-mining)]
 
-[2.10 Image Analytics [144](#image-analytics)]
+[2.10 Analisi delle immagini [144](#image-analytics)]
 
-[2.11 Geospatial Analysis
+[2.11 Analisi geospaziale
 [144](#geospatial-analysis)]
 
-[2.12 Financial Modelling and Econometrics
+[2.12 Modellizzazione finanziaria ed econometria
 [144](#financial-modelling-and-econometrics)]
 
-[2.13 Decision Modelling
+[2.13 Modellazione delle decisioni
 [144](#decision-modelling)]
 
-[2.14 Decision Management
+[2.14 Gestione delle decisioni
 [144](#decision-management)]
 
 [2.15 Composite AI [144](#composite-ai)]
 
-[2.16 Stream Processing/Data in Motion
+[2.16 Elaborazione del flusso/Dati in movimento
 [144](#stream-processingdata-in-motion)]
 
-[3. Flexibility, Extensibility and Openness
+[3. Flessibilità, estensibilità e apertura
 [145](#flexibility-extensibility-and-openness)]
 
 [3.1 R [145](#r)]
 
-[3.2 Python [145](#python)]
+[3.2 Pitone [145](#python)]
 
-[3.3 Scala [145](#scala)]
+[3.3 La Scala [145](#scala)]
 
-[3.4 Java [145](#java)]
+[3.4 Giava [145](#java)]
 
-[3.5 Third-Party Libraries
+[3.5 Librerie di terze parti
 [145](#third-party-libraries)]
 
-[3.6 Popular Libraries and Frameworks
+[3.6 Librerie e framework popolari
 [145](#popular-libraries-and-frameworks)]
 
-[3.7 Data Science Notebooks
+[3.7 Quaderni di Data Science
 [145](#data-science-notebooks)]
 
-[3.7.1 Read datasets inside Notebooks
+[3.7.1 Leggere i set di dati all'interno dei notebook
 [145](#read-datasets-inside-notebooks)]
 
-[3.8 Open-Source Data Management Platforms (e.g., Spark and Hadoop)
+[3.8 Piattaforme di gestione dei dati open source (ad esempio, Spark e Hadoop)
 [146](#open-source-data-management-platforms-e.g.-spark-and-hadoop)]
 
 [3.9 Docker [146](#docker)]
 
-[3.10 Scripting and Embedding Capabilities
+[3.10 Funzionalità di scripting e incorporamento
 [146](#scripting-and-embedding-capabilities)]
 
-[3.11 Open-Source Automated Machine Learning Tools
+[3.11 Strumenti di apprendimento automatico automatizzati open source
 [146](#open-source-automated-machine-learning-tools)]
 
-[3.12 Code Visibility and Transparency
+[3.12 Visibilità e trasparenza del codice
 [146](#code-visibility-and-transparency)]
 
-[4. Performance and Scalability
+[4. Prestazioni e scalabilità
 [147](#performance-and-scalability)]
 
-[4.1 In-Database Analytics
+[4.1 Analisi all'interno del database
 [147](#in-database-analytics)]
 
-[4.2 Big Data Volume Scalability
+[4.2 Scalabilità del volume dei Big Data
 [147](#big-data-volume-scalability)]
 
-[4.3 Real-Time Data and Streams
+[4.3 Dati e flussi in tempo reale
 [147](#real-time-data-and-streams)]
 
-[4.4 In-Memory, Hadoop and Spark
+[4.4 In memoria, Hadoop e Spark
 [147](#in-memory-hadoop-and-spark)]
 
-[4.5 Support of GPUs [147](#support-of-gpus)]
+[4.5 Supporto di GPU [147](#support-of-gpus)]
 
-[4.6 Support of Other Specialized Hardware
+[4.6 Supporto di altro hardware specializzato
 [147](#support-of-other-specialized-hardware)]
 
-[4.7 Algorithmic Efficiency in a Single-Node or MultipleNode Environment
+[4.7 Efficienza algoritmica in un ambiente a nodo singolo o multiplo
 [147](#algorithmic-efficiency-in-a-single-node-or-multiplenode-environment)]
 
-[4.8 Cost guidance [147](#cost-guidance)]
+[4.8 Orientamento ai costi [147](#cost-guidance)]
 
-[4.9 Performance options for training
+[4.9 Opzioni di prestazione per l'allenamento
 [147](#performance-options-for-training)]
 
-[4.10 On-Premises [147](#on-premises-1)]
+[4.10 Locale [147](#on-premises-1)]
 
-[4.11 Cloud, Hybrid and Multicloud
+[4.11 Cloud, ibrido e multicloud
 [147](#cloud-hybrid-and-multicloud)]
 
-[5. Delivery [148](#delivery)]
+[5. Consegna [148](#delivery)]
 
-[5.1 Write-back [148](#write-back)]
+[5.1 Riscrittura [148](#write-back)]
 
-[5.2 Recoding [148](#recoding)]
+[5.2 Ricodifica [148](#recoding)]
 
-[5.3 REST APIs [148](#rest-apis)]
+[5.3 API REST [148](#rest-apis)]
 
-[5.4 PMML and ONNX [148](#pmml-and-onnx)]
+[5.4 PMML e ONNX [148](#pmml-and-onnx)]
 
-[5.5 Augmented Model Deployment and Monitoring
+[5.5 Implementazione e monitoraggio di modelli aumentati
 [148](#augmented-model-deployment-and-monitoring)]
 
-[5.6 Containerization [148](#containerization)]
+[5.6 Containerizzazione [148](#containerization)]
 
-[5.7 Web deployment [148](#web-deployment)]
+[5.7 Distribuzione Web [148](#web-deployment)]
 
-[5.8 Other [148](#other)]
+[5.8 Altro [148](#other)]
 
-[5.9 Deployment Mode [148](#deployment-mode)]
+[5.9 Modalità di distribuzione [148](#deployment-mode)]
 
-[5.9.1 Model Serving [148](#model-serving)]
+[5.9.1 Modello di servizio [148](#model-serving)]
 
-[5.10 Parallel Model Deployments
+[5.10 Distribuzioni di modelli paralleli
 [150](#parallel-model-deployments)]
 
-[6. Platform and Project Management
+
+[6. Gestione della piattaforma e del progetto
 [151](#platform-and-project-management)]
 
-[6.1 Compliance and Auditing
+[6.1 Conformità e controllo
 [151](#compliance-and-auditing)]
 
-[6.2 Object Reuse [151](#object-reuse)]
+[6.2 Riutilizzo degli oggetti  [151](#object-reuse)]
 
-[6.3 Multiuser Capabilities
+[6.3 Funzionalità multiutente
 [151](#multiuser-capabilities)]
 
-[6.4 Debugging and Unit Testing
+[6.4 Debug e test unitari
 [151](#debugging-and-unit-testing)]
 
-[6.5 Runtime Optimization
+[6.5 Ottimizzazione del runtime
 [151](#runtime-optimization)]
 
-[6.6 Audit and Logs [151](#audit-and-logs)]
+[6.6 Audit e registri [151](#audit-and-logs)]
 
-[6.7 Data Encryption [151](#data-encryption)]
+[6.7 Crittografia dei dati [151](#data-encryption)]
 
-[6.8 Securing ML Pipeline
+[6.8 Protezione della pipeline ML
 [151](#securing-ml-pipeline)]
 
-[6.9 Client Deployment [151](#client-deployment)]
+[6.9 Distribuzione client  [151](#client-deployment)]
 
-[7. Model Management [152](#model-management)]
+[7. Gestione dei modelli  [152](#model-management)]
 
-[7.1 Metadata management
+[7.1 Gestione dei metadati
 [152](#metadata-management-1)]
 
-[7.2 Traceability [152](#traceability)]
+[7.2 Tracciabilità  [152](#traceability)]
 
-[7.3 Champion/Challenger
+[7.3 Campione/Sfidante
 [152](#championchallenger)]
 
-[7.4 Model Telemetry [152](#model-telemetry)]
+[7.4 Modello di telemetria [152](#model-telemetry)]
 
-[7.5 Confusion Matrices [152](#confusion-matrices)]
+[7.5 Matrici di confusione [152](#confusion-matrices)]
 
-[7.6 Model Catalog and Reproducibility
+[7.6 Catalogo modelli e riproducibilità
 [152](#model-catalog-and-reproducibility)]
 
-[7.7 Technical Performance Tracking
+[7.7 Monitoraggio delle prestazioni tecniche
 [152](#technical-performance-tracking)]
 
-[7.8 Business Performance Tracking
+[7.8 Monitoraggio delle prestazioni aziendali
 [152](#business-performance-tracking)]
 
-[7.9 Adaptive ML [152](#adaptive-ml)]
+[7.9 ML adattivo  [152](#adaptive-ml)]
 
-[7.10 Model Alignment to Business Ojectives
+[7.10 Allineamento del modello agli obiettivi aziendali
 [152](#model-alignment-to-business-ojectives)]
 
 [7.11 Governance [152](#governance)]
 
-[7.12 Model Licensing Issues
+[7.12 Problemi relativi alle licenze dei modelli
 [152](#model-licensing-issues)]
 
-[7.13 Scripting and Automation
+[7.13 Scripting e automazione
 [152](#scripting-and-automation)]
 
-[7.14 Process Monitoring
+[7.14 Monitoraggio dei processi
 [152](#process-monitoring)]
 
-[7.15 Model Management Across Deployment Modes
+[7.15 Gestione dei modelli tra le modalità di distribuzione
 [152](#model-management-across-deployment-modes)]
 
 [8. MLOps [153](#mlops)]
 
 [8.1 Intro [153](#intro)]
 
-[8.2 Model life cycle [153](#model-life-cycle)]
+[8.2 Ciclo di vita del modello [153](#model-life-cycle)]
 
-[8.3 Data collection and preprocessing
+[8.3 Raccolta e pre-elaborazione dei dati
 [155](#data-collection-and-preprocessing)]
 
-[8.4 Model Development, testing and validation
+[8.4 Sviluppo, test e validazione del modello
 [155](#model-development-testing-and-validation)]
 
-[8.5 Model Deployment [155](#model-deployment)]
+[8.5 Distribuzione del modello  [155](#model-deployment)]
 
-[8.6 Monitoring and Maintenance
+[8.6 Monitoraggio e manutenzione
 [156](#monitoring-and-maintenance)]
 
 [9. Explainable AI [157](#explainable-ai)]
 
 [9.1 Explainable AI [157](#explainable-ai-1)]
 
-[9.2 Support for Open Source
+[9.2 Supporto per l'Open Source
 [157](#support-for-open-source)]
 
-[9.3 Augmented Explainability
+[9.3 Spiegabilità aumentata
 [157](#augmented-explainability)]
 
-[9.4 Explainabiliity Techniques (Including Permutation Importance,
-Feature Importance, Sensitivity Analysis, Partial Dependence Plots, ICE
-Plots, Integrated Gradients, Similarity Based Methods and Others)
+[9.4 Tecniche di spiegabilità (inclusa l'importanza della permutazione,
+Importanza delle caratteristiche, analisi di sensibilità, grafici di dipendenza parziale, ICE
+grafici, gradienti integrati, metodi basati sulla somiglianza e altri)
 [157](#explainabiliity-techniques-including-permutation-importance-feature-importance-sensitivity-analysis-partial-dependence-plots-ice-plots-integrated-gradients-similarity-based-methods-and-others)]
 
 [9.5 Responsible AI [157](#responsible-ai)]
 
 [9.6 Regulations [157](#regulations)]
 
-[10. Precanned Solutions
+[10. Soluzioni preconfezionate
 [158](#precanned-solutions)]
 
-[10.1 Marketing, Sales and Customer Service
+[10.1 Marketing, vendite e servizio clienti
 [158](#marketing-sales-and-customer-service)]
 
-[10.2 Finance, Risk Management and Quality Management
+[10.2 Finanza, gestione del rischio e gestione della qualità
 [158](#finance-risk-management-and-quality-management)]
 
-[10.3 Internet of Things
+[10.3 Internet delle cose
 [158](#internet-of-things)]
 
-[10.4 Supply Chain/Logistics
+[10.4 Supply Chain/Logistica
 [158](#supply-chainlogistics)]
 
-[10.5 Back-Office Analytics
+[10.5 Analisi di back-office
 [158](#back-office-analytics)]
 
 [10.6 IT Operations [158](#it-operations)]
 
 [10.7 Cybersecurity [158](#cybersecurity)]
 
-[10.8 Anomaly Detection [158](#anomaly-detection)]
+[10.8 Rilevamento anomalie [158](#anomaly-detection)]
 
-[10.9 What-If Scenarios [158](#what-if-scenarios)]
+[10.9 Scenari ipotetici [158](#what-if-scenarios)]
 
-[11. Collaboration [159](#collaboration)]
+[11. Collaborazione [159](#collaboration)]
 
-[11.1 Collaboration Across All Modeling Steps for Distributed Teams
+[11.1 Collaborazione in tutte le fasi di modellazione per i team distribuiti
 [159](#collaboration-across-all-modeling-steps-for-distributed-teams)]
 
-[11.2 Discussion Threads
+[11.2 Discussioni
 [159](#discussion-threads)]
 
-[11.3 Ratings and Recommendations
+[11.3 Valutazioni e raccomandazioni
 [159](#ratings-and-recommendations)]
 
 [11.4 Marketplace/Hub [159](#marketplacehub)]
 
-[11.5 Multipersona Collaboration
+[11.5 Collaborazione multipersona
 [159](#multipersona-collaboration)]
 
 ### [Part IV [160](#part-iv)]
 
 [R&I Guide [160](#ri-guide)]
 
-[1. Data Access [160](#data-access-1)]
+[1. Accesso ai dati [160](#data-access-1)]
 
-[1.1 Enterprise Application Integration
+[1.1 Integrazione delle applicazioni aziendali
 [160](#enterprise-application-integration-1)]
 
-[1.2 Data Replication and Synchronization
+[1.2 Replica e sincronizzazione dei dati
 [160](#data-replication-and-synchronization-1)]
 
-[1.3 Basic and Advanced ETL Functionality
+[1.3 Funzionalità ETL di base e avanzate
 [160](#basic-and-advanced-etl-functionality-1)]
 
-[1.4 Hybrid and Multicloud Data Sources
+[1.4 Origini dati ibride e multicloud
 [160](#hybrid-and-multicloud-data-sources)]
 
-[1.5 Access to Non-traditional Data Types
+[1.5 Accesso a tipi di dati non tradizionali
 [160](#access-to-non-traditional-data-types)]
 
-[1.6 Connectivity to Data Lake Infrastructure
+[1.6 Connettività all'infrastruttura del data lake
 [160](#connectivity-to-data-lake-infrastructure-1)]
 
 [1.7 Data Lineage [160](#data-lineage-1)]
 
-[1.8 Data Governance and Metadata Management
+[1.8 Governance dei dati e gestione dei metadati
 [160](#data-governance-and-metadata-management-1)]
 
-[1.9 API-Based Access to Web Data
+[1.9 Accesso ai dati Web basato su API
 [160](#api-based-access-to-web-data-1)]
 
-[2. Data Preparation [161](#data-preparation-1)]
+[2. Preparazione dei dati  [161](#data-preparation-1)]
 
-[2.1 Data Blending/Wrangling
+[2.1 Fusione/Wrangling dei dati
 [161](#data-blendingwrangling-1)]
 
-[2.2 Data Augmentation
+[2.2 Aumento dei dati
 [161](#data-augmentation-1)]
 
-[2.3 Data Quality Support
+[2.3 Supporto per la qualità dei dati
 [161](#data-quality-support-1)]
 
-[2.4 Dataset Partitioning
+[2.4 Partizionamento del set di dati
 [161](#dataset-partitioning-1)]
 
-[2.5 Binning and Smoothing
+[2.5 Binning e smoothing
 [161](#binning-and-smoothing-1)]
 
-[2.6 Filter and Search
+[2.6 Filtro e ricerca
 [161](#filter-and-search-1)]
 
-[2.7 Feature Generation
+[2.7 Generazione di funzionalità
 [161](#feature-generation-1)]
 
-[2.8 Official Watermarking of Datasets
+[2.8 Watermark ufficiale dei set di dati
 [161](#official-watermarking-of-datasets-1)]
 
-[2.9 Basic Data Catalog [161](#basic-data-catalog)]
+[2.9 Catalogo dati di base  [161](#basic-data-catalog)]
 
-[2.10 Data Labeling/Annotation
+[2.10 Etichettatura/annotazione dei dati
 [161](#data-labelingannotation)]
 
-[2.11 Transformations, Aggregation and Set Operations
+[2.11 Operazioni di trasformazione, aggregazione e set
 [161](#transformations-aggregation-and-set-operations-1)]
 
-[2.12 Data Enrichment [161](#data-enrichment-1)]
+[2.12 Arricchimento dei dati [161](#data-enrichment-1)]
 [2.13 Augmented Data Preprocessing
 [161](#augmented-data-preprocessing-1)]
 
-[2.14 Augmented Data Preparation
+[2.14 Preparazione dei dati aumentata
 [161](#augmented-data-preparation-1)]
 
-[2.15 Cloud, Hybrid and Multicloud Support
+[2.15 Supporto cloud, ibrido e multicloud
 [161](#cloud-hybrid-and-multicloud-support-1)]
 
-[3. Data Exploration and Visualisation
+[3. Esplorazione e visualizzazione dei dati
 [162](#data-exploration-and-visualisation)]
 
-[3.1 Univariate and Bivariate Statistics
+[3.1 Statistica univariata e bivariata
 [162](#univariate-and-bivariate-statistics-1)]
 
-[3.2 Statistical Significance Testing
+[3.2 Test di significatività statistica
 [162](#statistical-significance-testing-1)]
 
-[3.3 Signal Preprocessing
+[3.3 Pre-elaborazione del segnale
 [162](#signal-preprocessing-1)]
 
-[3.4 Data Visualizations
+[3.4 Visualizzazioni dei dati
 [162](#data-visualizations-1)]
 
-[3.5 Exporting Results
+[3.5 Esportazione dei risultati
 [162](#exporting-results-1)]
 
-[3.6 Custom Visualization
+[3.6 Visualizzazione personalizzata
 [162](#custom-visualization-1)]
 
-[3.7 Clustering and Self-Organizing Maps
+[3.7 Clustering e mappe auto-organizzanti
 [162](#clustering-and-self-organizing-maps-1)]
 
-[3.8 Geolocation Mapping
+[3.8 Mappatura della geolocalizzazione
 [162](#geolocation-mapping-1)]
 
-[3.9 Affinity and Graph Analysis
+[3.9 Analisi di affinità e grafi
 [162](#affinity-and-graph-analysis-1)]
 
-[3.10 Conjoint and Survey Analysis
+[3.10 Analisi congiunta e di indagine
 [162](#conjoint-and-survey-analysis-1)]
 
-[3.11 Density Estimation
+
+[3.11 Stima della densità
 [162](#density-estimation-1)]
 
-[3.12 Similarity Metrics
+[3.12 Metriche di somiglianza
 [162](#similarity-metrics-1)]
 
-[3.13 Augmented Data Discovery
+[3.13 Rilevamento dei dati aumentato
 [162](#augmented-data-discovery-1)]
 
-[3.14 On-Premises [162](#on-premises-2)]
+[3.14 Locale  [162](#on-premises-2)]
 
-[3.15 Cloud, Multicloud and Hybrid
+[3.15 Cloud, multicloud e ibrido
 [162](#cloud-multicloud-and-hybrid-1)]
 
-[4. User Interface [163](#user-interface-1)]
+[4. Interfaccia utente  [163](#user-interface-1)]
 
-[4.1 Ease of Use and Learning Curve
+[4.1 Facilità d'uso e curva di apprendimento
 [163](#ease-of-use-and-learning-curve-1)]
 
-[4.2 Developer-Focused Data Science
+[4.2 Scienza dei dati incentrata sugli sviluppatori
 [163](#developer-focused-data-science-1)]
-[4.3 NLP Q&A [163](#nlp-qa-1)]
 
-[4.4 Documentation [163](#documentation-1)]
+[4.3 NLP Domande e Risposte [163](#nlp-qa-1)]
 
-[4.5 User Community [163](#user-community-1)]
+[4.4 Documentazione  [163](#documentation-1)]
 
-[4.6 Third-Party Applications
+[4.5 Comunità di utenti  [163](#user-community-1)]
+
+[4.6 Applicazioni di terze parti
 [163](#third-party-applications-1)]
 
-[4.7 Visual Pipelining or Visual Composition Framework
+[4.7 Pipelining visivo o framework di composizione visiva
 [163](#visual-pipelining-or-visual-composition-framework-1)]
 
-[4.8 Wizards and Contextual Aids
+[4.8 Procedure guidate e aiuti contestuali
 [163](#wizards-and-contextual-aids)]
 
-[5. Machine Learning [164](#machine-learning-1)]
+[5. Apprendimento automatico  [164](#machine-learning-1)]
 
-[5.1 Regression [164](#regression-1)]
+[5.1 Regressione [164](#regression-1)]
 
-[5.2 Time Series Analysis
+[5.2 Analisi delle serie storiche
 [164](#time-series-analysis-1)]
 
-[5.3 5.3 Deep Learning (Deep Neural Nets) 5.4 Reinforcement Learning
+[5.3 Deep Learning (reti neurali profonde) 
 [164](#deep-learning-deep-neural-nets-5.4-reinforcement-learning)]
 
-[5.4 Classification and Regression Trees
+[5.4 Apprendimento per rinforzo
+[164](#deep-learning-deep-neural-nets-5.4-reinforcement-learning)]
+
+
+[5.4 Alberi di classificazione e regressione
 [164](#classification-and-regression-trees-1)]
 
-[5.5 Further Rule Induction Techniques
+[5.5 Ulteriori tecniche di induzione delle regole
 [164](#further-rule-induction-techniques-1)]
 
-[5.6 Support Vector Machines
+[5.6 Supporto macchine vettoriali
 [164](#support-vector-machines-1)]
 
-[5.7 Instance-Based Approaches
+[5.7 Approcci basati su istanze
 [164](#instance-based-approaches-1)]
 
-[5.8 Bayesian Modeling
+[5.8 Modellazione bayesiana
 [164](#bayesian-modeling-1)]
 
-[5.9 Transfer Learning
+[5.9 Trasferimento dell'apprendimento
 [164](#transfer-learning-1)]
 
-[5.10 Ensembles and Hierarchical Models
+[5.10 Insiemi e modelli gerarchici
 [164](#ensembles-and-hierarchical-models-1)]
 
-[5.11 Recommendation Techniques
+[5.11 Tecniche di raccomandazione
 [164](#recommendation-techniques-1)]
 
-[5.12 Measures of Fit [164](#measures-of-fit-1)]
+[5.12 Misure di adattamento [164](#measures-of-fit-1)]
 
-[5.13 Testing of Predictive Models
+[5.13 Test di modelli predittivi
 [164](#testing-of-predictive-models-1)]
 
 [5.14 CNN, RNN, GNN [164](#cnn-rnn-gnn-1)]
 
-[5.15 Generative Adversarial Networks (GAN)
+[5.15 Reti generative avversarie (GAN)
 [164](#generative-adversarial-networks-gan-1)]
 
-[5.16 Federated Learning
+[5.16 Apprendimento federato
 [164](#federated-learning-1)]
 
-[6. Other Advanced Analytics
+[6. Altre analisi avanzate
 [165](#other-advanced-analytics-1)]
 
-[6.1 Solver approaches
+[6.1 Approcci del risolutore
 [165](#solver-approaches-1)]
 
-[6.2 Heuristic approaches
+[6.2 Approcci euristici
 [165](#heuristic-approaches-1)]
 
-[6.3 Design of experiments
+[6.3 Progettazione degli esperimenti
 [165](#design-of-experiments-1)]
 
-[6.4 Discrete Events [165](#discrete-events-1)]
+[6.4 Eventi discreti [165](#discrete-events-1)]
 
-[6.5 Monte Carlo Simulation
+[6.5 Simulazione Monte Carlo
 [165](#monte-carlo-simulation-1)]
 
-[6.6 Agent-Based Modeling
+[6.6 Modellazione basata su agenti
 [165](#agent-based-modeling)]
 
-[6.7 Text Analytics [165](#text-analytics-1)]
+[6.7 Analisi del testo  [165](#text-analytics-1)]
 
-[6.8 Customizable Pretrained Algorithms
+[6.8 Algoritmi pre-addestrati personalizzabili
 [165](#customizable-pretrained-algorithms-1)]
 
 [6.9 Audio Mining [165](#audio-mining-1)]
 
-[6.10 Image Analytics [165](#image-analytics-1)]
+[6.10 Analisi delle immagini  [165](#image-analytics-1)]
 
-[6.11 Geospatial Analysis
+[6.11 Analisi geospaziale
 [165](#geospatial-analysis-1)]
 
-[6.12 Financial Modeling and Econometrics
+[6.12 Modellazione finanziaria ed econometria
 [165](#financial-modeling-and-econometrics)]
 
-[6.13 Decision Modelling
+[6.13 Modellazione delle decisioni
 [165](#decision-modelling-1)]
-[6.14 Decision Management
+
+[6.14 Gestione delle decisioni
 [165](#decision-management-1)]
 
-[6.15 Composite AI [165](#composite-ai-1)]
+[6.15 AI Composita [165](#composite-ai-1)]
 
-[6.16 Stream Processing/Data in Motion
+[6.16 Elaborazione del flusso/Dati in movimento
 [165](#stream-processingdata-in-motion-1)]
 
-[7. Flexibility, Estensibility and Openness
+[7. Flessibilità, estensibilità e apertura
 [166](#flexibility-estensibility-and-openness)]
 
 [7.1 R [166](#r-1)]
@@ -1015,247 +1023,247 @@ Plots, Integrated Gradients, Similarity Based Methods and Others)
 
 [7.4 Java [166](#java-1)]
 
-[7.5 Third-Party Libraries
+[7.5 Librerie di terze parti
 [166](#third-party-libraries-1)]
 
-[7.6 Popular Libraries and Frameworks
+[7.6 Librerie e framework popolari
 [166](#popular-libraries-and-frameworks-1)]
 
-[7.7 Data Science Notebooks
+[7.7 Quaderni di Data Science
 [166](#data-science-notebooks-1)]
 
 [7.7.1 Intro [166](#intro-1)]
 
-[7.7.2 Technologies involved
+[7.7.2 Tecnologie coinvolte
 [167](#technologies-involved)]
 
-[7.7.2.1 Jupyter Notebooks
+[7.7.2.1 Quaderni di Jupyter
 [168](#jupyter-notebooks)]
+
 [7.7.2.2 Jupyter Hub [169](#jupyter-hub)]
 
-[7.7.2.3 Data access [170](#data-access-2)]
+[7.7.2.3 Accesso ai Dati [170](#data-access-2)]
 
-[7.8 Open-Source Data Management Platforms (e.g., Spark and Hadoop)
+[7.8 Piattaforme di gestione dei dati open source (ad esempio, Spark e Hadoop)
 [172](#open-source-data-management-platforms-e.g.-spark-and-hadoop-1)]
 
 [7.9 Docker [172](#docker-1)]
 
-[7.10 Scripting and Embedding Capabilities
+[7.10 Funzionalità di scripting e incorporamento
 [172](#scripting-and-embedding-capabilities-1)]
 
-[7.11 Open-Source Automated Machine Learning Tools
+[7.11 Strumenti di apprendimento automatico automatizzato open source
 [172](#open-source-automated-machine-learning-tools-1)]
 
-[7.12 Code Visibility and Transparency
+[7.12 Visibilità e trasparenza del codice
 [172](#code-visibility-and-transparency-1)]
 
-[8. Performance and Scalability
+[8. Prestazioni e scalabilità
 [160](#performance-and-scalability-1)]
 
-[8.1 In-Database Analytics
+[8.1 Analisi all'interno del database
 [160](#in-database-analytics-1)]
 
-[8.2 Big Data Volume Scalability
+[8.2 Scalabilità del volume dei Big Data
 [160](#big-data-volume-scalability-1)]
 
-[8.3 Real-Time Data and Streams
+[8.3 Dati e flussi in tempo reale
 [160](#real-time-data-and-streams-1)]
 
 [8.4 In-Memory, Hadoop and Spark
 [160](#in-memory-hadoop-and-spark-1)]
 
-[8.5 Support of GPUs [160](#support-of-gpus-1)]
+[8.5 Supporto di GPU [160](#support-of-gpus-1)]
 
-[8.6 Support of Other Specialized Hardware
+[8.6 Supporto di altro hardware specializzato
 [160](#support-of-other-specialized-hardware-1)]1)
 
-[8.7 Algorithmic Efficiency in a Single-Node or MultipleNode Environment
+[8.7 Efficienza algoritmica in un ambiente a nodo singolo o multiplo
 [160](#algorithmic-efficiency-in-a-single-node-or-multiplenode-environment-1)]
 
-[8.8 Cost guidance [160](#cost-guidance-1)]
+[8.8 Orientamento ai costi  [160](#cost-guidance-1)]
 
-[8.9 Performance options for training
+[8.9 Opzioni di prestazione per l'allenamento
 [160](#performance-options-for-training-1)]
 
-[8.10 On-Premises [160](#on-premises-3)]
+[8.10 Locale  [160](#on-premises-3)]
 
-[8.11 Cloud, Hybrid and Multicloud
+[8.11 Cloud, Ibrido e Multicloud
 [160](#cloud-hybrid-and-multicloud-1)]
 
-[9. Delivery [161](#delivery-1)]
+[9. Consegna [161](#delivery-1)]
 
-[9.1 Write-back [161](#write-back-1)]
+[9.1 Riscrittura [161](#write-back-1)]
 
-[9.2 Recoding [161](#recoding-1)]
+[9.2 Ricodifica [161](#recoding-1)]
 
 [9.3 REST APIs [161](#rest-apis-1)]
 
 [9.4 PMML and ONNX [161](#pmml-and-onnx-1)]
 
-[9.5 Augmented Model Deployment and Monitoring
+[9.5 Implementazione e monitoraggio di modelli aumentati
 [161](#augmented-model-deployment-and-monitoring-1)]
 
-[9.6 Containerization [161](#containerization-1)]
+[9.6 Containerizzazione  [161](#containerization-1)]
 
-[9.7 Web deployment [161](#web-deployment-1)]
+[9.7 Distribuzione Web  [161](#web-deployment-1)]
 
-[9.8 Other [161](#other-1)]
+[9.8 Altro [161](#other-1)]
 
-[9.9 Deployment Mode [161](#deployment-mode-1)]
+[9.9 Modalità di distribuzione  [161](#deployment-mode-1)]
 
-[9.10 Parallel Model Deployments
+[9.10 Distribuzioni di modelli paralleli
 [161](#parallel-model-deployments-1)]
 
-[10. Platform and Project Management
+[10. Gestione della piattaforma e del progetto
 [162](#platform-and-project-management-1)]
 
-[10.1 Compliance and Auditing
+[10.1 Conformità e controllo
 [162](#compliance-and-auditing-1)]
 
-[10.2 Object Reuse [162](#object-reuse-1)]
+[10.2 Riutilizzo degli oggetti  [162](#object-reuse-1)]
 
-[10.3 Multiuser Capabilities
+[10.3 Funzionalità multiutente
 [162](#multiuser-capabilities-1)]
 
 [10.4 Debugging and Unit Testing
 [162](#debugging-and-unit-testing-1)]
 
-[10.5 Runtime Optimization
+[10.5 Ottimizzazione del runtime
 [162](#runtime-optimization-1)]
 
-[10.6 Audit and Logs [162](#audit-and-logs-1)]
+[10.6 Controllo e registri  [162](#audit-and-logs-1)]
 
-[10.7 Data Encryption [162](#data-encryption-1)]
+[10.7 Crittografia dei dati  [162](#data-encryption-1)]
 
-[10.8 Securing ML Pipeline
+[10.8 Protezione della pipeline ML
 [162](#securing-ml-pipeline-1)]
 
-[10.9 Client Deployment
+[10.9 Distribuzione client
 [162](#client-deployment-1)]
 
-[11. Model Management [163](#model-management-1)]
+[11. Gestione dei modelli  [163](#model-management-1)]
 
-[11.1 Metadata management
-[163](#metadata-management-2)]
+[11.1 Gestione dei metadati [163](#metadata-management-2)]
 
 [11.2 Traceability [163](#traceability-1)]
 
-[11.3 Champion/Challenger
-[163](#championchallenger-1)]
+[11.3 Campione/Sfidante [163](#championchallenger-1)]
 
-[11.4 Model Telemetry [163](#model-telemetry-1)]
+[11.4 Telemetria del Modello  [163](#model-telemetry-1)]
 
-[11.5 Confusion Matrices
+[11.5 Matrici di Confusione 
 [163](#confusion-matrices-1)]
 
-[11.6 Model Catalog and Reproducibility
-[163](#model-catalog-and-reproducibility-1)]
+[11.6 Catalogo modelli e riproducibilità [163](#model-catalog-and-reproducibility-1)]
 
-[11.7 Technical Performance Tracking
+[11.7 Monitoraggio delle prestazioni tecniche
 [163](#technical-performance-tracking-1)]
 
-[11.8 Business Performance Tracking
+[11.8 Monitoraggio delle prestazioni aziendali
 [163](#business-performance-tracking-1)]
 
 [11.9 Adaptive ML [163](#adaptive-ml-1)]
 
-[11.10 Model Alignment to Business Ojectives
+[11.10 Allineamento del modello agli obiettivi aziendali
 [163](#model-alignment-to-business-ojectives-1)]
 
 [11.11 Governance [163](#governance-1)]
 
-[11.12 Model Licensing Issues
+[11.12 Problemi relativi alle licenze dei modelli
 [163](#model-licensing-issues-1)]
 
-[11.13 Scripting and Automation
+[11.13 Scripting and Automazione
 [163](#scripting-and-automation-1)]
 
-[11.14 Process Monitoring
+[11.14 Monitoraggio dei Processi 
 [163](#process-monitoring-1)]
 
-[11.15 Model Management Across Deployment Modes
+[11.15 Gestione dei modelli tra le modalità di distribuzione
 [163](#model-management-across-deployment-modes-1)]
 
 [12. Explainable AI [164](#explainable-ai-2)]
 
 [12.1 Explainable AI [164](#explainable-ai-3)]
 
-[12.2 Support for Open Source
+[12.2 Supporto per l'Open Source
 [164](#support-for-open-source-1)]
 
 [12.3 Augmented Explainability
 [164](#augmented-explainability-1)]
 
-[12.4 Explainabiliity Techniques (Including Permutation Importance,
-Feature Importance, Sensitivity Analysis, Partial Dependence Plots, ICE
-Plots, Integrated Gradients, Similarity Based Methods and Others)
+[12.4 Tecniche di spiegabilità (inclusa l'importanza della permutazione,
+Importanza delle caratteristiche, analisi di sensibilità, grafici di dipendenza parziale, ICE
+grafici, gradienti integrati, metodi basati sulla somiglianza e altri)
 [164](#explainabiliity-techniques-including-permutation-importance-feature-importance-sensitivity-analysis-partial-dependence-plots-ice-plots-integrated-gradients-similarity-based-methods-and-others-1)]
 
 [12.5 Responsible AI [164](#responsible-ai-1)]
 
-[12.6 Regulations [164](#regulations-1)]
+[12.6 Regulamenti [164](#regulations-1)]
 
-[13. Precanned Solutions
+[13. Soluzioni preconfezionate
 [165](#precanned-solutions-1)]
 
-[13.1 Marketing, Sales and Customer Service
+[13.1 Marketing, Vendite e Servizio Clienti
 [165](#marketing-sales-and-customer-service-1)]
 
-[13.2 Finance, Risk Management and Quality Management
+[13.2 Finanza, gestione del rischio e gestione della qualità
 [165](#finance-risk-management-and-quality-management-1)]
 
-[13.3 Internet of Things
+[13.3 Internet delle cose
 [165](#internet-of-things-1)]
 
-[13.4 Supply Chain/Logistics
+[13.4 Catena di approvvigionamento/Logistica
 [165](#supply-chainlogistics-1)]
 
-[13.5 Back-Office Analytics
+[13.5 Analisi di back-office
 [165](#back-office-analytics-1)]
 
 [13.6 IT Operations [165](#it-operations-1)]
 
 [13.7 Cybersecurity [165](#cybersecurity-1)]
 
-[13.8 Anomaly Detection
+[13.8 Rilevamento anomalie
 [165](#anomaly-detection-1)]
 
-[13.9 What-If Scenarios
+[13.9 Scenari ipotetici
 [165](#what-if-scenarios-1)]
 
-[14. Collaboration [166](#collaboration-1)]
+[14. Collaborazione [166](#collaboration-1)]
 
-[14.1 Collaboration Across All Modeling Steps for Distributed Teams
+[14.1 Collaborazione in tutte le fasi di modellazione per i team distribuiti
 [166](#collaboration-across-all-modeling-steps-for-distributed-teams-1)]
 
-[14.2 Discussion Threads
+[14.2 Discussioni
 [166](#discussion-threads-1)]
 
-[14.3 Ratings and Recommendations
+[14.3 Valutazioni e raccomandazioni
 [166](#ratings-and-recommendations-1)]
 
 [14.4 Marketplace/Hub [166](#marketplacehub-1)]
 
-[14.5 Multipersona Collaboration
+[14.5 Collaborazione multipersona
 [166](#multipersona-collaboration-1)]
 
 ### [Part V [167](#part-v)]
 
-[Conclusions [167](#conclusions)]
+[Conclusioni [167](#conclusions)]
 
-[Acronyms [168](#acronyms)]
+[Acronimi [168](#acronyms)]
 
-[Dictionary [169](#dictionary)]
+[Dizionario [169](#dictionary)]
 
-[Publications [170](#publications)]
+[Publicazioni [170](#publications)]
 
-[Book Chapters [170](#book-chapters)]
+[Capitoli del Libro [170](#book-chapters)]
 
-[Conference Papers [171](#conference-papers)]
+[Atti di Conferenza [171](#conference-papers)]
 
-[Journal Papers [172](#journal-papers)]
+[Articoli di Giornale [172](#journal-papers)]
 
 #
+
+<!-- FINO A  QUI -->
 
 # **Part I**    
 
@@ -5466,7 +5474,9 @@ BDA services.
 
 ## Time Series Analysis
 
-## 5.3 Deep Learning (Deep Neural Nets) 5.4 Reinforcement Learning
+## Deep Learning (Deep Neural Nets) 
+
+## Reinforcement Learning
 
 ## Classification and Regression Trees
 
